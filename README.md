@@ -1,12 +1,12 @@
-![Banner](https://raw.githubusercontent.com/michelderooij/michelderooij/assets/master/Metro_v6_Banner_GitHub.jpg)
+![Banner](https://raw.githubusercontent.com/michelderooij/michelderooij/master/assets/Metro_v6_Banner_GitHub.jpg)
 
 I'm a Microsoft MVP for Office Apps and Services. I specialize on Exchange Server in conjunction with Azure Active Directory, Teams and Microsoft 365. I have a big PowerShell affection as well and love to create tools and processes to automate.
 
 You can reach out to me with questions or comments on code or blogs, but also if you are looking for someone for authoring or speaking engagements.
 
 How can you reach out to me:
-* <img src=https://raw.githubusercontent.com/michelderooij/michelderooij/assets/master/icon_twitter.jpg> [Twitter](https://twitter.com/mderooij)
-* <img src="https://raw.githubusercontent.com/michelderooij/michelderooij/assets/master/icon_linkedin.jpg> [LinkedIn](http://nl.linkedin.com/in/michelderooij)
-* <img src="https://raw.githubusercontent.com/michelderooij/michelderooij/assets/master/icon_mail.jpg> Through [Contact Form](https://eightwone.com/contact/)
-* <img src="https://raw.githubusercontent.com/michelderooij/michelderooij/assets/master/icon_github1.png> [GitHub](https://github.com/michelderooij)
-* <img src="https://raw.githubusercontent.com/michelderooij/michelderooij/assets/master/rss-button.png> I blog on [eightwone.com](https://eightwone.com/)
+* <img src=https://raw.githubusercontent.com/michelderooij/michelderooij/master/assets/icon_twitter.jpg> [Twitter](https://twitter.com/mderooij)
+* <img src="https://raw.githubusercontent.com/michelderooij/michelderooij/master/assets/icon_linkedin.jpg> [LinkedIn](http://nl.linkedin.com/in/michelderooij)
+* <img src="https://raw.githubusercontent.com/michelderooij/michelderooij/master/assets/icon_mail.jpg> Through [Contact Form](https://eightwone.com/contact/)
+* <img src="https://raw.githubusercontent.com/michelderooij/michelderooij/master/assets/icon_github1.png> [GitHub](https://github.com/michelderooij)
+* <img src="https://raw.githubusercontent.com/michelderooij/michelderooij/master/assets/rss-button.png> I blog on [eightwone.com](https://eightwone.com/)
