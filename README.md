@@ -11,5 +11,4 @@ How can you reach out to me:
 * [GitHub](https://github.com/michelderooij)
 * [Blog](https://eightwone.com)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=michelderooij&theme=default&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=michelderooij&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=michelderooij&theme=dark&show_icons=true&count_private=true)
