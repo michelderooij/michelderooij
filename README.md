@@ -5,7 +5,7 @@ I'm a Microsoft MVP for Office Apps and Services. I focus primarily on Microsoft
 How can you reach out to me:
 * I am on Twitter at https://twitter.com/mderooij
 * I blog for over 10 years at https://eightwone.com
-* You can find my professional resume on http://nl.linkedin.com/in/michelderooij
+* You can find me on LinkedIn at http://nl.linkedin.com/in/michelderooij
 * You can contact me via the contact form at https://eightwone.com/contact
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=michelderooij&theme=dark&show_icons=true&count_private=true)
