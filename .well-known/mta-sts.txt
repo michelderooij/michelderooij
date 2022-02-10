@@ -1,0 +1,4 @@
+version: STSv1
+mode: testing
+max_age: 10368000
+mx: spf.protection.outlook.com
