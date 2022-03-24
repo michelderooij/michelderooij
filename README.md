@@ -16,4 +16,4 @@ How can you reach out to me:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=michelderooij&theme=dark&show_icons=true&count_private=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=michelderooij&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
