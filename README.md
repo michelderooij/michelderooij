@@ -8,6 +8,11 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Security Updates Exchange 2013-2019 &lpar;Mar2022&rpar;](https://eightwone.com/2022/03/08/security-updates-exchange-2013-2019-mar2022/)
+- [Security Updates Exchange 2013-2019 &lpar;Jan2022&rpar;](https://eightwone.com/2022/01/11/security-updates-exchange-2013-2019-jan2022/)
+- [Annual Report 2021](https://eightwone.com/2022/01/09/annual-report-2021/)
+- [Managed AutoResponder Notifications](https://eightwone.com/2021/12/13/managed-autoresponder-notificiation/)
+- [Security Updates Exchange 2013-2019 &lpar;Nov2021&rpar;](https://eightwone.com/2021/11/09/security-updates-exchange-2013-2019-nov2021/)
 <!-- BLOG-POST-LIST:END -->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=michelderooij&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
