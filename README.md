@@ -15,4 +15,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [Annual Report 2021](https://eightwone.com/2022/01/09/annual-report-2021/)
 - [Managed AutoResponder Notifications](https://eightwone.com/2021/12/13/managed-autoresponder-notificiation/)
 - [Security Updates Exchange 2013-2019 &lpar;Nov2021&rpar;](https://eightwone.com/2021/11/09/security-updates-exchange-2013-2019-nov2021/)
+- [Security Updates Exchange 2013-2019 &lpar;Oct2021&rpar;](https://eightwone.com/2021/10/12/security-updates-exchange-2013-2019-oct2021/)
+- [Exchange Updates – September 2021](https://eightwone.com/2021/09/28/exchange-updates-september-2021/)
+- [Unarchiving Mailbox Items](https://eightwone.com/2021/08/14/unarchiving-mailbox-items/)
+- [MVPs around the World &lpar;2021&rpar;](https://eightwone.com/2021/07/29/mvps-around-the-world-2021/)
+- [Security Updates Exchange 2013-2019 &lpar;Jul2021&rpar;](https://eightwone.com/2021/07/13/security-updates-exchange-2013-2019-jun2021/)
 <!-- BLOG-POST-LIST:END -->
