@@ -10,6 +10,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Last Exchange Server](https://eightwone.com/2022/05/05/the-last-exchange-server/)
 - [Exchange Updates &lpar;and more&rpar; – H1 2022](https://eightwone.com/2022/04/20/exchange-updates-and-more-h1-2022/)
 - [Basic Authentication: End of an Era](https://eightwone.com/2022/03/31/basic-authentication-end-of-an-era/)
 - [The Missing Cmdlets Mystery](https://eightwone.com/2022/03/29/the-missing-cmdlets-mystery/)
@@ -19,5 +20,4 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [Managed AutoResponder Notifications](https://eightwone.com/2021/12/13/managed-autoresponder-notificiation/)
 - [Security Updates Exchange 2013-2019 &lpar;Nov2021&rpar;](https://eightwone.com/2021/11/09/security-updates-exchange-2013-2019-nov2021/)
 - [Security Updates Exchange 2013-2019 &lpar;Oct2021&rpar;](https://eightwone.com/2021/10/12/security-updates-exchange-2013-2019-oct2021/)
-- [Exchange Updates – September 2021](https://eightwone.com/2021/09/28/exchange-updates-september-2021/)
 <!-- BLOG-POST-LIST:END -->
