@@ -10,6 +10,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Analyzing Exchange Online scripts](https://eightwone.com/2022/05/25/analyzing-exchange-online-scripts/)
 - [Security Updates Exchange 2013-2019 &lpar;May2022&rpar;](https://eightwone.com/2022/05/10/security-updates-exchange-2013-2019-may2022/)
 - [The Last Exchange Server](https://eightwone.com/2022/05/05/the-last-exchange-server/)
 - [Exchange Updates &lpar;and more&rpar; – H1 2022](https://eightwone.com/2022/04/20/exchange-updates-and-more-h1-2022/)
@@ -19,5 +20,4 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [Security Updates Exchange 2013-2019 &lpar;Jan2022&rpar;](https://eightwone.com/2022/01/11/security-updates-exchange-2013-2019-jan2022/)
 - [Annual Report 2021](https://eightwone.com/2022/01/09/annual-report-2021/)
 - [Managed AutoResponder Notifications](https://eightwone.com/2021/12/13/managed-autoresponder-notificiation/)
-- [Security Updates Exchange 2013-2019 &lpar;Nov2021&rpar;](https://eightwone.com/2021/11/09/security-updates-exchange-2013-2019-nov2021/)
 <!-- BLOG-POST-LIST:END -->
