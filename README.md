@@ -15,9 +15,4 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [Exchange Announcements](https://eightwone.com/2022/06/04/exchange-announcements/)
 - [Analyzing Exchange Online scripts](https://eightwone.com/2022/05/25/analyzing-exchange-online-scripts/)
 - [Security Updates Exchange 2013-2019 &lpar;May2022&rpar;](https://eightwone.com/2022/05/10/security-updates-exchange-2013-2019-may2022/)
-- [The Last Exchange Server](https://eightwone.com/2022/05/05/the-last-exchange-server/)
-- [Exchange Updates &lpar;and more&rpar; – H1 2022](https://eightwone.com/2022/04/20/exchange-updates-and-more-h1-2022/)
-- [Basic Authentication: End of an Era](https://eightwone.com/2022/03/31/basic-authentication-end-of-an-era/)
-- [The Missing Cmdlets Mystery](https://eightwone.com/2022/03/29/the-missing-cmdlets-mystery/)
-- [Security Updates Exchange 2013-2019 &lpar;Mar2022&rpar;](https://eightwone.com/2022/03/08/security-updates-exchange-2013-2019-mar2022/)
 <!-- BLOG-POST-LIST:END -->
