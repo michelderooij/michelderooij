@@ -10,9 +10,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MEC Airlift 2022 #WeAreMEC](https://eightwone.com/2022/09/12/mec-airlift-2022-wearemec/)
 - [Security Updates Exchange 2013-2019 &lpar;Aug2022&rpar;](https://eightwone.com/2022/08/09/security-updates-exchange-2013-2019-aug2022/)
 - [MVP’s around the World &lpar;2022&rpar;](https://eightwone.com/2022/07/08/mvps-around-the-world-2022/)
 - [Exchange Announcements](https://eightwone.com/2022/06/04/exchange-announcements/)
 - [Analyzing Exchange Online scripts](https://eightwone.com/2022/05/25/analyzing-exchange-online-scripts/)
-- [Security Updates Exchange 2013-2019 &lpar;May2022&rpar;](https://eightwone.com/2022/05/10/security-updates-exchange-2013-2019-may2022/)
 <!-- BLOG-POST-LIST:END -->
