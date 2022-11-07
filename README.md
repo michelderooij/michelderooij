@@ -8,7 +8,7 @@ supporting tools and automate processes for admins and devs.
 <a href="https://eightwone.com"><img src="https://img.shields.io/badge/-Blog-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog Badge"/></a>
 <a href="https://twitter.com/mderooij"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 <a href="https://nl.linkedin.com/in/michelderooij"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a ref="me" href="https://mastodon.social/@mderooij"><img src="https://img.shields.io/badge/-Mastodon-blueviolet?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/></a>
+<a rel="me" href="https://mastodon.social/@mderooij"><img src="https://img.shields.io/badge/-Mastodon-blueviolet?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/></a>
 
 You can contact me via the contact form at https://eightwone.com/contact.
 
