@@ -4,7 +4,7 @@
 
 I'm a Microsoft MVP for Microsoft 365 Apps and Services. I focus primarily on Microsoft Exchange Server and Exchange Online, 
 in combination with Azure Active Directory, or other related workloads. I have a big PowerShell affection, and love to create 
-tools and automate processes for admins and devs out there.
+supporting tools and automate processes for admins and devs.
 
 <a href="https://eightwone.com"><img src="https://img.shields.io/badge/-Blog-blue" alt="Blog Badge"/></a>
 <a href="https://twitter.com/mderooij"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
