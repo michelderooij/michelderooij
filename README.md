@@ -17,9 +17,14 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Temporary Post Used For Theme Detection &lpar;ad9e5f70-7b02-495d-9283-eab70bf93105 – 3bfe001a-32de-4114-a6b4-4005b770f6d7&rpar;](https://eightwone.com/2023/02/28/temporary-post-used-for-theme-detection-ad9e5f70-7b02-495d-9283-eab70bf93105-3bfe001a-32de-4114-a6b4-4005b770f6d7/)
 - [Security Updates Exchange 2013-2019 &lpar;Feb2023&rpar;](https://eightwone.com/2023/02/15/security-updates-exchange-2013-2019-feb2023/)
 - [Security Updates Exchange 2013-2019 &lpar;Jan2023&rpar;](https://eightwone.com/2023/01/10/security-updates-exchange-2013-2019-jan2023/)
 - [Security Updates Exchange 2013-2019 &lpar;Nov2022&rpar;](https://eightwone.com/2022/11/08/security-updates-exchange-2013-2019-nov2022/)
 - [Using PowerAutomate to echo tweets on Mastodon](https://eightwone.com/2022/11/07/using-powerautomate-to-echo-tweets-to-mastodon/)
+- [Security Updates Exchange 2013-2019 &lpar;Oct2022&rpar;](https://eightwone.com/2022/10/11/security-updates-exchange-2013-2019-oct2022/)
+- [Exchange 0-days: CVE-2022-41040 &amp; CVE-2022-41082](https://eightwone.com/2022/10/03/exchange-0-day/)
+- [MEC 2022 Sessions Downloading](https://eightwone.com/2022/09/19/mec-2022-sessions-downloading/)
+- [MEC: Bringing your Exchange Scripts into the Modern Age](https://eightwone.com/2022/09/15/mec-bringing-your-exchange-scripts-into-the-modern-age/)
+- [MEC Airlift 2022 #WeAreMEC](https://eightwone.com/2022/09/12/mec-airlift-2022-wearemec/)
+- [Security Updates Exchange 2013-2019 &lpar;Aug2022&rpar;](https://eightwone.com/2022/08/09/security-updates-exchange-2013-2019-aug2022/)
 <!-- BLOG-POST-LIST:END -->
