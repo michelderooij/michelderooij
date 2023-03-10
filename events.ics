@@ -1,8 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:EighTwOne.com Events Calendar
+PRODID:Events (by EighTwOne.com)
 METHOD:PUBLISH
+X-APPLE-CALENDAR-COLOR:#DC0E0E
+X-OUTLOOK-COLOR:#DC0E0E
+X-FUNAMBOL-COLOR:#DC0E0E
+X-WR-CALNAME:Events (by EighTwOne.com)
 X-PUBLISHED-TTL:P1D
+X-WR-TIMEZONE:"Pacific Standard Time"
+X-LIC-LOCATION:"Pacific Standard Time"
 BEGIN:VTIMEZONE
 TZID:Pacific Standard Time
 BEGIN:STANDARD
@@ -26,8 +32,8 @@ SEQUENCE:0
 TRANSP:OPAQUE
 DTEND;TZID="Pacific Standard Time":20230402T000000
 ORGANIZER:Microsoft
-URL:https://techcommunity.microsoft.com/t5/exchange-team-blog/deprecation-of-remote-powershell-rps-for-new-exchange-online/ba-p/3761567?WT.mc_id=M365-MVP-5000284
-SUMMARY:RPS deprecation new EXO tenants
+DESCRIPTION:RPS deprecation new EXO tenants \n
+        https://techcommunity.microsoft.com/t5/exchange-team-blog/deprecation-of-remote-powershell-rps-for-new-exchange-online/ba-p/3761567?WT.mc_id=M365-MVP-5000284
 CLASS:PUBLIC
 DTSTAMP:20230310T012900Z
 CREATED:20230310T012900Z
@@ -41,8 +47,8 @@ SEQUENCE:0
 TRANSP:OPAQUE
 DTEND;TZID="Pacific Standard Time":20230602T000000
 ORGANIZER:Microsoft
-URL:https://techcommunity.microsoft.com/t5/exchange-team-blog/announcing-deprecation-of-remote-powershell-rps-protocol-in/ba-p/3695597?WT.mc_id=M365-MVP-5000284
-SUMMARY:RPS deprecation existing EXO tenants
+DESCRIPTION:RPS deprecation existing EXO tenants \n
+        https://techcommunity.microsoft.com/t5/exchange-team-blog/announcing-deprecation-of-remote-powershell-rps-protocol-in/ba-p/3695597?WT.mc_id=M365-MVP-5000284
 CLASS:PUBLIC
 DTSTAMP:20230310T012900Z
 CREATED:20230310T012900Z
@@ -56,8 +62,8 @@ SEQUENCE:0
 TRANSP:OPAQUE
 DTEND;TZID="Pacific Standard Time":20230412T000000
 ORGANIZER:Microsoft
-URL:https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-server-2013-end-of-support-approaching-fast/ba-p/3741491?WT.mc_id=M365-MVP-5000284
-SUMMARY:Exchange 2013 End of Support
+DESCRIPTION:Exchange 2013 End of Support \n
+        https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-server-2013-end-of-support-approaching-fast/ba-p/3741491?WT.mc_id=M365-MVP-5000284
 CLASS:PUBLIC
 DTSTAMP:20230310T012900Z
 CREATED:20230310T012900Z
@@ -71,8 +77,8 @@ SEQUENCE:0
 TRANSP:OPAQUE
 DTEND;TZID="Pacific Standard Time":20230702T000000
 ORGANIZER:Microsoft
-URL:https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-change-management-simplified/ba-p/2967456?WT.mc_id=M365-MVP-5000284
-SUMMARY:MSOnline/AzureAD End of Support
+DESCRIPTION:MSOnline/AzureAD End of Support \n
+        https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-change-management-simplified/ba-p/2967456?WT.mc_id=M365-MVP-5000284
 CLASS:PUBLIC
 DTSTAMP:20230310T012900Z
 CREATED:20230310T012900Z
@@ -86,8 +92,8 @@ SEQUENCE:0
 TRANSP:OPAQUE
 DTEND;TZID="Pacific Standard Time":20230402T000000
 ORGANIZER:Microsoft
-URL:https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-change-management-simplified/ba-p/2967456?WT.mc_id=M365-MVP-5000284
-SUMMARY:AzureAD/MSOnline licensing API retires
+DESCRIPTION:AzureAD/MSOnline licensing API retires \n
+        https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-change-management-simplified/ba-p/2967456?WT.mc_id=M365-MVP-5000284
 CLASS:PUBLIC
 DTSTAMP:20230310T012900Z
 CREATED:20230310T012900Z
