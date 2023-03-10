@@ -62,7 +62,7 @@ SEQUENCE:0
 TRANSP:OPAQUE
 DTEND;TZID="Pacific Standard Time":20230412T000000
 ORGANIZER:Microsoft
-SUMMARY:Exchange 2013 End of Support \n
+SUMMARY:Exchange 2013 End of Support
 DESCRIPTION:https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-server-2013-end-of-support-approaching-fast/ba-p/3741491?WT.mc_id=M365-MVP-5000284
 CLASS:PUBLIC
 DTSTAMP:20230310T012900Z
@@ -77,7 +77,7 @@ SEQUENCE:0
 TRANSP:OPAQUE
 DTEND;TZID="Pacific Standard Time":20230702T000000
 ORGANIZER:Microsoft
-SUMMARY:MSOnline/AzureAD End of Support \n
+SUMMARY:MSOnline/AzureAD End of Support
 DESCRIPTION:https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-change-management-simplified/ba-p/2967456?WT.mc_id=M365-MVP-5000284
 CLASS:PUBLIC
 DTSTAMP:20230310T012900Z
@@ -92,7 +92,7 @@ SEQUENCE:0
 TRANSP:OPAQUE
 DTEND;TZID="Pacific Standard Time":20230402T000000
 ORGANIZER:Microsoft
-SUMMARY:AzureAD/MSOnline licensing API retires \n
+SUMMARY:AzureAD/MSOnline licensing API retires
 DESCRIPTION:https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-change-management-simplified/ba-p/2967456?WT.mc_id=M365-MVP-5000284
 CLASS:PUBLIC
 DTSTAMP:20230310T012900Z
