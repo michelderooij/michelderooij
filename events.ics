@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:EighTwOne Events Calendar
+X-WR-TIMEZONE:America/Los_Angeles
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:c591fe2b36fd6c68ec13a53184953e21
+DTSTART;TZID=America/Los_Angeles:20230401T000000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=America/Los_Angeles:20230401T000000
+URL:https://techcommunity.microsoft.com/t5/exchange-team-blog/deprecation-of-remote-powershell-rps-for-new-exchange-online/ba-p/3761567?WT.mc_id=M365-MVP-5000284
+SUMMARY:RPS deprecation new Exchange Online tenants
+CLASS:PUBLIC
+DTSTAMP:20230216T180606Z
+CREATED:20230310T012900Z
+LAST-MODIFIED:20230310T012900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:c591fe2b36fd6c68ec13a53184953e21
+DTSTART;TZID=America/Los_Angeles:20230601T000000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=America/Los_Angeles:20230601T000000
+URL:https://techcommunity.microsoft.com/t5/exchange-team-blog/announcing-deprecation-of-remote-powershell-rps-protocol-in/ba-p/3695597?WT.mc_id=M365-MVP-5000284
+SUMMARY:RPS deprecation existing Exchange Online tenants
+CLASS:PUBLIC
+DTSTAMP:20230216T180606Z
+CREATED:20230310T012900Z
+LAST-MODIFIED:20230310T012900Z
+END:VEVENT
+END:VCALENDAR
