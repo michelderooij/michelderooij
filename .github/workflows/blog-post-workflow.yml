@@ -18,4 +18,5 @@ jobs:
           feed_list: 'https://github.com/michelderooij.atom,https://eightwone.com/feed/'
           max_post_count: '10'
           template: '[$date $title]($url)'
+          tag_post_pre_newline: 'true'
           date_format: 'isoDate'
