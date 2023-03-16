@@ -1,83 +1,106 @@
 BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
 VERSION:2.0
-PRODID:Events (by EighTwOne.com)
+CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-APPLE-CALENDAR-COLOR:#DC0E0E
-X-OUTLOOK-COLOR:#DC0E0E
-X-FUNAMBOL-COLOR:#DC0E0E
-X-WR-CALNAME:Events (by EighTwOne.com)
-X-PUBLISHED-TTL:P1D
-X-WR-TIMEZONE:"Pacific Standard Time"
-X-LIC-LOCATION:"Pacific Standard Time"
-BEGIN:VTIMEZONE
-TZID:Pacific Standard Time
-BEGIN:STANDARD
-DTSTART:16011104T020000
-RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0800
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:16010311T020000
-RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
-TZOFFSETFROM:-0800
-TZOFFSETTO:-0700
-END:DAYLIGHT
-END:VTIMEZONE
-
+X-WR-CALNAME:Events
+X-WR-TIMEZONE:America/Vancouver
 BEGIN:VEVENT
-UID:202f2d2403e541d891554cf5e26b5ddb
-DTSTART;TZID="Pacific Standard Time":20230401T000000
-DURATION:PT1D
+DTSTART;VALUE=DATE:20230701
+DTEND;VALUE=DATE:20230702
+DTSTAMP:20230316T130112Z
+UID:6h7tluvceo4dsmot864kur2i4a@google.com
+CREATED:20230316T124002Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https://techcommunity.mic
+ rosoft.com/t5/exchange-team-blog/announcing-deprecation-of-remote-powershel
+ l-rps-protocol-in/ba-p/3695597?WT.mc_id%3DM365-MVP-5000284&amp\;sa=D&amp\;s
+ ource=calendar&amp\;usd=2&amp\;usg=AOvVaw0Pnr4l9OrReOjhvoHXWV6x" target="_b
+ lank">https://techcommunity.microsoft.com/t5/exchange-team-blog/announcing-
+ deprecation-of-remote-powershell-rps-protocol-in/ba-p/3695597?WT.mc_id=M365
+ -MVP-5000284</a>
+LAST-MODIFIED:20230316T124002Z
+LOCATION:
 SEQUENCE:0
-TRANSP:OPAQUE
-ORGANIZER:Microsoft
-SUMMARY:RPS deprecation new EXO tenants
-DESCRIPTION:https://techcommunity.microsoft.com/t5/exchange-team-blog/deprecation-of-remote-powershell-rps-for-new-exchange-online/ba-p/3761567?WT.mc_id=M365-MVP-5000284
-END:VEVENT
-
-BEGIN:VEVENT
-UID:7839e7b2f50446af9538bc3bd6289dc6
-DTSTART;TZID="Pacific Standard Time":20230701T000000
-DURATION:PT1D
-SEQUENCE:0
-TRANSP:OPAQUE
-ORGANIZER:Microsoft
+STATUS:CONFIRMED
 SUMMARY:RPS deprecation existing EXO tenants
-DESCRIPTION:https://techcommunity.microsoft.com/t5/exchange-team-blog/announcing-deprecation-of-remote-powershell-rps-protocol-in/ba-p/3695597?WT.mc_id=M365-MVP-5000284
-END:VEVENT
-
-BEGIN:VEVENT
-UID:787528a450e743bdb277ec0b0fcf42f7
-DTSTART;TZID="Pacific Standard Time":20230411T000000
-DURATION:PT1D
-SEQUENCE:0
 TRANSP:OPAQUE
-ORGANIZER:Microsoft
-SUMMARY:Exchange 2013 End of Support
-DESCRIPTION:https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-server-2013-end-of-support-approaching-fast/ba-p/3741491?WT.mc_id=M365-MVP-5000284
 END:VEVENT
-
 BEGIN:VEVENT
-UID:a70ee30e0a934a39b0214c32ab6bdfa8
-DTSTART;TZID="Pacific Standard Time":20230701T000000
-DURATION:PT1D
+DTSTART;VALUE=DATE:20230701
+DTEND;VALUE=DATE:20230702
+DTSTAMP:20230316T130112Z
+UID:26bco4bklitmpqjovgpn9on1ks@google.com
+CREATED:20230316T123954Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https://techcommunity.mic
+ rosoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-change-management-simp
+ lified/ba-p/2967456?WT.mc_id%3DM365-MVP-5000284&amp\;sa=D&amp\;source=calen
+ dar&amp\;usd=2&amp\;usg=AOvVaw3ZzYhMI6a_QvVNux9Prf3D" target="_blank">https
+ ://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-ch
+ ange-management-simplified/ba-p/2967456?WT.mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230316T123954Z
+LOCATION:
 SEQUENCE:0
-TRANSP:OPAQUE
-ORGANIZER:Microsoft
+STATUS:CONFIRMED
 SUMMARY:MSOnline/AzureAD modules End of Support
-DESCRIPTION:https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-change-management-simplified/ba-p/2967456?WT.mc_id=M365-MVP-5000284
-END:VEVENT
-
-BEGIN:VEVENT
-UID:f74f820cbc7c45e691153527937ee79b
-DTSTART;TZID="Pacific Standard Time":20230401T000000
-DURATION:PT1D
-SEQUENCE:0
 TRANSP:OPAQUE
-ORGANIZER:Microsoft
-SUMMARY:AzureAD/MSOnline licensing API retires
-DESCRIPTION:https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-change-management-simplified/ba-p/2967456?WT.mc_id=M365-MVP-5000284
 END:VEVENT
-
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230411
+DTEND;VALUE=DATE:20230412
+DTSTAMP:20230316T130112Z
+UID:78u6t1t34eo042sb45e14ogqs5@google.com
+CREATED:20230316T123946Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https://techcommunity.mic
+ rosoft.com/t5/exchange-team-blog/exchange-server-2013-end-of-support-approa
+ ching-fast/ba-p/3741491?WT.mc_id%3DM365-MVP-5000284&amp\;sa=D&amp\;source=c
+ alendar&amp\;usd=2&amp\;usg=AOvVaw1M4wpJI80lY6YLjhlC7OYJ" target="_blank">h
+ ttps://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-server-20
+ 13-end-of-support-approaching-fast/ba-p/3741491?WT.mc_id=M365-MVP-5000284</
+ a>
+LAST-MODIFIED:20230316T123946Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exchange 2013 End of Support
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230401
+DTEND;VALUE=DATE:20230402
+DTSTAMP:20230316T130112Z
+UID:3qro02sr6qr5l70fkb59250ran@google.com
+CREATED:20230316T123937Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https://techcommunity.mic
+ rosoft.com/t5/exchange-team-blog/deprecation-of-remote-powershell-rps-for-n
+ ew-exchange-online/ba-p/3761567?WT.mc_id%3DM365-MVP-5000284&amp\;sa=D&amp\;
+ source=calendar&amp\;usd=2&amp\;usg=AOvVaw1DiPd1Z-LmKwvCzblDAhEe" target="_
+ blank">https://techcommunity.microsoft.com/t5/exchange-team-blog/deprecatio
+ n-of-remote-powershell-rps-for-new-exchange-online/ba-p/3761567?WT.mc_id=M3
+ 65-MVP-5000284</a>
+LAST-MODIFIED:20230316T123937Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RPS deprecation new EXO tenants
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230401
+DTEND;VALUE=DATE:20230402
+DTSTAMP:20230316T130112Z
+UID:1mif22lcorglevbgueg36qedrt@google.com
+CREATED:20230316T123927Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https://techcommunity.mic
+ rosoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-change-management-simp
+ lified/ba-p/2967456?WT.mc_id%3DM365-MVP-5000284&amp\;sa=D&amp\;source=calen
+ dar&amp\;usd=2&amp\;usg=AOvVaw3ZzYhMI6a_QvVNux9Prf3D" target="_blank">https
+ ://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-ch
+ ange-management-simplified/ba-p/2967456?WT.mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230316T123927Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AzureAD/MSOnline licensing API retires
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
