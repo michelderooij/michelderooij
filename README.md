@@ -17,13 +17,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
-- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/60f8f15a28...bf60ef0fe9)
+- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/6d32e7e393...96c63a6a16)
 - [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/1a3f922eb0...526dc5890d)
 - [Security Updates Exchange 2013-2019 &lpar;Mar2023&rpar;](https://eightwone.com/2023/03/14/security-updates-exchange-2013-2019-mar2023/)
-- [michelderooij commented on issue michelderooij/Remove-DuplicateItems#9](https://github.com/michelderooij/Remove-DuplicateItems/issues/9#issuecomment-1463000698)
-- [michelderooij pushed to master in michelderooij/Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/compare/90c5b5a756...2b950f5f31)
-- [michelderooij pushed to main in michelderooij/Convert-DistributionGroup](https://github.com/michelderooij/Convert-DistributionGroup/compare/df9e492c06...482fb66e14)
-- [michelderooij created a branch main in michelderooij/Convert-DistributionGroup](https://github.com/michelderooij/Convert-DistributionGroup/compare/main)
 - [Security Updates Exchange 2013-2019 &lpar;Feb2023&rpar;](https://eightwone.com/2023/02/15/security-updates-exchange-2013-2019-feb2023/)
 - [Security Updates Exchange 2013-2019 &lpar;Jan2023&rpar;](https://eightwone.com/2023/01/10/security-updates-exchange-2013-2019-jan2023/)
 - [Security Updates Exchange 2013-2019 &lpar;Nov2022&rpar;](https://eightwone.com/2022/11/08/security-updates-exchange-2013-2019-nov2022/)
