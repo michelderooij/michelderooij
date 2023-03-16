@@ -20,3 +20,4 @@ jobs:
           template: '[$date $title]($url)'
           tag_post_pre_newline: 'true'
           date_format: 'isoDate'
+          tag_post_pre_newline: 'true'
