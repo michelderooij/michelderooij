@@ -15,7 +15,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=michelderooij&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Updates
+## Recent updates
 <!-- BLOG-POST-LIST:START -->
 - [Convert-DistributionGroup](https://github.com/michelderooij/Convert-DistributionGroup)
 - [CSS-Exchange](https://github.com/michelderooij/CSS-Exchange)
