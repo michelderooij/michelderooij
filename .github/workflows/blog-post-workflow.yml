@@ -1,13 +1,15 @@
-name: Latest GitHub updates workflow
+name: Latest blog post workflow
 on:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
-  workflow_dispatch:
-    # Nothing to input
+  workflow_dispath:
+permissions:
+  contents: write
+
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest updates
+    name: Update this repo's README with latest activities 
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -15,5 +17,7 @@ jobs:
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: 'https://rsshub.app/github/repos/michelderooij'
+          feed_list: 'https://github.com/michelderooij.atom'
           max_post_count: '10'
+          template: '[$date $title]($url)'
+          date_format: 'isoDate'

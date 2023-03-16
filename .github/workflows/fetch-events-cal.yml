@@ -1,0 +1,12 @@
+name: Fetch .ICS with EX/EXO Events
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispath:
+
+jobs:
+  update-events-ics:
+    - name: Update ics in this repo with EX/EXO events
+      run: curl https://calendar.google.com/calendar/ical/b56cec28cd35e691394901c46fe425fd378b12d1a71e6dae8df524fa358f58e8%40group.calendar.google.com/public/basic.ics -o /events.ics
+    
