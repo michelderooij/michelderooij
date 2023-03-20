@@ -17,7 +17,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
-- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/dc28083356...f663f05b50)
+- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/e53a5d6d18...41baa8e133)
 - [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/1a3f922eb0...526dc5890d)
 - [Security Updates Exchange 2013-2019 &lpar;Mar2023&rpar;](https://eightwone.com/2023/03/14/security-updates-exchange-2013-2019-mar2023/)
 - [Security Updates Exchange 2013-2019 &lpar;Feb2023&rpar;](https://eightwone.com/2023/02/15/security-updates-exchange-2013-2019-feb2023/)
