@@ -17,11 +17,13 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [michelderooij closed an issue in michelderooij/Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/issues/9)
+- [michelderooij commented on issue michelderooij/Remove-DuplicateItems#9](https://github.com/michelderooij/Remove-DuplicateItems/issues/9#issuecomment-1482694107)
+- [michelderooij commented on issue michelderooij/Get-EventSession#25](https://github.com/michelderooij/Get-EventSession/issues/25#issuecomment-1482692645)
 - [michelderooij reopened an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/25)
 - [michelderooij closed an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/28)
 - [michelderooij commented on issue michelderooij/Get-EventSession#28](https://github.com/michelderooij/Get-EventSession/issues/28#issuecomment-1482679620)
 - [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/2c065f2e07...3732b3a2cc)
-- [michelderooij commented on issue michelderooij/Get-EventSession#25](https://github.com/michelderooij/Get-EventSession/issues/25#issuecomment-1482675026)
 - [michelderooij merged a pull request in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/pull/27)
 - [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/e53a5d6d18...41baa8e133)
 - [Security Updates Exchange 2013-2019 &lpar;Mar2023&rpar;](https://eightwone.com/2023/03/14/security-updates-exchange-2013-2019-mar2023/)
