@@ -17,8 +17,15 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
-- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/dc28083356...f663f05b50)
-- [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/1a3f922eb0...526dc5890d)
+- [michelderooij closed an issue in michelderooij/Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/issues/9)
+- [michelderooij commented on issue michelderooij/Remove-DuplicateItems#9](https://github.com/michelderooij/Remove-DuplicateItems/issues/9#issuecomment-1482694107)
+- [michelderooij commented on issue michelderooij/Get-EventSession#25](https://github.com/michelderooij/Get-EventSession/issues/25#issuecomment-1482692645)
+- [michelderooij reopened an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/25)
+- [michelderooij closed an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/28)
+- [michelderooij commented on issue michelderooij/Get-EventSession#28](https://github.com/michelderooij/Get-EventSession/issues/28#issuecomment-1482679620)
+- [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/2c065f2e07...3732b3a2cc)
+- [michelderooij merged a pull request in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/pull/27)
+- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/e53a5d6d18...41baa8e133)
 - [Security Updates Exchange 2013-2019 &lpar;Mar2023&rpar;](https://eightwone.com/2023/03/14/security-updates-exchange-2013-2019-mar2023/)
 - [Security Updates Exchange 2013-2019 &lpar;Feb2023&rpar;](https://eightwone.com/2023/02/15/security-updates-exchange-2013-2019-feb2023/)
 - [Security Updates Exchange 2013-2019 &lpar;Jan2023&rpar;](https://eightwone.com/2023/01/10/security-updates-exchange-2013-2019-jan2023/)
