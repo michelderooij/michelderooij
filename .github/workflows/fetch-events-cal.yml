@@ -16,5 +16,28 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Fetch ics file from Google calendar
-        run: curl https://calendar.google.com/calendar/ical/b56cec28cd35e691394901c46fe425fd378b12d1a71e6dae8df524fa358f58e8%40group.calendar.google.com/public/basic.ics -o /home/runner/work/michelderooij/michelderooij/events.ics
-    
+        run: wget -q0- https://calendar.google.com/calendar/ical/b56cec28cd35e691394901c46fe425fd378b12d1a71e6dae8df524fa358f58e8%40group.calendar.google.com/public/basic.ics > events.ics
+      - name: Check if file is updated
+        id: check-updated
+        run: |
+          if [ "$(git ls-files --stage | grep events.ics | cut -f2)" != "$(git hash-object events.ics)" ]; then
+            echo "::set-output name=updated::true"
+          else
+            echo "::set-output name=updated::false"
+          fi
+      - name: Add file and commit when changed
+        if: steps.check-updated.outputs.updated == 'true'
+        run: |
+          git config --global user.name "Michel de Rooij"
+          git config --global user.email "michel@eightwone.com"
+          git add calendar.ics
+          git commit -m "Update iCal file"
+      - name: Push changes
+        if: steps.check-updated.outputs.updated == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          
+          
+          
