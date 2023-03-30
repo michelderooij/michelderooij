@@ -12,7 +12,8 @@ jobs:
     permissions:
         issues: write
         pull-requests: write    
-    steps:
+        repository-projects: write
+steps:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Fetch ics file from Google calendar
