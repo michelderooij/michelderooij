@@ -35,11 +35,7 @@ jobs:
           git config --global user.email "${{ env.CI_COMMIT_EMAIL }}"
           git add events.ics
           git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
-      - name: Push changes
-        if: ${{ steps.check-updated.outputs.updated }} == 'true'
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          git push
           
           
           
