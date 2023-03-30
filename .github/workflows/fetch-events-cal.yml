@@ -16,7 +16,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Fetch ics file from Google calendar
-        run: wget -q0- https://calendar.google.com/calendar/ical/b56cec28cd35e691394901c46fe425fd378b12d1a71e6dae8df524fa358f58e8%40group.calendar.google.com/public/basic.ics > events.ics
+        run: wget -qO- https://calendar.google.com/calendar/ical/b56cec28cd35e691394901c46fe425fd378b12d1a71e6dae8df524fa358f58e8%40group.calendar.google.com/public/basic.ics > events.ics
       - name: Check if file is updated
         id: check-updated
         run: |
