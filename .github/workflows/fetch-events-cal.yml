@@ -31,10 +31,10 @@ jobs:
       - name: Add file and commit when changed
         if: ${{ steps.check-updated.outputs.updated }} == 'true'
         run: |
-          git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
-          git config --global user.email "${{ env.CI_COMMIT_EMAIL }}"
+          git config --global user.name "${{ vars.CI_COMMIT_AUTHOR }}"
+          git config --global user.email "${{ vars.CI_COMMIT_EMAIL }}"
           git add events.ics
-          git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
+          git commit -m "Updated iCal file"
           git push
           
           
