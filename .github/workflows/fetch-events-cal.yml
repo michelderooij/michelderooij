@@ -1,8 +1,8 @@
 name: Fetch iCal with Events
 on:
   schedule:
-    # Runs every 4 hours
-    - cron: '0 */4 * * *'
+    # Runs every day at 1am hours
+    - cron: '0 1 * * *'
   workflow_dispatch:
 
 jobs:
