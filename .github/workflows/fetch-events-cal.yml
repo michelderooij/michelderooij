@@ -37,7 +37,7 @@ jobs:
         if: ${{ steps.check-updated.outputs.updated }} == 'true'
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ SECRET_PAT }}
+          github_token: ${{ secrets.SECRET_PAT }}
           
           
           
