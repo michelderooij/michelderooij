@@ -33,7 +33,11 @@ jobs:
           git config --global user.email "michel@eightwone.com"
           git add events.ics
           git commit -m "Update iCal file"
-          git push
+      - name: Push changes
+        if: ${{ steps.check-updated.outputs.updated }} == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ SECRET_PAT }}
           
           
           
