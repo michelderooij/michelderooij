@@ -21,19 +21,19 @@ jobs:
         id: check-updated
         run: |
           if [ "$(git ls-files --stage | grep events.ics | cut -f2)" != "$(git hash-object events.ics)" ]; then
-            echo "::set-output name=updated::true"
+            echo "{updated}={true}" >> $GITHUB_OUTPUT
           else
-            echo "::set-output name=updated::false"
+            echo "{updated}={false}" >> $GITHUB_OUTPUT
           fi
       - name: Add file and commit when changed
-        if: steps.check-updated.outputs.updated == 'true'
+        if: ${{ steps.check-updated.outputs.updated }} == 'true'
         run: |
           git config --global user.name "Michel de Rooij"
           git config --global user.email "michel@eightwone.com"
           git add calendar.ics
           git commit -m "Update iCal file"
       - name: Push changes
-        if: steps.check-updated.outputs.updated == 'true'
+        if: ${{ steps.check-updated.outputs.updated }} == 'true'
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
