@@ -17,6 +17,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [Teams Calendar View in Apple CarPlay](https://eightwone.com/2023/03/30/teams-calendar-view-in-apple-carplay/)
 - [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/15afab890f...332688a85e)
 - [michelderooij closed an issue in michelderooij/Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/issues/9)
 - [michelderooij commented on issue michelderooij/Remove-DuplicateItems#9](https://github.com/michelderooij/Remove-DuplicateItems/issues/9#issuecomment-1482694107)
@@ -34,5 +35,4 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [Exchange 0-days: CVE-2022-41040 &amp; CVE-2022-41082](https://eightwone.com/2022/10/03/exchange-0-day/)
 - [MEC 2022 Sessions Downloading](https://eightwone.com/2022/09/19/mec-2022-sessions-downloading/)
 - [MEC: Bringing your Exchange Scripts into the Modern Age](https://eightwone.com/2022/09/15/mec-bringing-your-exchange-scripts-into-the-modern-age/)
-- [MEC Airlift 2022 #WeAreMEC](https://eightwone.com/2022/09/12/mec-airlift-2022-wearemec/)
 <!-- LATESTACTIVITY:END -->
