@@ -30,7 +30,7 @@ jobs:
         run: |
           git config --global user.name "Michel de Rooij"
           git config --global user.email "michel@eightwone.com"
-          git add calendar.ics
+          git add events.ics
           git commit -m "Update iCal file"
       - name: Push changes
         if: ${{ steps.check-updated.outputs.updated }} == 'true'
