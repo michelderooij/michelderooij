@@ -22,20 +22,18 @@ jobs:
         run: wget -qO- https://calendar.google.com/calendar/ical/b56cec28cd35e691394901c46fe425fd378b12d1a71e6dae8df524fa358f58e8%40group.calendar.google.com/public/basic.ics > events.temp.ics
       - name: Process iCal file
         run: |
-          cat events.temp.ics | sed '/^PRODID:.*$/PRODID: EighTwOne Exchange Event Calendar/gm' | sed '/google\.com/eightwone\.com/gm' > events.prep.ics
+          sed -i 's/^PRODID:.*$/PRODID: EighTwOne Exchange Event Calendar/gm' events.temp.ics
+          sed -i 's/google\.com/eightwone\.com/gm' events.temp.ics
       - name: Check if file is updated
         id: check-updated
         run: |
           if [ "$(git hash-object events.prep.ics)" != "$(git hash-object events.ics)" ]; then
             echo "{updated}={true}" >> $GITHUB_OUTPUT
-            mv events.prep.ics events.ics
+            mv events.temp.ics events.ics
           else
             echo "{updated}={false}" >> $GITHUB_OUTPUT
-            rm events.prep.ics
+            rm events.temp.ics
           fi
-      - name: Cleanup
-        run: |
-          rm events.temp.ics
       - name: Add file and commit when changed
         if: ${{ steps.check-updated.outputs.updated }} == 'true'
         run: |
