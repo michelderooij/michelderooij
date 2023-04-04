@@ -27,7 +27,7 @@ jobs:
       - name: Check if file is updated
         id: check-updated
         run: |
-          if [ "$(git hash-object events.prep.ics)" != "$(git hash-object events.ics)" ]; then
+          if [ "$(git hash-object events.temp.ics)" != "$(git hash-object events.ics)" ]; then
             echo "{updated}={true}" >> $GITHUB_OUTPUT
             mv events.temp.ics events.ics
           else
