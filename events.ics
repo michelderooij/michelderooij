@@ -6,9 +6,47 @@ METHOD:PUBLISH
 X-WR-CALNAME:Events
 X-WR-TIMEZONE:America/Vancouver
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240901
+DTEND;VALUE=DATE:20240902
+DTSTAMP:20230414T072649Z
+UID:7vrvnbd0rn9u6ev3rucbol79e6@eightwone.com
+CREATED:20230414T072357Z
+DESCRIPTION:Retirement of Client Access Rules for Exchange Online<br> <a hr
+ ef="https://techcommunity.microsoft.com/t5/exchange-team-blog/update-deprec
+ ation-of-client-access-rules-in-exchange-online/ba-p/3790165?WT.mc_id=M365-
+ MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-team-blog/upda
+ te-deprecation-of-client-access-rules-in-exchange-online/ba-p/3790165?WT.mc
+ _id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230414T072514Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Client Access Rules retirement in EXO
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230901
+DTEND;VALUE=DATE:20230902
+DTSTAMP:20230414T072649Z
+UID:2se2l2cjscbt6asmmj5r4b6u8c@eightwone.com
+CREATED:20230414T072255Z
+DESCRIPTION:Retirement of Client Access Rules in Exchange Online for rules 
+ without technical limitations <br><a href="https://techcommunity.microsoft.
+ com/t5/exchange-team-blog/update-deprecation-of-client-access-rules-in-exch
+ ange-online/ba-p/3790165?WT.mc_id=M365-MVP-5000284">https://techcommunity.m
+ icrosoft.com/t5/exchange-team-blog/update-deprecation-of-client-access-rule
+ s-in-exchange-online/ba-p/3790165?WT.mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230414T072500Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Client Access Rules retirement in EXO for rules without limitations
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230701
 DTEND;VALUE=DATE:20230702
-DTSTAMP:20230414T012731Z
+DTSTAMP:20230414T072649Z
 UID:26bco4bklitmpqjovgpn9on1ks@eightwone.com
 CREATED:20230316T123954Z
 DESCRIPTION:ADAL reaches EOL after June 30th\, 2023. While ADAL apps may co
@@ -29,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230411
 DTEND;VALUE=DATE:20230412
-DTSTAMP:20230414T012731Z
+DTSTAMP:20230414T072649Z
 UID:78u6t1t34eo042sb45e14ogqs5@eightwone.com
 CREATED:20230316T123946Z
 DESCRIPTION:<a href="https://techcommunity.microsoft.com/t5/exchange-team-b
@@ -51,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230331
 DTEND;VALUE=DATE:20230401
-DTSTAMP:20230414T012731Z
+DTSTAMP:20230414T072649Z
 UID:1mif22lcorglevbgueg36qedrt@eightwone.com
 CREATED:20230316T123927Z
 DESCRIPTION:The retirement date of the Azure AD Graph and MSOnline PowerShe
@@ -71,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231001
 DTEND;VALUE=DATE:20231002
-DTSTAMP:20230414T012731Z
+DTSTAMP:20230414T072649Z
 UID:73igg1665947mmirpffgd6p0qp@eightwone.com
 CREATED:20230329T223844Z
 DESCRIPTION:<p>Blocking of RPS for all tenants. All tenants must use EXOv3 
@@ -91,7 +129,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230901
 DTEND;VALUE=DATE:20230902
-DTSTAMP:20230414T012731Z
+DTSTAMP:20230414T072649Z
 UID:2cvq3feh8vqi4d9vepksft3eao@eightwone.com
 CREATED:20230329T223707Z
 DESCRIPTION:RPS opt-out / re-enablement diagnostic is retired.<br><br><a hr
@@ -110,7 +148,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230701
 DTEND;VALUE=DATE:20230702
-DTSTAMP:20230414T012731Z
+DTSTAMP:20230414T072649Z
 UID:4rrtigaqtjbimlbhmush0lo64h@eightwone.com
 CREATED:20230329T223517Z
 DESCRIPTION:<p>Tenants created after July 1st will have RPS disabled perman
@@ -131,7 +169,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230615
 DTEND;VALUE=DATE:20230616
-DTSTAMP:20230414T012731Z
+DTSTAMP:20230414T072649Z
 UID:57ank356flo26ooca24vlbafbb@eightwone.com
 CREATED:20230329T223147Z
 DESCRIPTION:We will start disabling RPS for tenants who have not opted-out 
@@ -152,7 +190,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230401
 DTEND;VALUE=DATE:20230402
-DTSTAMP:20230414T012731Z
+DTSTAMP:20230414T072649Z
 UID:3qro02sr6qr5l70fkb59250ran@eightwone.com
 CREATED:20230316T123937Z
 DESCRIPTION:Tenants created on April 1st and newer will have RPS disabled b
