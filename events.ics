@@ -6,9 +6,88 @@ METHOD:PUBLISH
 X-WR-CALNAME:Events
 X-WR-TIMEZONE:America/Vancouver
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230715
+DTEND;VALUE=DATE:20230716
+DTSTAMP:20230418T012732Z
+UID:385dgngujvrckddjv0o40cf55h@eightwone.com
+CREATED:20230417T081813Z
+DESCRIPTION:Remote PowerShell for Security &amp\; Compliance Center / EOP t
+ hrough Connect-IPPPSession will be retired\, and REST will be required whic
+ h will become availalbe in EXOM v3.2 and later. <br><a href="https://admin.
+ microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC541649">https
+ ://admin.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC5416
+ 49</a>
+LAST-MODIFIED:20230417T082039Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RPS Retirement for SCC/EOP
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230901
+DTEND;VALUE=DATE:20230902
+DTSTAMP:20230418T012732Z
+UID:2cvq3feh8vqi4d9vepksft3eao@eightwone.com
+CREATED:20230329T223707Z
+DESCRIPTION:RPS opt-out / re-enablement diagnostic is retired.<br><br><a hr
+ ef="https://techcommunity.microsoft.com/t5/exchange-team-blog/deprecation-o
+ f-remote-powershell-in-exchange-online-re-enabling/ba-p/3779692?WT.mc_id=M3
+ 65-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-team-blog/d
+ eprecation-of-remote-powershell-in-exchange-online-re-enabling/ba-p/3779692
+ ?WT.mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230417T082002Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RPS for EXO opt-out/re-enabling retirement
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230701
+DTEND;VALUE=DATE:20230702
+DTSTAMP:20230418T012732Z
+UID:4rrtigaqtjbimlbhmush0lo64h@eightwone.com
+CREATED:20230329T223517Z
+DESCRIPTION:<p>Tenants created after July 1st will have RPS disabled perman
+ ently. Diagnostics cannot re-enable RPS for those tenants. Tenants created 
+ from July 1st onwards must use EXOv3 and connect without UseRPSSession.</p>
+ <p><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/depre
+ cation-of-remote-powershell-in-exchange-online-re-enabling/ba-p/3779692?WT.
+ mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-tea
+ m-blog/deprecation-of-remote-powershell-in-exchange-online-re-enabling/ba-p
+ /3779692?WT.mc_id=M365-MVP-5000284</a></p>
+LAST-MODIFIED:20230417T081931Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RPS permanently for EXO in new tenants
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231001
+DTEND;VALUE=DATE:20231002
+DTSTAMP:20230418T012732Z
+UID:73igg1665947mmirpffgd6p0qp@eightwone.com
+CREATED:20230329T223844Z
+DESCRIPTION:<p>Blocking of RPS for Exchange Online for all tenants. All ten
+ ants must use EXOv3 module and Connect-ExchangeOnline without UseRPSSession
+ .<br><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/dep
+ recation-of-remote-powershell-in-exchange-online-re-enabling/ba-p/3779692?W
+ T.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-t
+ eam-blog/deprecation-of-remote-powershell-in-exchange-online-re-enabling/ba
+ -p/3779692?WT.mc_id=M365-MVP-5000284</a> </p>
+LAST-MODIFIED:20230417T081903Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RPS retirement for EXO
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240901
 DTEND;VALUE=DATE:20240902
-DTSTAMP:20230417T012727Z
+DTSTAMP:20230418T012732Z
 UID:7vrvnbd0rn9u6ev3rucbol79e6@eightwone.com
 CREATED:20230414T072357Z
 DESCRIPTION:Retirement of Client Access Rules for Exchange Online<br> <a hr
@@ -27,7 +106,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230901
 DTEND;VALUE=DATE:20230902
-DTSTAMP:20230417T012727Z
+DTSTAMP:20230418T012732Z
 UID:2se2l2cjscbt6asmmj5r4b6u8c@eightwone.com
 CREATED:20230414T072255Z
 DESCRIPTION:Retirement of Client Access Rules in Exchange Online for rules 
@@ -46,7 +125,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230701
 DTEND;VALUE=DATE:20230702
-DTSTAMP:20230417T012727Z
+DTSTAMP:20230418T012732Z
 UID:26bco4bklitmpqjovgpn9on1ks@eightwone.com
 CREATED:20230316T123954Z
 DESCRIPTION:ADAL reaches EOL after June 30th\, 2023. While ADAL apps may co
@@ -67,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230411
 DTEND;VALUE=DATE:20230412
-DTSTAMP:20230417T012727Z
+DTSTAMP:20230418T012732Z
 UID:78u6t1t34eo042sb45e14ogqs5@eightwone.com
 CREATED:20230316T123946Z
 DESCRIPTION:<a href="https://techcommunity.microsoft.com/t5/exchange-team-b
@@ -89,7 +168,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230331
 DTEND;VALUE=DATE:20230401
-DTSTAMP:20230417T012727Z
+DTSTAMP:20230418T012732Z
 UID:1mif22lcorglevbgueg36qedrt@eightwone.com
 CREATED:20230316T123927Z
 DESCRIPTION:The retirement date of the Azure AD Graph and MSOnline PowerShe
@@ -107,69 +186,9 @@ SUMMARY:AzureAD/MSOnline licensing API retirement
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231001
-DTEND;VALUE=DATE:20231002
-DTSTAMP:20230417T012727Z
-UID:73igg1665947mmirpffgd6p0qp@eightwone.com
-CREATED:20230329T223844Z
-DESCRIPTION:<p>Blocking of RPS for all tenants. All tenants must use EXOv3 
- module and Connect-ExchangeOnline without UseRPSSession.<br><a href="https:
- //techcommunity.microsoft.com/t5/exchange-team-blog/deprecation-of-remote-p
- owershell-in-exchange-online-re-enabling/ba-p/3779692?WT.mc_id=M365-MVP-500
- 0284">https://techcommunity.microsoft.com/t5/exchange-team-blog/deprecation
- -of-remote-powershell-in-exchange-online-re-enabling/ba-p/3779692?WT.mc_id=
- M365-MVP-5000284</a> </p>
-LAST-MODIFIED:20230329T223844Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:RPS retirement
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230901
-DTEND;VALUE=DATE:20230902
-DTSTAMP:20230417T012727Z
-UID:2cvq3feh8vqi4d9vepksft3eao@eightwone.com
-CREATED:20230329T223707Z
-DESCRIPTION:RPS opt-out / re-enablement diagnostic is retired.<br><br><a hr
- ef="https://techcommunity.microsoft.com/t5/exchange-team-blog/deprecation-o
- f-remote-powershell-in-exchange-online-re-enabling/ba-p/3779692?WT.mc_id=M3
- 65-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-team-blog/d
- eprecation-of-remote-powershell-in-exchange-online-re-enabling/ba-p/3779692
- ?WT.mc_id=M365-MVP-5000284</a>
-LAST-MODIFIED:20230329T223707Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:RPS opt-out/re-enabling retirement
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230701
-DTEND;VALUE=DATE:20230702
-DTSTAMP:20230417T012727Z
-UID:4rrtigaqtjbimlbhmush0lo64h@eightwone.com
-CREATED:20230329T223517Z
-DESCRIPTION:<p>Tenants created after July 1st will have RPS disabled perman
- ently. Diagnostics cannot re-enable RPS for those tenants. Tenants created 
- from July 1st onwards must use EXOv3 and connect without UseRPSSession.</p>
- <p><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/depre
- cation-of-remote-powershell-in-exchange-online-re-enabling/ba-p/3779692?WT.
- mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-tea
- m-blog/deprecation-of-remote-powershell-in-exchange-online-re-enabling/ba-p
- /3779692?WT.mc_id=M365-MVP-5000284</a></p>
-LAST-MODIFIED:20230329T223517Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:RPS permanently disabled new EXO tenants
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230615
 DTEND;VALUE=DATE:20230616
-DTSTAMP:20230417T012727Z
+DTSTAMP:20230418T012732Z
 UID:57ank356flo26ooca24vlbafbb@eightwone.com
 CREATED:20230329T223147Z
 DESCRIPTION:We will start disabling RPS for tenants who have not opted-out 
@@ -190,7 +209,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230401
 DTEND;VALUE=DATE:20230402
-DTSTAMP:20230417T012727Z
+DTSTAMP:20230418T012732Z
 UID:3qro02sr6qr5l70fkb59250ran@eightwone.com
 CREATED:20230316T123937Z
 DESCRIPTION:Tenants created on April 1st and newer will have RPS disabled b
