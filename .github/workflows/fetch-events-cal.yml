@@ -27,7 +27,12 @@ jobs:
       - name: Check if file is updated and git push if needed
         id: check-and-update
         run: |
-          if [ "$(git hash-object events.temp.ics)" != "$(git hash-object events.ics)" ]; then
+          # Remove DTSTAMP (timestamp of retrieval) so we can compare on entries
+          cp events.temp.ics hashme1
+          cp events.ics hashme2
+          sed -i 's/^DTSTAMP:.*$/DTSTAMP: Removed for comparison/gm' hashme1
+          sed -i 's/^DTSTAMP:.*$/DTSTAMP: Removed for comparison/gm' hashme2
+          if [ "$(git hash-object hashme1)" != "$(git hash-object hashme2)" ]; then
             mv events.temp.ics events.ics
             git config --global user.name "${{ vars.CI_COMMIT_AUTHOR }}"
             git config --global user.email "${{ vars.CI_COMMIT_EMAIL }}"
@@ -37,4 +42,5 @@ jobs:
           else
             rm events.temp.ics
           fi
-          
+          rm hashme1
+          rm hashme2
