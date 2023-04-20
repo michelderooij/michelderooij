@@ -24,25 +24,17 @@ jobs:
         run: |
           sed -i 's/^PRODID:.*$/PRODID: EighTwOne Exchange Event Calendar/gm' events.temp.ics
           sed -i 's/google\.com/eightwone\.com/gm' events.temp.ics
-      - name: Check if file is updated
-        id: check-updated
+      - name: Check if file is updated and git push if needed
+        id: check-and-update
         run: |
           if [ "$(git hash-object events.temp.ics)" != "$(git hash-object events.ics)" ]; then
-            echo "{updated}={true}" >> $GITHUB_OUTPUT
             mv events.temp.ics events.ics
+            git config --global user.name "${{ vars.CI_COMMIT_AUTHOR }}"
+            git config --global user.email "${{ vars.CI_COMMIT_EMAIL }}"
+            git add events.ics
+            git commit -m "Updated iCal file"
+            git push
           else
-            echo "{updated}={false}" >> $GITHUB_OUTPUT
             rm events.temp.ics
           fi
-      - name: Add file and commit when changed
-        if: ${{ steps.check-updated.outputs.updated }} == 'true'
-        run: |
-          git config --global user.name "${{ vars.CI_COMMIT_AUTHOR }}"
-          git config --global user.email "${{ vars.CI_COMMIT_EMAIL }}"
-          git add events.ics
-          git commit -m "Updated iCal file"
-          git push
-        
-          
-          
           
