@@ -17,9 +17,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed to master in michelderooij/Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/compare/489e905281...ad35a9d5ec)
 - [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/68f8717d5e...4d433906ef)
 - [michelderooij pushed to master in michelderooij/Remove-MessageClassItems](https://github.com/michelderooij/Remove-MessageClassItems/compare/dd6ac22a13...889bd32573)
-- [michelderooij pushed to master in michelderooij/Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/compare/e9960dbcf4...27a7cb8e76)
 - [Teams Calendar View in Apple CarPlay](https://eightwone.com/2023/03/30/teams-calendar-view-in-apple-carplay/)
 - [Security Updates Exchange 2013-2019 &lpar;Mar2023&rpar;](https://eightwone.com/2023/03/14/security-updates-exchange-2013-2019-mar2023/)
 - [Security Updates Exchange 2013-2019 &lpar;Feb2023&rpar;](https://eightwone.com/2023/02/15/security-updates-exchange-2013-2019-feb2023/)
