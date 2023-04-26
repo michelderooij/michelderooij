@@ -17,9 +17,12 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
-- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/c5743f9521...23726bce30)
-- [michelderooij pushed to master in michelderooij/Remove-MessageClassItems](https://github.com/michelderooij/Remove-MessageClassItems/compare/dd6ac22a13...889bd32573)
-- [michelderooij pushed to master in michelderooij/Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/compare/e9960dbcf4...27a7cb8e76)
+- [michelderooij pushed to main in michelderooij/Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/compare/f8cd0f75c4...6f872ab712)
+- [michelderooij closed an issue in michelderooij/Clear-AutoComplete](https://github.com/michelderooij/Clear-AutoComplete/issues/3)
+- [michelderooij commented on issue michelderooij/Clear-AutoComplete#3](https://github.com/michelderooij/Clear-AutoComplete/issues/3#issuecomment-1518685907)
+- [michelderooij pushed to master in michelderooij/Remove-MessageClassItems](https://github.com/michelderooij/Remove-MessageClassItems/compare/889bd32573...ed77c95f0e)
+- [michelderooij pushed to master in michelderooij/Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/compare/489e905281...ad35a9d5ec)
+- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/68f8717d5e...4d433906ef)
 - [Teams Calendar View in Apple CarPlay](https://eightwone.com/2023/03/30/teams-calendar-view-in-apple-carplay/)
 - [Security Updates Exchange 2013-2019 &lpar;Mar2023&rpar;](https://eightwone.com/2023/03/14/security-updates-exchange-2013-2019-mar2023/)
 - [Security Updates Exchange 2013-2019 &lpar;Feb2023&rpar;](https://eightwone.com/2023/02/15/security-updates-exchange-2013-2019-feb2023/)
