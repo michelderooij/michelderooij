@@ -17,6 +17,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed to master in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/5e075d6b2f...289565815f)
 - [Exchange Updates &lpar;and more&rpar; – H1 2023](https://eightwone.com/2023/05/04/exchange-updates-and-more-h1-2023/)
 - [michelderooij commented on issue michelderooij/Get-EventSession#30](https://github.com/michelderooij/Get-EventSession/issues/30#issuecomment-1533141138)
 - [michelderooij reopened an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/30)
