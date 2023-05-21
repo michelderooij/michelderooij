@@ -17,6 +17,8 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [michelderooij opened a pull request in MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/pull/109826)
+- [michelderooij pushed to patch-2 in michelderooij/azure-docs](https://github.com/michelderooij/azure-docs/compare/db2dd8d428...c454b9861f)
 - [michelderooij pushed to master in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/5e075d6b2f...289565815f)
 - [Exchange Updates &lpar;and more&rpar; – H1 2023](https://eightwone.com/2023/05/04/exchange-updates-and-more-h1-2023/)
 - [michelderooij commented on issue michelderooij/Get-EventSession#30](https://github.com/michelderooij/Get-EventSession/issues/30#issuecomment-1533141138)
@@ -40,5 +42,4 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [Using PowerAutomate to echo tweets on Mastodon](https://eightwone.com/2022/11/07/using-powerautomate-to-echo-tweets-to-mastodon/)
 - [Security Updates Exchange 2013-2019 &lpar;Oct2022&rpar;](https://eightwone.com/2022/10/11/security-updates-exchange-2013-2019-oct2022/)
 - [Exchange 0-days: CVE-2022-41040 &amp; CVE-2022-41082](https://eightwone.com/2022/10/03/exchange-0-day/)
-- [MEC 2022 Sessions Downloading](https://eightwone.com/2022/09/19/mec-2022-sessions-downloading/)
 <!-- LATESTACTIVITY:END -->
