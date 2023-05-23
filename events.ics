@@ -6,9 +6,225 @@ METHOD:PUBLISH
 X-WR-CALNAME:Events
 X-WR-TIMEZONE:America/Vancouver
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240201
+DTEND;VALUE=DATE:20240202
+DTSTAMP:20230523T203944Z
+UID:1698crh1g913cfbho9euut9r9e@eightwone.com
+CREATED:20230523T203920Z
+DESCRIPTION:Blocking detected Exchange 2013 servers sending inbound message
+ s using on-prem connector.<br><a href="https://techcommunity.microsoft.com/
+ t5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vulne
+ rable/ba-p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.microso
+ ft.com/t5/exchange-team-blog/throttling-and-blocking-email-from-persistentl
+ y-vulnerable/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated time
+ lines:<br><a href="https://techcommunity.microsoft.com/t5/exchange-team-blo
+ g/update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT
+ .mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-te
+ am-blog/update-on-transport-enforcement-system-in-exchange-online/ba-p/3827
+ 774?WT.mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230523T203920Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exchange Hybrid: Blocking inbound Exchange 2013
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240101
+DTEND;VALUE=DATE:20240102
+DTSTAMP:20230523T203944Z
+UID:3ud7453c42dabu1bkg0ioj0rgc@eightwone.com
+CREATED:20230523T203824Z
+DESCRIPTION:Throttling Exchange 2013 servers sending inbound messages using
+  on-prem connector.<br><a href="https://techcommunity.microsoft.com/t5/exch
+ ange-team-blog/throttling-and-blocking-email-from-persistently-vulnerable/b
+ a-p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/
+ t5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vulne
+ rable/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated timelines:<
+ br><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/updat
+ e-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.mc_id=
+ M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-team-blog
+ /update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.
+ mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230523T203824Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exchange Hybrid: Throttling inbound Exchange 2010
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231201
+DTEND;VALUE=DATE:20231202
+DTSTAMP:20230523T203944Z
+UID:1l0eiejk9c4hjuqontktfh56m8@eightwone.com
+CREATED:20230523T203741Z
+DESCRIPTION:Reporting detected Exchange 2013 servers sending inbound messag
+ es using on-prem connector.<br><a href="https://techcommunity.microsoft.com
+ /t5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vuln
+ erable/ba-p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.micros
+ oft.com/t5/exchange-team-blog/throttling-and-blocking-email-from-persistent
+ ly-vulnerable/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated tim
+ elines:<br><a href="https://techcommunity.microsoft.com/t5/exchange-team-bl
+ og/update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?W
+ T.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-t
+ eam-blog/update-on-transport-enforcement-system-in-exchange-online/ba-p/382
+ 7774?WT.mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230523T203741Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exchange Hybrid: Reporting inbound Exchange 2013
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231101
+DTEND;VALUE=DATE:20231102
+DTSTAMP:20230523T203944Z
+UID:3q8ua9a9g6dhjp4bkvqkn0ivti@eightwone.com
+CREATED:20230523T203616Z
+DESCRIPTION:Blocking detected Exchange 2010servers sending inbound messages
+  using on-prem connector.<br><a href="https://techcommunity.microsoft.com/t
+ 5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vulner
+ able/ba-p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.microsof
+ t.com/t5/exchange-team-blog/throttling-and-blocking-email-from-persistently
+ -vulnerable/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated timel
+ ines:<br><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog
+ /update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.
+ mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-tea
+ m-blog/update-on-transport-enforcement-system-in-exchange-online/ba-p/38277
+ 74?WT.mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230523T203634Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exchange Hybrid: Blocking inbound Exchange 2010
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231001
+DTEND;VALUE=DATE:20231002
+DTSTAMP:20230523T203944Z
+UID:63f99t19ktdgmfptdbbogq7s9m@eightwone.com
+CREATED:20230523T203529Z
+DESCRIPTION:Throttling Exchange 2010servers sending inbound messages using 
+ on-prem connector.<br><a href="https://techcommunity.microsoft.com/t5/excha
+ nge-team-blog/throttling-and-blocking-email-from-persistently-vulnerable/ba
+ -p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t
+ 5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vulner
+ able/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated timelines:<b
+ r><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/update
+ -on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.mc_id=M
+ 365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-team-blog/
+ update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.m
+ c_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230523T203529Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exchange Hybrid: Throttling inbound Exchange 2010
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230901
+DTEND;VALUE=DATE:20230902
+DTSTAMP:20230523T203944Z
+UID:4jtfkhj6vm89ifpcri172uqgsv@eightwone.com
+CREATED:20230523T203448Z
+DESCRIPTION:Reporting detected Exchange 2010 servers sending inbound messag
+ es using on-prem connector.<br><a href="https://techcommunity.microsoft.com
+ /t5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vuln
+ erable/ba-p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.micros
+ oft.com/t5/exchange-team-blog/throttling-and-blocking-email-from-persistent
+ ly-vulnerable/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated tim
+ elines:<br><a href="https://techcommunity.microsoft.com/t5/exchange-team-bl
+ og/update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?W
+ T.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-t
+ eam-blog/update-on-transport-enforcement-system-in-exchange-online/ba-p/382
+ 7774?WT.mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230523T203448Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exchange Hybrid: Reporting inbound Exchange 2010
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230801
+DTEND;VALUE=DATE:20230802
+DTSTAMP:20230523T203944Z
+UID:3u8nqtiee4gr42pfpl5bvvtb90@eightwone.com
+CREATED:20230523T203410Z
+DESCRIPTION:Blocking Exchange 2007 servers sending inbound messages using o
+ n-prem connector.<br><a href="https://techcommunity.microsoft.com/t5/exchan
+ ge-team-blog/throttling-and-blocking-email-from-persistently-vulnerable/ba-
+ p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5
+ /exchange-team-blog/throttling-and-blocking-email-from-persistently-vulnera
+ ble/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated timelines:<br
+ ><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/update-
+ on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.mc_id=M3
+ 65-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-team-blog/u
+ pdate-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.mc
+ _id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230523T203410Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exchange Hybrid: Blocking inbound Exchange 2007
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230701
+DTEND;VALUE=DATE:20230702
+DTSTAMP:20230523T203944Z
+UID:69bk3euq5dpqrelb5n6d1ra7oh@eightwone.com
+CREATED:20230523T203304Z
+DESCRIPTION:Throttling Exchange 2007 servers sending inbound messages using
+  on-prem connector.<br><a href="https://techcommunity.microsoft.com/t5/exch
+ ange-team-blog/throttling-and-blocking-email-from-persistently-vulnerable/b
+ a-p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/
+ t5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vulne
+ rable/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated timelines:<
+ br><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/updat
+ e-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.mc_id=
+ M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-team-blog
+ /update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.
+ mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230523T203304Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exchange Hybrid: Throttling inbound Exchange 2007
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230601
 DTEND;VALUE=DATE:20230602
-DTSTAMP:20230523T171629Z
+DTSTAMP:20230523T203944Z
+UID:0q7c49bkkllie7vtd3m0fgsscb@eightwone.com
+CREATED:20230523T203121Z
+DESCRIPTION:Reporting detected Exchange 2007 servers sending inbound messag
+ es using on-prem connector.<br><a href="https://techcommunity.microsoft.com
+ /t5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vuln
+ erable/ba-p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.micros
+ oft.com/t5/exchange-team-blog/throttling-and-blocking-email-from-persistent
+ ly-vulnerable/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated tim
+ elines:<br><a href="https://techcommunity.microsoft.com/t5/exchange-team-bl
+ og/update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?W
+ T.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-t
+ eam-blog/update-on-transport-enforcement-system-in-exchange-online/ba-p/382
+ 7774?WT.mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230523T203121Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exchange Hybrid: Reporting inbound Exchange 2007
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230601
+DTEND;VALUE=DATE:20230602
+DTSTAMP:20230523T203944Z
 UID:6glp1d4r3ktri550soh2koh51u@eightwone.com
 CREATED:20230523T170549Z
 DESCRIPTION:The preview program enabling REST API access to on-premises mai
@@ -28,7 +244,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230715
 DTEND;VALUE=DATE:20230716
-DTSTAMP:20230523T171629Z
+DTSTAMP:20230523T203944Z
 UID:385dgngujvrckddjv0o40cf55h@eightwone.com
 CREATED:20230417T081813Z
 DESCRIPTION:Remote PowerShell for Security &amp\; Compliance Center / EOP t
@@ -47,7 +263,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230901
 DTEND;VALUE=DATE:20230902
-DTSTAMP:20230523T171629Z
+DTSTAMP:20230523T203944Z
 UID:2cvq3feh8vqi4d9vepksft3eao@eightwone.com
 CREATED:20230329T223707Z
 DESCRIPTION:RPS opt-out / re-enablement diagnostic is retired.<br><br><a hr
@@ -66,7 +282,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230701
 DTEND;VALUE=DATE:20230702
-DTSTAMP:20230523T171629Z
+DTSTAMP:20230523T203944Z
 UID:4rrtigaqtjbimlbhmush0lo64h@eightwone.com
 CREATED:20230329T223517Z
 DESCRIPTION:<p>Tenants created after July 1st will have RPS disabled perman
@@ -87,7 +303,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231001
 DTEND;VALUE=DATE:20231002
-DTSTAMP:20230523T171629Z
+DTSTAMP:20230523T203944Z
 UID:73igg1665947mmirpffgd6p0qp@eightwone.com
 CREATED:20230329T223844Z
 DESCRIPTION:<p>Blocking of RPS for Exchange Online for all tenants. All ten
@@ -107,7 +323,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240901
 DTEND;VALUE=DATE:20240902
-DTSTAMP:20230523T171629Z
+DTSTAMP:20230523T203944Z
 UID:7vrvnbd0rn9u6ev3rucbol79e6@eightwone.com
 CREATED:20230414T072357Z
 DESCRIPTION:Retirement of Client Access Rules for Exchange Online<br> <a hr
@@ -126,7 +342,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230901
 DTEND;VALUE=DATE:20230902
-DTSTAMP:20230523T171629Z
+DTSTAMP:20230523T203944Z
 UID:2se2l2cjscbt6asmmj5r4b6u8c@eightwone.com
 CREATED:20230414T072255Z
 DESCRIPTION:Retirement of Client Access Rules in Exchange Online for rules 
@@ -145,7 +361,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230701
 DTEND;VALUE=DATE:20230702
-DTSTAMP:20230523T171629Z
+DTSTAMP:20230523T203944Z
 UID:26bco4bklitmpqjovgpn9on1ks@eightwone.com
 CREATED:20230316T123954Z
 DESCRIPTION:ADAL reaches EOL after June 30th\, 2023. While ADAL apps may co
@@ -166,7 +382,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230411
 DTEND;VALUE=DATE:20230412
-DTSTAMP:20230523T171629Z
+DTSTAMP:20230523T203944Z
 UID:78u6t1t34eo042sb45e14ogqs5@eightwone.com
 CREATED:20230316T123946Z
 DESCRIPTION:<a href="https://techcommunity.microsoft.com/t5/exchange-team-b
@@ -188,7 +404,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230331
 DTEND;VALUE=DATE:20230401
-DTSTAMP:20230523T171629Z
+DTSTAMP:20230523T203944Z
 UID:1mif22lcorglevbgueg36qedrt@eightwone.com
 CREATED:20230316T123927Z
 DESCRIPTION:The retirement date of the Azure AD Graph and MSOnline PowerShe
@@ -208,7 +424,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230615
 DTEND;VALUE=DATE:20230616
-DTSTAMP:20230523T171629Z
+DTSTAMP:20230523T203944Z
 UID:57ank356flo26ooca24vlbafbb@eightwone.com
 CREATED:20230329T223147Z
 DESCRIPTION:We will start disabling RPS for tenants who have not opted-out 
@@ -229,7 +445,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230401
 DTEND;VALUE=DATE:20230402
-DTSTAMP:20230523T171629Z
+DTSTAMP:20230523T203944Z
 UID:3qro02sr6qr5l70fkb59250ran@eightwone.com
 CREATED:20230316T123937Z
 DESCRIPTION:Tenants created on April 1st and newer will have RPS disabled b
