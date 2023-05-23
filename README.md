@@ -17,6 +17,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/e52cf20650...63cafe8295)
 - [michelderooij opened a pull request in MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/pull/109826)
 - [michelderooij pushed to patch-2 in michelderooij/azure-docs](https://github.com/michelderooij/azure-docs/compare/db2dd8d428...c454b9861f)
 - [michelderooij pushed to master in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/5e075d6b2f...289565815f)
@@ -28,12 +29,8 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [michelderooij closed an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/29)
 - [michelderooij commented on issue michelderooij/Get-EventSession#29](https://github.com/michelderooij/Get-EventSession/issues/29#issuecomment-1529610323)
 - [michelderooij opened an issue in microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange/issues/1679)
-- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/4cfb59c981...bd22f138b8)
 - [michelderooij pushed to main in michelderooij/Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/compare/f8cd0f75c4...6f872ab712)
 - [michelderooij closed an issue in michelderooij/Clear-AutoComplete](https://github.com/michelderooij/Clear-AutoComplete/issues/3)
-- [michelderooij commented on issue michelderooij/Clear-AutoComplete#3](https://github.com/michelderooij/Clear-AutoComplete/issues/3#issuecomment-1518685907)
-- [michelderooij pushed to master in michelderooij/Remove-MessageClassItems](https://github.com/michelderooij/Remove-MessageClassItems/compare/889bd32573...ed77c95f0e)
-- [michelderooij pushed to master in michelderooij/Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/compare/489e905281...ad35a9d5ec)
 - [Teams Calendar View in Apple CarPlay](https://eightwone.com/2023/03/30/teams-calendar-view-in-apple-carplay/)
 - [Security Updates Exchange 2013-2019 &lpar;Mar2023&rpar;](https://eightwone.com/2023/03/14/security-updates-exchange-2013-2019-mar2023/)
 - [Security Updates Exchange 2013-2019 &lpar;Feb2023&rpar;](https://eightwone.com/2023/02/15/security-updates-exchange-2013-2019-feb2023/)
@@ -42,4 +39,5 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [Using PowerAutomate to echo tweets on Mastodon](https://eightwone.com/2022/11/07/using-powerautomate-to-echo-tweets-to-mastodon/)
 - [Security Updates Exchange 2013-2019 &lpar;Oct2022&rpar;](https://eightwone.com/2022/10/11/security-updates-exchange-2013-2019-oct2022/)
 - [Exchange 0-days: CVE-2022-41040 &amp; CVE-2022-41082](https://eightwone.com/2022/10/03/exchange-0-day/)
+- [MEC 2022 Sessions Downloading](https://eightwone.com/2022/09/19/mec-2022-sessions-downloading/)
 <!-- LATESTACTIVITY:END -->
