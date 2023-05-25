@@ -17,6 +17,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/00e7db063a...680d92d7cb)
 - [michelderooij opened a pull request in MicrosoftDocs/OfficeDocs-Support](https://github.com/MicrosoftDocs/OfficeDocs-Support/pull/1965)
 - [michelderooij pushed to patch-1 in michelderooij/OfficeDocs-Support](https://github.com/michelderooij/OfficeDocs-Support/compare/9a5365b10b...5589ac1cb6)
 - [michelderooij forked michelderooij/OfficeDocs-Support from MicrosoftDocs/OfficeDocs-Support](https://github.com/michelderooij/OfficeDocs-Support)
@@ -28,7 +29,6 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [michelderooij commented on issue michelderooij/Get-EventSession#30](https://github.com/michelderooij/Get-EventSession/issues/30#issuecomment-1533141138)
 - [michelderooij reopened an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/30)
 - [michelderooij deleted tag v2.66 at michelderooij/Get-EventSession](https://github.com/)
-- [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/3732b3a2cc...00e7db063a)
 - [michelderooij closed an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/29)
 - [michelderooij commented on issue michelderooij/Get-EventSession#29](https://github.com/michelderooij/Get-EventSession/issues/29#issuecomment-1529610323)
 - [michelderooij opened an issue in microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange/issues/1679)
