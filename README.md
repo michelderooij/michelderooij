@@ -17,7 +17,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
-- [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/00e7db063a...680d92d7cb)
+- [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/36a0d13c21...67cbeb9fb2)
 - [michelderooij opened a pull request in MicrosoftDocs/OfficeDocs-Support](https://github.com/MicrosoftDocs/OfficeDocs-Support/pull/1965)
 - [michelderooij pushed to patch-1 in michelderooij/OfficeDocs-Support](https://github.com/michelderooij/OfficeDocs-Support/compare/9a5365b10b...5589ac1cb6)
 - [michelderooij forked michelderooij/OfficeDocs-Support from MicrosoftDocs/OfficeDocs-Support](https://github.com/michelderooij/OfficeDocs-Support)
