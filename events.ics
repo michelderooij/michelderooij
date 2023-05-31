@@ -6,9 +6,51 @@ METHOD:PUBLISH
 X-WR-CALNAME:Events
 X-WR-TIMEZONE:America/Vancouver
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230701
+DTEND;VALUE=DATE:20230702
+DTSTAMP:20230531T080426Z
+UID:4rrtigaqtjbimlbhmush0lo64h@eightwone.com
+CREATED:20230329T223517Z
+DESCRIPTION:<p>Tenants created after July 1st will have RPS disabled perman
+ ently. Diagnostics cannot re-enable RPS for those tenants. Tenants created 
+ from July 1st onwards must use EXOv3 and connect without UseRPSSession.</p>
+ <p><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/depre
+ cation-of-remote-powershell-in-exchange-online-re-enabling/ba-p/3779692?WT.
+ mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-tea
+ m-blog/deprecation-of-remote-powershell-in-exchange-online-re-enabling/ba-p
+ /3779692?WT.mc_id=M365-MVP-5000284</a></p>
+LAST-MODIFIED:20230531T075846Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RPS disabled for EXO in new tenants
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230601
+DTEND;VALUE=DATE:20230602
+DTSTAMP:20230531T080426Z
+UID:57ank356flo26ooca24vlbafbb@eightwone.com
+CREATED:20230329T223147Z
+DESCRIPTION:We will start disabling RPS for tenants who have not opted-out 
+ or re-enabled RPS yet and have used it in the past. Re-enablement of RPS us
+ ing the diagnostic is possible until September 2023 (unless tenant was crea
+ ted after April 2023).<br><a href="https://techcommunity.microsoft.com/t5/e
+ xchange-team-blog/deprecation-of-remote-powershell-in-exchange-online-re-en
+ abling/ba-p/3779692?WT.mc_id=M365-MVP-5000284">https://techcommunity.micros
+ oft.com/t5/exchange-team-blog/deprecation-of-remote-powershell-in-exchange-
+ online-re-enabling/ba-p/3779692?WT.mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230531T075742Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:RPS disabled tenants not opted-out
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240201
 DTEND;VALUE=DATE:20240202
-DTSTAMP:20230523T203944Z
+DTSTAMP:20230531T080426Z
 UID:1698crh1g913cfbho9euut9r9e@eightwone.com
 CREATED:20230523T203920Z
 DESCRIPTION:Blocking detected Exchange 2013 servers sending inbound message
@@ -32,7 +74,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240101
 DTEND;VALUE=DATE:20240102
-DTSTAMP:20230523T203944Z
+DTSTAMP:20230531T080426Z
 UID:3ud7453c42dabu1bkg0ioj0rgc@eightwone.com
 CREATED:20230523T203824Z
 DESCRIPTION:Throttling Exchange 2013 servers sending inbound messages using
@@ -56,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231201
 DTEND;VALUE=DATE:20231202
-DTSTAMP:20230523T203944Z
+DTSTAMP:20230531T080426Z
 UID:1l0eiejk9c4hjuqontktfh56m8@eightwone.com
 CREATED:20230523T203741Z
 DESCRIPTION:Reporting detected Exchange 2013 servers sending inbound messag
@@ -80,7 +122,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231101
 DTEND;VALUE=DATE:20231102
-DTSTAMP:20230523T203944Z
+DTSTAMP:20230531T080426Z
 UID:3q8ua9a9g6dhjp4bkvqkn0ivti@eightwone.com
 CREATED:20230523T203616Z
 DESCRIPTION:Blocking detected Exchange 2010servers sending inbound messages
@@ -104,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231001
 DTEND;VALUE=DATE:20231002
-DTSTAMP:20230523T203944Z
+DTSTAMP:20230531T080426Z
 UID:63f99t19ktdgmfptdbbogq7s9m@eightwone.com
 CREATED:20230523T203529Z
 DESCRIPTION:Throttling Exchange 2010servers sending inbound messages using 
@@ -128,7 +170,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230901
 DTEND;VALUE=DATE:20230902
-DTSTAMP:20230523T203944Z
+DTSTAMP:20230531T080426Z
 UID:4jtfkhj6vm89ifpcri172uqgsv@eightwone.com
 CREATED:20230523T203448Z
 DESCRIPTION:Reporting detected Exchange 2010 servers sending inbound messag
@@ -152,7 +194,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230801
 DTEND;VALUE=DATE:20230802
-DTSTAMP:20230523T203944Z
+DTSTAMP:20230531T080426Z
 UID:3u8nqtiee4gr42pfpl5bvvtb90@eightwone.com
 CREATED:20230523T203410Z
 DESCRIPTION:Blocking Exchange 2007 servers sending inbound messages using o
@@ -176,7 +218,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230701
 DTEND;VALUE=DATE:20230702
-DTSTAMP:20230523T203944Z
+DTSTAMP:20230531T080426Z
 UID:69bk3euq5dpqrelb5n6d1ra7oh@eightwone.com
 CREATED:20230523T203304Z
 DESCRIPTION:Throttling Exchange 2007 servers sending inbound messages using
@@ -200,7 +242,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230601
 DTEND;VALUE=DATE:20230602
-DTSTAMP:20230523T203944Z
+DTSTAMP:20230531T080426Z
 UID:0q7c49bkkllie7vtd3m0fgsscb@eightwone.com
 CREATED:20230523T203121Z
 DESCRIPTION:Reporting detected Exchange 2007 servers sending inbound messag
@@ -224,7 +266,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230601
 DTEND;VALUE=DATE:20230602
-DTSTAMP:20230523T203944Z
+DTSTAMP:20230531T080426Z
 UID:6glp1d4r3ktri550soh2koh51u@eightwone.com
 CREATED:20230523T170549Z
 DESCRIPTION:The preview program enabling REST API access to on-premises mai
@@ -244,7 +286,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230715
 DTEND;VALUE=DATE:20230716
-DTSTAMP:20230523T203944Z
+DTSTAMP:20230531T080426Z
 UID:385dgngujvrckddjv0o40cf55h@eightwone.com
 CREATED:20230417T081813Z
 DESCRIPTION:Remote PowerShell for Security &amp\; Compliance Center / EOP t
@@ -263,7 +305,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230901
 DTEND;VALUE=DATE:20230902
-DTSTAMP:20230523T203944Z
+DTSTAMP:20230531T080426Z
 UID:2cvq3feh8vqi4d9vepksft3eao@eightwone.com
 CREATED:20230329T223707Z
 DESCRIPTION:RPS opt-out / re-enablement diagnostic is retired.<br><br><a hr
@@ -280,30 +322,9 @@ SUMMARY:RPS for EXO opt-out/re-enabling retirement
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230701
-DTEND;VALUE=DATE:20230702
-DTSTAMP:20230523T203944Z
-UID:4rrtigaqtjbimlbhmush0lo64h@eightwone.com
-CREATED:20230329T223517Z
-DESCRIPTION:<p>Tenants created after July 1st will have RPS disabled perman
- ently. Diagnostics cannot re-enable RPS for those tenants. Tenants created 
- from July 1st onwards must use EXOv3 and connect without UseRPSSession.</p>
- <p><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/depre
- cation-of-remote-powershell-in-exchange-online-re-enabling/ba-p/3779692?WT.
- mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-tea
- m-blog/deprecation-of-remote-powershell-in-exchange-online-re-enabling/ba-p
- /3779692?WT.mc_id=M365-MVP-5000284</a></p>
-LAST-MODIFIED:20230417T081931Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:RPS permanently for EXO in new tenants
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231001
 DTEND;VALUE=DATE:20231002
-DTSTAMP:20230523T203944Z
+DTSTAMP:20230531T080426Z
 UID:73igg1665947mmirpffgd6p0qp@eightwone.com
 CREATED:20230329T223844Z
 DESCRIPTION:<p>Blocking of RPS for Exchange Online for all tenants. All ten
@@ -323,7 +344,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240901
 DTEND;VALUE=DATE:20240902
-DTSTAMP:20230523T203944Z
+DTSTAMP:20230531T080426Z
 UID:7vrvnbd0rn9u6ev3rucbol79e6@eightwone.com
 CREATED:20230414T072357Z
 DESCRIPTION:Retirement of Client Access Rules for Exchange Online<br> <a hr
@@ -342,7 +363,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230901
 DTEND;VALUE=DATE:20230902
-DTSTAMP:20230523T203944Z
+DTSTAMP:20230531T080426Z
 UID:2se2l2cjscbt6asmmj5r4b6u8c@eightwone.com
 CREATED:20230414T072255Z
 DESCRIPTION:Retirement of Client Access Rules in Exchange Online for rules 
@@ -361,7 +382,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230701
 DTEND;VALUE=DATE:20230702
-DTSTAMP:20230523T203944Z
+DTSTAMP:20230531T080426Z
 UID:26bco4bklitmpqjovgpn9on1ks@eightwone.com
 CREATED:20230316T123954Z
 DESCRIPTION:ADAL reaches EOL after June 30th\, 2023. While ADAL apps may co
@@ -382,7 +403,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230411
 DTEND;VALUE=DATE:20230412
-DTSTAMP:20230523T203944Z
+DTSTAMP:20230531T080426Z
 UID:78u6t1t34eo042sb45e14ogqs5@eightwone.com
 CREATED:20230316T123946Z
 DESCRIPTION:<a href="https://techcommunity.microsoft.com/t5/exchange-team-b
@@ -404,7 +425,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230331
 DTEND;VALUE=DATE:20230401
-DTSTAMP:20230523T203944Z
+DTSTAMP:20230531T080426Z
 UID:1mif22lcorglevbgueg36qedrt@eightwone.com
 CREATED:20230316T123927Z
 DESCRIPTION:The retirement date of the Azure AD Graph and MSOnline PowerShe
@@ -422,30 +443,9 @@ SUMMARY:AzureAD/MSOnline licensing API retirement
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230615
-DTEND;VALUE=DATE:20230616
-DTSTAMP:20230523T203944Z
-UID:57ank356flo26ooca24vlbafbb@eightwone.com
-CREATED:20230329T223147Z
-DESCRIPTION:We will start disabling RPS for tenants who have not opted-out 
- or re-enabled RPS yet and have used it in the past. Re-enablement of RPS us
- ing the diagnostic is possible until September 2023 (unless tenant was crea
- ted after April 2023).<br><a href="https://techcommunity.microsoft.com/t5/e
- xchange-team-blog/deprecation-of-remote-powershell-in-exchange-online-re-en
- abling/ba-p/3779692?WT.mc_id=M365-MVP-5000284">https://techcommunity.micros
- oft.com/t5/exchange-team-blog/deprecation-of-remote-powershell-in-exchange-
- online-re-enabling/ba-p/3779692?WT.mc_id=M365-MVP-5000284</a>
-LAST-MODIFIED:20230329T223257Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:RPS disabled tenants not opted-out
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230401
 DTEND;VALUE=DATE:20230402
-DTSTAMP:20230523T203944Z
+DTSTAMP:20230531T080426Z
 UID:3qro02sr6qr5l70fkb59250ran@eightwone.com
 CREATED:20230316T123937Z
 DESCRIPTION:Tenants created on April 1st and newer will have RPS disabled b
