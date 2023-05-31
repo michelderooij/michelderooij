@@ -17,13 +17,13 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/4d7d091a2d...780195983f)
 - [michelderooij closed an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/30)
 - [michelderooij commented on issue michelderooij/Get-EventSession#30](https://github.com/michelderooij/Get-EventSession/issues/30#issuecomment-1562680595)
 - [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/04c203a752...e1c3196fda)
 - [michelderooij opened a pull request in MicrosoftDocs/OfficeDocs-Support](https://github.com/MicrosoftDocs/OfficeDocs-Support/pull/1965)
 - [michelderooij pushed to patch-1 in michelderooij/OfficeDocs-Support](https://github.com/michelderooij/OfficeDocs-Support/compare/9a5365b10b...5589ac1cb6)
 - [michelderooij forked michelderooij/OfficeDocs-Support from MicrosoftDocs/OfficeDocs-Support](https://github.com/michelderooij/OfficeDocs-Support)
-- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/23e69569f9...eced029d32)
 - [michelderooij opened a pull request in MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/pull/109826)
 - [michelderooij pushed to patch-2 in michelderooij/azure-docs](https://github.com/michelderooij/azure-docs/compare/db2dd8d428...c454b9861f)
 - [michelderooij pushed to master in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/5e075d6b2f...289565815f)
