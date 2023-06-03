@@ -6,383 +6,51 @@ METHOD:PUBLISH
 X-WR-CALNAME:Events
 X-WR-TIMEZONE:America/Vancouver
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230401
-DTEND;VALUE=DATE:20230402
-DTSTAMP:20230602T160410Z
-UID:3qro02sr6qr5l70fkb59250ran@eightwone.com
-CREATED:20230316T123937Z
-DESCRIPTION:Tenants created on April 1st and newer will have RPS disabled b
- y default\, and can re-enable it (using diagnostic) until June 2023. After 
- July 2023 onwards\, new tenants thus created will not be able to re-enable 
- RPS. <br><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog
- /deprecation-of-remote-powershell-in-exchange-online-re-enabling/ba-p/37796
- 92?WT.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchan
- ge-team-blog/deprecation-of-remote-powershell-in-exchange-online-re-enablin
- g/ba-p/3779692?WT.mc_id=M365-MVP-5000284</a>
-LAST-MODIFIED:20230329T223225Z
+DTSTART;VALUE=DATE:20230701
+DTEND;VALUE=DATE:20230702
+DTSTAMP:20230603T001439Z
+UID:4rrtigaqtjbimlbhmush0lo64h@eightwone.com
+CREATED:20230329T223517Z
+DESCRIPTION:<p>Tenants created after July 1st will have RPS disabled perman
+ ently. Diagnostics cannot re-enable RPS for those tenants. Tenants created 
+ from July 1st onwards must use EXOv3 and connect without UseRPSSession.</p>
+ <p><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/depre
+ cation-of-remote-powershell-in-exchange-online-re-enabling/ba-p/3779692?WT.
+ mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-tea
+ m-blog/deprecation-of-remote-powershell-in-exchange-online-re-enabling/ba-p
+ /3779692?WT.mc_id=M365-MVP-5000284</a></p>
+LAST-MODIFIED:20230531T075846Z
+LOCATION:
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:RPS disabled new EXO tenants
-TRANSP:OPAQUE
+SUMMARY:RPS disabled for EXO in new tenants
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230331
-DTEND;VALUE=DATE:20230401
-DTSTAMP:20230602T160410Z
-UID:1mif22lcorglevbgueg36qedrt@eightwone.com
-CREATED:20230316T123927Z
-DESCRIPTION:The retirement date of the Azure AD Graph and MSOnline PowerShe
- ll licensing assignment APIs and PowerShell cmdlets for existing tenants is
-  March 31\, 2023.<br><a href="https://techcommunity.microsoft.com/t5/micros
- oft-entra-azure-ad-blog/azure-ad-change-management-simplified/ba-p/2967456?
- WT.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/microsoft
- -entra-azure-ad-blog/azure-ad-change-management-simplified/ba-p/2967456?WT.
- mc_id=M365-MVP-5000284</a>
-LAST-MODIFIED:20230330T055449Z
+DTSTART;VALUE=DATE:20230601
+DTEND;VALUE=DATE:20230602
+DTSTAMP:20230603T001439Z
+UID:57ank356flo26ooca24vlbafbb@eightwone.com
+CREATED:20230329T223147Z
+DESCRIPTION:We will start disabling RPS for tenants who have not opted-out 
+ or re-enabled RPS yet and have used it in the past. Re-enablement of RPS us
+ ing the diagnostic is possible until September 2023 (unless tenant was crea
+ ted after April 2023).<br><a href="https://techcommunity.microsoft.com/t5/e
+ xchange-team-blog/deprecation-of-remote-powershell-in-exchange-online-re-en
+ abling/ba-p/3779692?WT.mc_id=M365-MVP-5000284">https://techcommunity.micros
+ oft.com/t5/exchange-team-blog/deprecation-of-remote-powershell-in-exchange-
+ online-re-enabling/ba-p/3779692?WT.mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230531T075742Z
+LOCATION:
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:AzureAD/MSOnline licensing API retirement
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230411
-DTEND;VALUE=DATE:20230412
-DTSTAMP:20230602T160410Z
-UID:78u6t1t34eo042sb45e14ogqs5@eightwone.com
-CREATED:20230316T123946Z
-DESCRIPTION:<a href="https://techcommunity.microsoft.com/t5/exchange-team-b
- log/exchange-server-2013-end-of-support-approaching-fast/ba-p/3741491?WT.mc
- _id=M365-MVP-5000284"></a><p>On April 11\, 2023\, Exchange 2013 will reach 
- EOL. After that date\, Microsoft will no longer provide technical suppor\, 
- bug or security fixes\, or time zone updates.</p><a href="https://techcommu
- nity.microsoft.com/t5/exchange-team-blog/exchange-server-2013-end-of-suppor
- t-approaching-fast/ba-p/3741491?WT.mc_id=M365-MVP-5000284">https://techcomm
- unity.microsoft.com/t5/exchange-team-blog/exchange-server-2013-end-of-suppo
- rt-approaching-fast/ba-p/3741491?WT.mc_id=M365-MVP-5000284</a>
-LAST-MODIFIED:20230330T055607Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Exchange 2013 End of Support
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230701
-DTEND;VALUE=DATE:20230702
-DTSTAMP:20230602T160410Z
-UID:26bco4bklitmpqjovgpn9on1ks@eightwone.com
-CREATED:20230316T123954Z
-DESCRIPTION:ADAL reaches EOL after June 30th\, 2023. While ADAL apps may co
- ntinue to work\, no support or security fixes will be provided past end of 
- life. Azure AD Graph API will retire any time after June 30th\, 2023 as wel
- l.<br><a href="https://techcommunity.microsoft.com/t5/microsoft-entra-azure
- -ad-blog/azure-ad-change-management-simplified/ba-p/2967456?WT.mc_id=M365-M
- VP-5000284">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad
- -blog/azure-ad-change-management-simplified/ba-p/2967456?WT.mc_id=M365-MVP-
- 5000284</a>
-LAST-MODIFIED:20230330T055900Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MSOnline/AzureAD modules End of Support
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230901
-DTEND;VALUE=DATE:20230902
-DTSTAMP:20230602T160410Z
-UID:2se2l2cjscbt6asmmj5r4b6u8c@eightwone.com
-CREATED:20230414T072255Z
-DESCRIPTION:Retirement of Client Access Rules in Exchange Online for rules 
- without technical limitations <br><a href="https://techcommunity.microsoft.
- com/t5/exchange-team-blog/update-deprecation-of-client-access-rules-in-exch
- ange-online/ba-p/3790165?WT.mc_id=M365-MVP-5000284">https://techcommunity.m
- icrosoft.com/t5/exchange-team-blog/update-deprecation-of-client-access-rule
- s-in-exchange-online/ba-p/3790165?WT.mc_id=M365-MVP-5000284</a>
-LAST-MODIFIED:20230414T072500Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Client Access Rules retirement in EXO for rules without limitations
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240901
-DTEND;VALUE=DATE:20240902
-DTSTAMP:20230602T160410Z
-UID:7vrvnbd0rn9u6ev3rucbol79e6@eightwone.com
-CREATED:20230414T072357Z
-DESCRIPTION:Retirement of Client Access Rules for Exchange Online<br> <a hr
- ef="https://techcommunity.microsoft.com/t5/exchange-team-blog/update-deprec
- ation-of-client-access-rules-in-exchange-online/ba-p/3790165?WT.mc_id=M365-
- MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-team-blog/upda
- te-deprecation-of-client-access-rules-in-exchange-online/ba-p/3790165?WT.mc
- _id=M365-MVP-5000284</a>
-LAST-MODIFIED:20230414T072514Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Client Access Rules retirement in EXO
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231001
-DTEND;VALUE=DATE:20231002
-DTSTAMP:20230602T160410Z
-UID:73igg1665947mmirpffgd6p0qp@eightwone.com
-CREATED:20230329T223844Z
-DESCRIPTION:<p>Blocking of RPS for Exchange Online for all tenants. All ten
- ants must use EXOv3 module and Connect-ExchangeOnline without UseRPSSession
- .<br><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/dep
- recation-of-remote-powershell-in-exchange-online-re-enabling/ba-p/3779692?W
- T.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-t
- eam-blog/deprecation-of-remote-powershell-in-exchange-online-re-enabling/ba
- -p/3779692?WT.mc_id=M365-MVP-5000284</a> </p>
-LAST-MODIFIED:20230417T081903Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:RPS retirement for EXO
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230901
-DTEND;VALUE=DATE:20230902
-DTSTAMP:20230602T160410Z
-UID:2cvq3feh8vqi4d9vepksft3eao@eightwone.com
-CREATED:20230329T223707Z
-DESCRIPTION:RPS opt-out / re-enablement diagnostic is retired.<br><br><a hr
- ef="https://techcommunity.microsoft.com/t5/exchange-team-blog/deprecation-o
- f-remote-powershell-in-exchange-online-re-enabling/ba-p/3779692?WT.mc_id=M3
- 65-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-team-blog/d
- eprecation-of-remote-powershell-in-exchange-online-re-enabling/ba-p/3779692
- ?WT.mc_id=M365-MVP-5000284</a>
-LAST-MODIFIED:20230417T082002Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:RPS for EXO opt-out/re-enabling retirement
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230715
-DTEND;VALUE=DATE:20230716
-DTSTAMP:20230602T160410Z
-UID:385dgngujvrckddjv0o40cf55h@eightwone.com
-CREATED:20230417T081813Z
-DESCRIPTION:Remote PowerShell for Security &amp\; Compliance Center / EOP t
- hrough Connect-IPPPSession will be retired\, and REST will be required whic
- h will become availalbe in EXOM v3.2 and later. <br><a href="https://admin.
- microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC541649">https
- ://admin.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC5416
- 49</a>
-LAST-MODIFIED:20230417T082039Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:RPS Retirement for SCC/EOP
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230601
-DTEND;VALUE=DATE:20230602
-DTSTAMP:20230602T160410Z
-UID:6glp1d4r3ktri550soh2koh51u@eightwone.com
-CREATED:20230523T170549Z
-DESCRIPTION:The preview program enabling REST API access to on-premises mai
- lboxes for Hybrid Exchange organizations preview program closes starting Ju
- ne\, 2023.<br><a href="https://techcommunity.microsoft.com/t5/exchange-team
- -blog/the-end-of-the-rest-api-for-on-premises-mailboxes-preview/ba-p/322121
- 9?WT.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchang
- e-team-blog/the-end-of-the-rest-api-for-on-premises-mailboxes-preview/ba-p/
- 3221219?WT.mc_id=M365-MVP-5000284</a>
-LAST-MODIFIED:20230523T171035Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:End of Hybrid REST support
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230601
-DTEND;VALUE=DATE:20230602
-DTSTAMP:20230602T160410Z
-UID:0q7c49bkkllie7vtd3m0fgsscb@eightwone.com
-CREATED:20230523T203121Z
-DESCRIPTION:Reporting detected Exchange 2007 servers sending inbound messag
- es using on-prem connector.<br><a href="https://techcommunity.microsoft.com
- /t5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vuln
- erable/ba-p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.micros
- oft.com/t5/exchange-team-blog/throttling-and-blocking-email-from-persistent
- ly-vulnerable/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated tim
- elines:<br><a href="https://techcommunity.microsoft.com/t5/exchange-team-bl
- og/update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?W
- T.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-t
- eam-blog/update-on-transport-enforcement-system-in-exchange-online/ba-p/382
- 7774?WT.mc_id=M365-MVP-5000284</a>
-LAST-MODIFIED:20230523T203121Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Exchange Hybrid: Reporting inbound Exchange 2007
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230701
-DTEND;VALUE=DATE:20230702
-DTSTAMP:20230602T160410Z
-UID:69bk3euq5dpqrelb5n6d1ra7oh@eightwone.com
-CREATED:20230523T203304Z
-DESCRIPTION:Throttling Exchange 2007 servers sending inbound messages using
-  on-prem connector.<br><a href="https://techcommunity.microsoft.com/t5/exch
- ange-team-blog/throttling-and-blocking-email-from-persistently-vulnerable/b
- a-p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/
- t5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vulne
- rable/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated timelines:<
- br><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/updat
- e-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.mc_id=
- M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-team-blog
- /update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.
- mc_id=M365-MVP-5000284</a>
-LAST-MODIFIED:20230523T203304Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Exchange Hybrid: Throttling inbound Exchange 2007
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230801
-DTEND;VALUE=DATE:20230802
-DTSTAMP:20230602T160410Z
-UID:3u8nqtiee4gr42pfpl5bvvtb90@eightwone.com
-CREATED:20230523T203410Z
-DESCRIPTION:Blocking Exchange 2007 servers sending inbound messages using o
- n-prem connector.<br><a href="https://techcommunity.microsoft.com/t5/exchan
- ge-team-blog/throttling-and-blocking-email-from-persistently-vulnerable/ba-
- p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5
- /exchange-team-blog/throttling-and-blocking-email-from-persistently-vulnera
- ble/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated timelines:<br
- ><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/update-
- on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.mc_id=M3
- 65-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-team-blog/u
- pdate-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.mc
- _id=M365-MVP-5000284</a>
-LAST-MODIFIED:20230523T203410Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Exchange Hybrid: Blocking inbound Exchange 2007
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230901
-DTEND;VALUE=DATE:20230902
-DTSTAMP:20230602T160410Z
-UID:4jtfkhj6vm89ifpcri172uqgsv@eightwone.com
-CREATED:20230523T203448Z
-DESCRIPTION:Reporting detected Exchange 2010 servers sending inbound messag
- es using on-prem connector.<br><a href="https://techcommunity.microsoft.com
- /t5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vuln
- erable/ba-p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.micros
- oft.com/t5/exchange-team-blog/throttling-and-blocking-email-from-persistent
- ly-vulnerable/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated tim
- elines:<br><a href="https://techcommunity.microsoft.com/t5/exchange-team-bl
- og/update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?W
- T.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-t
- eam-blog/update-on-transport-enforcement-system-in-exchange-online/ba-p/382
- 7774?WT.mc_id=M365-MVP-5000284</a>
-LAST-MODIFIED:20230523T203448Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Exchange Hybrid: Reporting inbound Exchange 2010
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231001
-DTEND;VALUE=DATE:20231002
-DTSTAMP:20230602T160410Z
-UID:63f99t19ktdgmfptdbbogq7s9m@eightwone.com
-CREATED:20230523T203529Z
-DESCRIPTION:Throttling Exchange 2010servers sending inbound messages using 
- on-prem connector.<br><a href="https://techcommunity.microsoft.com/t5/excha
- nge-team-blog/throttling-and-blocking-email-from-persistently-vulnerable/ba
- -p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t
- 5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vulner
- able/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated timelines:<b
- r><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/update
- -on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.mc_id=M
- 365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-team-blog/
- update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.m
- c_id=M365-MVP-5000284</a>
-LAST-MODIFIED:20230523T203529Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Exchange Hybrid: Throttling inbound Exchange 2010
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231101
-DTEND;VALUE=DATE:20231102
-DTSTAMP:20230602T160410Z
-UID:3q8ua9a9g6dhjp4bkvqkn0ivti@eightwone.com
-CREATED:20230523T203616Z
-DESCRIPTION:Blocking detected Exchange 2010servers sending inbound messages
-  using on-prem connector.<br><a href="https://techcommunity.microsoft.com/t
- 5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vulner
- able/ba-p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.microsof
- t.com/t5/exchange-team-blog/throttling-and-blocking-email-from-persistently
- -vulnerable/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated timel
- ines:<br><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog
- /update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.
- mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-tea
- m-blog/update-on-transport-enforcement-system-in-exchange-online/ba-p/38277
- 74?WT.mc_id=M365-MVP-5000284</a>
-LAST-MODIFIED:20230523T203634Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Exchange Hybrid: Blocking inbound Exchange 2010
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231201
-DTEND;VALUE=DATE:20231202
-DTSTAMP:20230602T160410Z
-UID:1l0eiejk9c4hjuqontktfh56m8@eightwone.com
-CREATED:20230523T203741Z
-DESCRIPTION:Reporting detected Exchange 2013 servers sending inbound messag
- es using on-prem connector.<br><a href="https://techcommunity.microsoft.com
- /t5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vuln
- erable/ba-p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.micros
- oft.com/t5/exchange-team-blog/throttling-and-blocking-email-from-persistent
- ly-vulnerable/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated tim
- elines:<br><a href="https://techcommunity.microsoft.com/t5/exchange-team-bl
- og/update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?W
- T.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-t
- eam-blog/update-on-transport-enforcement-system-in-exchange-online/ba-p/382
- 7774?WT.mc_id=M365-MVP-5000284</a>
-LAST-MODIFIED:20230523T203741Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Exchange Hybrid: Reporting inbound Exchange 2013
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240101
-DTEND;VALUE=DATE:20240102
-DTSTAMP:20230602T160410Z
-UID:3ud7453c42dabu1bkg0ioj0rgc@eightwone.com
-CREATED:20230523T203824Z
-DESCRIPTION:Throttling Exchange 2013 servers sending inbound messages using
-  on-prem connector.<br><a href="https://techcommunity.microsoft.com/t5/exch
- ange-team-blog/throttling-and-blocking-email-from-persistently-vulnerable/b
- a-p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/
- t5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vulne
- rable/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated timelines:<
- br><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/updat
- e-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.mc_id=
- M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-team-blog
- /update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.
- mc_id=M365-MVP-5000284</a>
-LAST-MODIFIED:20230523T203824Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Exchange Hybrid: Throttling inbound Exchange 2010
+SUMMARY:RPS disabled tenants not opted-out
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240201
 DTEND;VALUE=DATE:20240202
-DTSTAMP:20230602T160410Z
+DTSTAMP:20230603T001439Z
 UID:1698crh1g913cfbho9euut9r9e@eightwone.com
 CREATED:20230523T203920Z
 DESCRIPTION:Blocking detected Exchange 2013 servers sending inbound message
@@ -397,49 +65,402 @@ DESCRIPTION:Blocking detected Exchange 2013 servers sending inbound message
  am-blog/update-on-transport-enforcement-system-in-exchange-online/ba-p/3827
  774?WT.mc_id=M365-MVP-5000284</a>
 LAST-MODIFIED:20230523T203920Z
+LOCATION:
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Exchange Hybrid: Blocking inbound Exchange 2013
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230601
-DTEND;VALUE=DATE:20230602
-DTSTAMP:20230602T160410Z
-UID:57ank356flo26ooca24vlbafbb@eightwone.com
-CREATED:20230329T223147Z
-DESCRIPTION:We will start disabling RPS for tenants who have not opted-out 
- or re-enabled RPS yet and have used it in the past. Re-enablement of RPS us
- ing the diagnostic is possible until September 2023 (unless tenant was crea
- ted after April 2023).<br><a href="https://techcommunity.microsoft.com/t5/e
- xchange-team-blog/deprecation-of-remote-powershell-in-exchange-online-re-en
- abling/ba-p/3779692?WT.mc_id=M365-MVP-5000284">https://techcommunity.micros
- oft.com/t5/exchange-team-blog/deprecation-of-remote-powershell-in-exchange-
- online-re-enabling/ba-p/3779692?WT.mc_id=M365-MVP-5000284</a>
-LAST-MODIFIED:20230531T075742Z
-SEQUENCE:1
+DTSTART;VALUE=DATE:20240101
+DTEND;VALUE=DATE:20240102
+DTSTAMP:20230603T001439Z
+UID:3ud7453c42dabu1bkg0ioj0rgc@eightwone.com
+CREATED:20230523T203824Z
+DESCRIPTION:Throttling Exchange 2013 servers sending inbound messages using
+  on-prem connector.<br><a href="https://techcommunity.microsoft.com/t5/exch
+ ange-team-blog/throttling-and-blocking-email-from-persistently-vulnerable/b
+ a-p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/
+ t5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vulne
+ rable/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated timelines:<
+ br><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/updat
+ e-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.mc_id=
+ M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-team-blog
+ /update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.
+ mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230523T203824Z
+LOCATION:
+SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:RPS disabled tenants not opted-out
+SUMMARY:Exchange Hybrid: Throttling inbound Exchange 2010
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231201
+DTEND;VALUE=DATE:20231202
+DTSTAMP:20230603T001439Z
+UID:1l0eiejk9c4hjuqontktfh56m8@eightwone.com
+CREATED:20230523T203741Z
+DESCRIPTION:Reporting detected Exchange 2013 servers sending inbound messag
+ es using on-prem connector.<br><a href="https://techcommunity.microsoft.com
+ /t5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vuln
+ erable/ba-p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.micros
+ oft.com/t5/exchange-team-blog/throttling-and-blocking-email-from-persistent
+ ly-vulnerable/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated tim
+ elines:<br><a href="https://techcommunity.microsoft.com/t5/exchange-team-bl
+ og/update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?W
+ T.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-t
+ eam-blog/update-on-transport-enforcement-system-in-exchange-online/ba-p/382
+ 7774?WT.mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230523T203741Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exchange Hybrid: Reporting inbound Exchange 2013
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231101
+DTEND;VALUE=DATE:20231102
+DTSTAMP:20230603T001439Z
+UID:3q8ua9a9g6dhjp4bkvqkn0ivti@eightwone.com
+CREATED:20230523T203616Z
+DESCRIPTION:Blocking detected Exchange 2010servers sending inbound messages
+  using on-prem connector.<br><a href="https://techcommunity.microsoft.com/t
+ 5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vulner
+ able/ba-p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.microsof
+ t.com/t5/exchange-team-blog/throttling-and-blocking-email-from-persistently
+ -vulnerable/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated timel
+ ines:<br><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog
+ /update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.
+ mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-tea
+ m-blog/update-on-transport-enforcement-system-in-exchange-online/ba-p/38277
+ 74?WT.mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230523T203634Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exchange Hybrid: Blocking inbound Exchange 2010
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231001
+DTEND;VALUE=DATE:20231002
+DTSTAMP:20230603T001439Z
+UID:63f99t19ktdgmfptdbbogq7s9m@eightwone.com
+CREATED:20230523T203529Z
+DESCRIPTION:Throttling Exchange 2010servers sending inbound messages using 
+ on-prem connector.<br><a href="https://techcommunity.microsoft.com/t5/excha
+ nge-team-blog/throttling-and-blocking-email-from-persistently-vulnerable/ba
+ -p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t
+ 5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vulner
+ able/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated timelines:<b
+ r><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/update
+ -on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.mc_id=M
+ 365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-team-blog/
+ update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.m
+ c_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230523T203529Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exchange Hybrid: Throttling inbound Exchange 2010
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230901
+DTEND;VALUE=DATE:20230902
+DTSTAMP:20230603T001439Z
+UID:4jtfkhj6vm89ifpcri172uqgsv@eightwone.com
+CREATED:20230523T203448Z
+DESCRIPTION:Reporting detected Exchange 2010 servers sending inbound messag
+ es using on-prem connector.<br><a href="https://techcommunity.microsoft.com
+ /t5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vuln
+ erable/ba-p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.micros
+ oft.com/t5/exchange-team-blog/throttling-and-blocking-email-from-persistent
+ ly-vulnerable/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated tim
+ elines:<br><a href="https://techcommunity.microsoft.com/t5/exchange-team-bl
+ og/update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?W
+ T.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-t
+ eam-blog/update-on-transport-enforcement-system-in-exchange-online/ba-p/382
+ 7774?WT.mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230523T203448Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exchange Hybrid: Reporting inbound Exchange 2010
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230801
+DTEND;VALUE=DATE:20230802
+DTSTAMP:20230603T001439Z
+UID:3u8nqtiee4gr42pfpl5bvvtb90@eightwone.com
+CREATED:20230523T203410Z
+DESCRIPTION:Blocking Exchange 2007 servers sending inbound messages using o
+ n-prem connector.<br><a href="https://techcommunity.microsoft.com/t5/exchan
+ ge-team-blog/throttling-and-blocking-email-from-persistently-vulnerable/ba-
+ p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5
+ /exchange-team-blog/throttling-and-blocking-email-from-persistently-vulnera
+ ble/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated timelines:<br
+ ><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/update-
+ on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.mc_id=M3
+ 65-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-team-blog/u
+ pdate-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.mc
+ _id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230523T203410Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exchange Hybrid: Blocking inbound Exchange 2007
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230701
 DTEND;VALUE=DATE:20230702
-DTSTAMP:20230602T160410Z
-UID:4rrtigaqtjbimlbhmush0lo64h@eightwone.com
-CREATED:20230329T223517Z
-DESCRIPTION:<p>Tenants created after July 1st will have RPS disabled perman
- ently. Diagnostics cannot re-enable RPS for those tenants. Tenants created 
- from July 1st onwards must use EXOv3 and connect without UseRPSSession.</p>
- <p><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/depre
- cation-of-remote-powershell-in-exchange-online-re-enabling/ba-p/3779692?WT.
- mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-tea
- m-blog/deprecation-of-remote-powershell-in-exchange-online-re-enabling/ba-p
- /3779692?WT.mc_id=M365-MVP-5000284</a></p>
-LAST-MODIFIED:20230531T075846Z
+DTSTAMP:20230603T001439Z
+UID:69bk3euq5dpqrelb5n6d1ra7oh@eightwone.com
+CREATED:20230523T203304Z
+DESCRIPTION:Throttling Exchange 2007 servers sending inbound messages using
+  on-prem connector.<br><a href="https://techcommunity.microsoft.com/t5/exch
+ ange-team-blog/throttling-and-blocking-email-from-persistently-vulnerable/b
+ a-p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/
+ t5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vulne
+ rable/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated timelines:<
+ br><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/updat
+ e-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.mc_id=
+ M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-team-blog
+ /update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?WT.
+ mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230523T203304Z
+LOCATION:
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:RPS disabled for EXO in new tenants
+SUMMARY:Exchange Hybrid: Throttling inbound Exchange 2007
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230601
+DTEND;VALUE=DATE:20230602
+DTSTAMP:20230603T001439Z
+UID:0q7c49bkkllie7vtd3m0fgsscb@eightwone.com
+CREATED:20230523T203121Z
+DESCRIPTION:Reporting detected Exchange 2007 servers sending inbound messag
+ es using on-prem connector.<br><a href="https://techcommunity.microsoft.com
+ /t5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vuln
+ erable/ba-p/3815328?WT.mc_id=M365-MVP-5000284">https://techcommunity.micros
+ oft.com/t5/exchange-team-blog/throttling-and-blocking-email-from-persistent
+ ly-vulnerable/ba-p/3815328?WT.mc_id=M365-MVP-5000284</a><br><br>Updated tim
+ elines:<br><a href="https://techcommunity.microsoft.com/t5/exchange-team-bl
+ og/update-on-transport-enforcement-system-in-exchange-online/ba-p/3827774?W
+ T.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-t
+ eam-blog/update-on-transport-enforcement-system-in-exchange-online/ba-p/382
+ 7774?WT.mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230523T203121Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exchange Hybrid: Reporting inbound Exchange 2007
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230601
+DTEND;VALUE=DATE:20230602
+DTSTAMP:20230603T001439Z
+UID:6glp1d4r3ktri550soh2koh51u@eightwone.com
+CREATED:20230523T170549Z
+DESCRIPTION:The preview program enabling REST API access to on-premises mai
+ lboxes for Hybrid Exchange organizations preview program closes starting Ju
+ ne\, 2023.<br><a href="https://techcommunity.microsoft.com/t5/exchange-team
+ -blog/the-end-of-the-rest-api-for-on-premises-mailboxes-preview/ba-p/322121
+ 9?WT.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchang
+ e-team-blog/the-end-of-the-rest-api-for-on-premises-mailboxes-preview/ba-p/
+ 3221219?WT.mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230523T171035Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:End of Hybrid REST support
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230715
+DTEND;VALUE=DATE:20230716
+DTSTAMP:20230603T001439Z
+UID:385dgngujvrckddjv0o40cf55h@eightwone.com
+CREATED:20230417T081813Z
+DESCRIPTION:Remote PowerShell for Security &amp\; Compliance Center / EOP t
+ hrough Connect-IPPPSession will be retired\, and REST will be required whic
+ h will become availalbe in EXOM v3.2 and later. <br><a href="https://admin.
+ microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC541649">https
+ ://admin.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC5416
+ 49</a>
+LAST-MODIFIED:20230417T082039Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RPS Retirement for SCC/EOP
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230901
+DTEND;VALUE=DATE:20230902
+DTSTAMP:20230603T001439Z
+UID:2cvq3feh8vqi4d9vepksft3eao@eightwone.com
+CREATED:20230329T223707Z
+DESCRIPTION:RPS opt-out / re-enablement diagnostic is retired.<br><br><a hr
+ ef="https://techcommunity.microsoft.com/t5/exchange-team-blog/deprecation-o
+ f-remote-powershell-in-exchange-online-re-enabling/ba-p/3779692?WT.mc_id=M3
+ 65-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-team-blog/d
+ eprecation-of-remote-powershell-in-exchange-online-re-enabling/ba-p/3779692
+ ?WT.mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230417T082002Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RPS for EXO opt-out/re-enabling retirement
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231001
+DTEND;VALUE=DATE:20231002
+DTSTAMP:20230603T001439Z
+UID:73igg1665947mmirpffgd6p0qp@eightwone.com
+CREATED:20230329T223844Z
+DESCRIPTION:<p>Blocking of RPS for Exchange Online for all tenants. All ten
+ ants must use EXOv3 module and Connect-ExchangeOnline without UseRPSSession
+ .<br><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/dep
+ recation-of-remote-powershell-in-exchange-online-re-enabling/ba-p/3779692?W
+ T.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-t
+ eam-blog/deprecation-of-remote-powershell-in-exchange-online-re-enabling/ba
+ -p/3779692?WT.mc_id=M365-MVP-5000284</a> </p>
+LAST-MODIFIED:20230417T081903Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RPS retirement for EXO
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240901
+DTEND;VALUE=DATE:20240902
+DTSTAMP:20230603T001439Z
+UID:7vrvnbd0rn9u6ev3rucbol79e6@eightwone.com
+CREATED:20230414T072357Z
+DESCRIPTION:Retirement of Client Access Rules for Exchange Online<br> <a hr
+ ef="https://techcommunity.microsoft.com/t5/exchange-team-blog/update-deprec
+ ation-of-client-access-rules-in-exchange-online/ba-p/3790165?WT.mc_id=M365-
+ MVP-5000284">https://techcommunity.microsoft.com/t5/exchange-team-blog/upda
+ te-deprecation-of-client-access-rules-in-exchange-online/ba-p/3790165?WT.mc
+ _id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230414T072514Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Client Access Rules retirement in EXO
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230901
+DTEND;VALUE=DATE:20230902
+DTSTAMP:20230603T001439Z
+UID:2se2l2cjscbt6asmmj5r4b6u8c@eightwone.com
+CREATED:20230414T072255Z
+DESCRIPTION:Retirement of Client Access Rules in Exchange Online for rules 
+ without technical limitations <br><a href="https://techcommunity.microsoft.
+ com/t5/exchange-team-blog/update-deprecation-of-client-access-rules-in-exch
+ ange-online/ba-p/3790165?WT.mc_id=M365-MVP-5000284">https://techcommunity.m
+ icrosoft.com/t5/exchange-team-blog/update-deprecation-of-client-access-rule
+ s-in-exchange-online/ba-p/3790165?WT.mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230414T072500Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Client Access Rules retirement in EXO for rules without limitations
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230701
+DTEND;VALUE=DATE:20230702
+DTSTAMP:20230603T001439Z
+UID:26bco4bklitmpqjovgpn9on1ks@eightwone.com
+CREATED:20230316T123954Z
+DESCRIPTION:ADAL reaches EOL after June 30th\, 2023. While ADAL apps may co
+ ntinue to work\, no support or security fixes will be provided past end of 
+ life. Azure AD Graph API will retire any time after June 30th\, 2023 as wel
+ l.<br><a href="https://techcommunity.microsoft.com/t5/microsoft-entra-azure
+ -ad-blog/azure-ad-change-management-simplified/ba-p/2967456?WT.mc_id=M365-M
+ VP-5000284">https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad
+ -blog/azure-ad-change-management-simplified/ba-p/2967456?WT.mc_id=M365-MVP-
+ 5000284</a>
+LAST-MODIFIED:20230330T055900Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MSOnline/AzureAD modules End of Support
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230411
+DTEND;VALUE=DATE:20230412
+DTSTAMP:20230603T001439Z
+UID:78u6t1t34eo042sb45e14ogqs5@eightwone.com
+CREATED:20230316T123946Z
+DESCRIPTION:<a href="https://techcommunity.microsoft.com/t5/exchange-team-b
+ log/exchange-server-2013-end-of-support-approaching-fast/ba-p/3741491?WT.mc
+ _id=M365-MVP-5000284"></a><p>On April 11\, 2023\, Exchange 2013 will reach 
+ EOL. After that date\, Microsoft will no longer provide technical suppor\, 
+ bug or security fixes\, or time zone updates.</p><a href="https://techcommu
+ nity.microsoft.com/t5/exchange-team-blog/exchange-server-2013-end-of-suppor
+ t-approaching-fast/ba-p/3741491?WT.mc_id=M365-MVP-5000284">https://techcomm
+ unity.microsoft.com/t5/exchange-team-blog/exchange-server-2013-end-of-suppo
+ rt-approaching-fast/ba-p/3741491?WT.mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230330T055607Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exchange 2013 End of Support
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230331
+DTEND;VALUE=DATE:20230401
+DTSTAMP:20230603T001439Z
+UID:1mif22lcorglevbgueg36qedrt@eightwone.com
+CREATED:20230316T123927Z
+DESCRIPTION:The retirement date of the Azure AD Graph and MSOnline PowerShe
+ ll licensing assignment APIs and PowerShell cmdlets for existing tenants is
+  March 31\, 2023.<br><a href="https://techcommunity.microsoft.com/t5/micros
+ oft-entra-azure-ad-blog/azure-ad-change-management-simplified/ba-p/2967456?
+ WT.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/microsoft
+ -entra-azure-ad-blog/azure-ad-change-management-simplified/ba-p/2967456?WT.
+ mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230330T055449Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:AzureAD/MSOnline licensing API retirement
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230401
+DTEND;VALUE=DATE:20230402
+DTSTAMP:20230603T001439Z
+UID:3qro02sr6qr5l70fkb59250ran@eightwone.com
+CREATED:20230316T123937Z
+DESCRIPTION:Tenants created on April 1st and newer will have RPS disabled b
+ y default\, and can re-enable it (using diagnostic) until June 2023. After 
+ July 2023 onwards\, new tenants thus created will not be able to re-enable 
+ RPS. <br><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog
+ /deprecation-of-remote-powershell-in-exchange-online-re-enabling/ba-p/37796
+ 92?WT.mc_id=M365-MVP-5000284">https://techcommunity.microsoft.com/t5/exchan
+ ge-team-blog/deprecation-of-remote-powershell-in-exchange-online-re-enablin
+ g/ba-p/3779692?WT.mc_id=M365-MVP-5000284</a>
+LAST-MODIFIED:20230329T223225Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RPS disabled new EXO tenants
+TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
