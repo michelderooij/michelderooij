@@ -17,7 +17,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
-- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/ff82cde81b...a448349284)
+- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/a6bd10aaa6...ff473c23aa)
 - [michelderooij closed an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/30)
 - [michelderooij commented on issue michelderooij/Get-EventSession#30](https://github.com/michelderooij/Get-EventSession/issues/30#issuecomment-1562680595)
 - [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/04c203a752...e1c3196fda)
