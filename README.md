@@ -13,7 +13,7 @@ supporting tools and automate processes for admins and devs.
 You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=michelderooij&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/michelderooij?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
