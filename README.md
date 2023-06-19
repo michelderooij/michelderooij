@@ -17,6 +17,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [michelderooij opened an issue in MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/issues/111061)
 - [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/7b858cc4d2...1e1e8faba0)
 - [Security Updates Exchange 2016-2019 &lpar;Jun2023&rpar;](https://eightwone.com/2023/06/13/security-updates-exchange-2016-2019-jun2023/)
 - [michelderooij closed an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/30)
@@ -27,7 +28,6 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [michelderooij forked michelderooij/OfficeDocs-Support from MicrosoftDocs/OfficeDocs-Support](https://github.com/michelderooij/OfficeDocs-Support)
 - [michelderooij opened a pull request in MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/pull/109826)
 - [michelderooij pushed to patch-2 in michelderooij/azure-docs](https://github.com/michelderooij/azure-docs/compare/db2dd8d428...c454b9861f)
-- [michelderooij pushed to master in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/5e075d6b2f...289565815f)
 - [Exchange Updates &lpar;and more&rpar; – H1 2023](https://eightwone.com/2023/05/04/exchange-updates-and-more-h1-2023/)
 - [Teams Calendar View in Apple CarPlay](https://eightwone.com/2023/03/30/teams-calendar-view-in-apple-carplay/)
 - [Security Updates Exchange 2013-2019 &lpar;Mar2023&rpar;](https://eightwone.com/2023/03/14/security-updates-exchange-2013-2019-mar2023/)
