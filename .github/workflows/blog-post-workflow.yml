@@ -16,6 +16,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: 'https://github.com/michelderooij.atom,https://eightwone.com/feed/'
-          max_post_count: '25'
+          max_post_count: '10'
           comment_tag_name: 'LATESTACTIVITY'
           remove_duplicates: 'true'
