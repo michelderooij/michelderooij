@@ -17,14 +17,14 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/e1c3196fda...fb2a88f29e)
 - [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/72f91d9b06...40ecb73740)
 - [michelderooij opened an issue in MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/issues/111061)
 - [Security Updates Exchange 2016-2019 &lpar;Jun2023&rpar;](https://eightwone.com/2023/06/13/security-updates-exchange-2016-2019-jun2023/)
 - [michelderooij closed an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/30)
 - [michelderooij commented on issue michelderooij/Get-EventSession#30](https://github.com/michelderooij/Get-EventSession/issues/30#issuecomment-1562680595)
-- [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/04c203a752...e1c3196fda)
 - [michelderooij opened a pull request in MicrosoftDocs/OfficeDocs-Support](https://github.com/MicrosoftDocs/OfficeDocs-Support/pull/1965)
 - [michelderooij pushed to patch-1 in michelderooij/OfficeDocs-Support](https://github.com/michelderooij/OfficeDocs-Support/compare/9a5365b10b...5589ac1cb6)
 - [michelderooij forked michelderooij/OfficeDocs-Support from MicrosoftDocs/OfficeDocs-Support](https://github.com/michelderooij/OfficeDocs-Support)
-- [michelderooij opened a pull request in MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/pull/109826)
+- [Exchange Updates &lpar;and more&rpar; – H1 2023](https://eightwone.com/2023/05/04/exchange-updates-and-more-h1-2023/)
 <!-- LATESTACTIVITY:END -->
