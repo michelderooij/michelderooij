@@ -17,14 +17,14 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [michelderooij reopened an issue in michelderooij/Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/issues/9)
+- [michelderooij pushed to main in michelderooij/Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/compare/6f872ab712...e88cc56fd8)
+- [michelderooij pushed to master in michelderooij/Remove-MessageClassItems](https://github.com/michelderooij/Remove-MessageClassItems/compare/ed77c95f0e...5c733c86b3)
+- [michelderooij commented on issue michelderooij/Remove-DuplicateItems#9](https://github.com/michelderooij/Remove-DuplicateItems/issues/9#issuecomment-1667743163)
+- [michelderooij pushed to master in michelderooij/Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/compare/ad35a9d5ec...a775ac7e88)
 - [michelderooij pushed to master in michelderooij/Compare-Cmdlets](https://github.com/michelderooij/Compare-Cmdlets/compare/b8c658ddc8...3f8a8a4adf)
 - [MVP’s around the World &lpar;2023&rpar;](https://eightwone.com/2023/07/18/mvps-around-the-world-2023/)
 - [michelderooij closed an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/25)
 - [michelderooij commented on issue michelderooij/Get-EventSession#25](https://github.com/michelderooij/Get-EventSession/issues/25#issuecomment-1638580651)
 - [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/e1c3196fda...fb2a88f29e)
-- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/72f91d9b06...40ecb73740)
-- [michelderooij opened an issue in MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/issues/111061)
-- [Security Updates Exchange 2016-2019 &lpar;Jun2023&rpar;](https://eightwone.com/2023/06/13/security-updates-exchange-2016-2019-jun2023/)
-- [michelderooij commented on issue michelderooij/Get-EventSession#30](https://github.com/michelderooij/Get-EventSession/issues/30#issuecomment-1562680595)
-- [michelderooij opened a pull request in MicrosoftDocs/OfficeDocs-Support](https://github.com/MicrosoftDocs/OfficeDocs-Support/pull/1965)
 <!-- LATESTACTIVITY:END -->
