@@ -17,6 +17,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/93041fdfee...464230d2b3)
 - [michelderooij closed an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/31)
 - [michelderooij commented on issue michelderooij/Get-EventSession#31](https://github.com/michelderooij/Get-EventSession/issues/31#issuecomment-1670868768)
 - [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/fb2a88f29e...9b0bf4eccd)
@@ -26,5 +27,4 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [michelderooij pushed to master in michelderooij/Remove-MessageClassItems](https://github.com/michelderooij/Remove-MessageClassItems/compare/ed77c95f0e...5c733c86b3)
 - [michelderooij commented on issue michelderooij/Remove-DuplicateItems#9](https://github.com/michelderooij/Remove-DuplicateItems/issues/9#issuecomment-1667743163)
 - [michelderooij pushed to master in michelderooij/Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/compare/ad35a9d5ec...a775ac7e88)
-- [michelderooij pushed to master in michelderooij/Compare-Cmdlets](https://github.com/michelderooij/Compare-Cmdlets/compare/b8c658ddc8...3f8a8a4adf)
 <!-- LATESTACTIVITY:END -->
