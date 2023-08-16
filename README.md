@@ -17,8 +17,8 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/464230d2b3...cbfc6ce89a)
 - [michelderooij opened an issue in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/issues/10)
-- [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/93041fdfee...464230d2b3)
 - [michelderooij closed an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/31)
 - [michelderooij commented on issue michelderooij/Get-EventSession#31](https://github.com/michelderooij/Get-EventSession/issues/31#issuecomment-1670868768)
 - [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/fb2a88f29e...9b0bf4eccd)
