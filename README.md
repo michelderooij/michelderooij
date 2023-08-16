@@ -17,6 +17,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [michelderooij opened an issue in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/issues/12)
+- [michelderooij closed an issue in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/issues/10)
+- [michelderooij commented on issue michelderooij/Install-Exchange15#10](https://github.com/michelderooij/Install-Exchange15/issues/10#issuecomment-1680350115)
 - [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/464230d2b3...cbfc6ce89a)
 - [michelderooij opened an issue in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/issues/10)
 - [michelderooij closed an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/31)
@@ -24,7 +27,4 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/fb2a88f29e...9b0bf4eccd)
 - [Security Updates Exchange 2016-2019 &lpar;Aug2023&rpar;](https://eightwone.com/2023/08/08/security-updates-exchange-2016-2019-aug2023/)
 - [michelderooij reopened an issue in michelderooij/Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/issues/9)
-- [michelderooij pushed to main in michelderooij/Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/compare/6f872ab712...e88cc56fd8)
-- [michelderooij pushed to master in michelderooij/Remove-MessageClassItems](https://github.com/michelderooij/Remove-MessageClassItems/compare/ed77c95f0e...5c733c86b3)
-- [michelderooij commented on issue michelderooij/Remove-DuplicateItems#9](https://github.com/michelderooij/Remove-DuplicateItems/issues/9#issuecomment-1667743163)
 <!-- LATESTACTIVITY:END -->
