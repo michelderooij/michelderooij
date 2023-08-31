@@ -17,6 +17,8 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [michelderooij closed an issue in michelderooij/Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/issues/9)
+- [michelderooij commented on issue michelderooij/Remove-DuplicateItems#9](https://github.com/michelderooij/Remove-DuplicateItems/issues/9#issuecomment-1701257745)
 - [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/40070d9a45...c992110d24)
 - [michelderooij commented on issue michelderooij/Invoke-Unarchive#3](https://github.com/michelderooij/Invoke-Unarchive/issues/3#issuecomment-1680497428)
 - [michelderooij created a tag v3.15 in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/tree/v3.15)
@@ -25,6 +27,4 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [michelderooij closed an issue in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/issues/12)
 - [michelderooij opened an issue in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/issues/12)
 - [michelderooij closed an issue in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/issues/10)
-- [michelderooij commented on issue michelderooij/Install-Exchange15#10](https://github.com/michelderooij/Install-Exchange15/issues/10#issuecomment-1680350115)
-- [michelderooij opened an issue in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/issues/10)
 <!-- LATESTACTIVITY:END -->
