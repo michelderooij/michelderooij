@@ -17,6 +17,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [michelderooij commented on issue michelderooij/Get-EventSession#32](https://github.com/michelderooij/Get-EventSession/issues/32#issuecomment-1708862431)
+- [michelderooij closed an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/32)
+- [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/9b0bf4eccd...8134d60015)
 - [michelderooij commented on issue michelderooij/Remove-DuplicateItems#9](https://github.com/michelderooij/Remove-DuplicateItems/issues/9#issuecomment-1702398709)
 - [michelderooij closed an issue in michelderooij/Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/issues/9)
 - [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/40070d9a45...c992110d24)
@@ -24,7 +27,4 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [michelderooij created a tag v3.15 in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/tree/v3.15)
 - [michelderooij released Release 3.15 at michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/releases/tag/v3.15)
 - [michelderooij commented on issue michelderooij/Connect-Office365Services#12](https://github.com/michelderooij/Connect-Office365Services/issues/12#issuecomment-1680438287)
-- [michelderooij closed an issue in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/issues/12)
-- [michelderooij opened an issue in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/issues/12)
-- [michelderooij closed an issue in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/issues/10)
 <!-- LATESTACTIVITY:END -->
