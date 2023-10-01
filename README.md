@@ -17,14 +17,14 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed to gh-pages in michelderooij/mta-sts](https://github.com/michelderooij/mta-sts/compare/77589fbafc...b20b5b940a)
+- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/e78de0e173...6580f0e6dd)
 - [michelderooij created a branch gh-pages in michelderooij/mta-sts](https://github.com/michelderooij/mta-sts/compare/gh-pages)
 - [michelderooij created a repository michelderooij/mta-sts](https://github.com/michelderooij/mta-sts//)
 - [michelderooij pushed to main in michelderooij/Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/compare/e88cc56fd8...3186afb4bc)
-- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/e69657d1db...1bf1a5e24a)
 - [michelderooij pushed to main in michelderooij/Analyze-ExoScript](https://github.com/michelderooij/Analyze-ExoScript/compare/cdb19280f1...9efa0f7258)
 - [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/c992110d24...4508f09e23)
 - [michelderooij commented on issue michelderooij/Get-EventSession#32](https://github.com/michelderooij/Get-EventSession/issues/32#issuecomment-1708862431)
 - [michelderooij closed an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/32)
 - [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/9b0bf4eccd...8134d60015)
-- [michelderooij commented on issue michelderooij/Remove-DuplicateItems#9](https://github.com/michelderooij/Remove-DuplicateItems/issues/9#issuecomment-1702398709)
 <!-- LATESTACTIVITY:END -->
