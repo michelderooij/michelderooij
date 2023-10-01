@@ -17,14 +17,14 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [michelderooij created a branch gh-pages in michelderooij/mta-sts](https://github.com/michelderooij/mta-sts/compare/gh-pages)
+- [michelderooij created a repository michelderooij/mta-sts](https://github.com/michelderooij/mta-sts//)
+- [michelderooij pushed to main in michelderooij/Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/compare/e88cc56fd8...3186afb4bc)
+- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/e69657d1db...1bf1a5e24a)
+- [michelderooij pushed to main in michelderooij/Analyze-ExoScript](https://github.com/michelderooij/Analyze-ExoScript/compare/cdb19280f1...9efa0f7258)
+- [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/c992110d24...4508f09e23)
 - [michelderooij commented on issue michelderooij/Get-EventSession#32](https://github.com/michelderooij/Get-EventSession/issues/32#issuecomment-1708862431)
 - [michelderooij closed an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/32)
 - [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/9b0bf4eccd...8134d60015)
 - [michelderooij commented on issue michelderooij/Remove-DuplicateItems#9](https://github.com/michelderooij/Remove-DuplicateItems/issues/9#issuecomment-1702398709)
-- [michelderooij closed an issue in michelderooij/Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/issues/9)
-- [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/40070d9a45...c992110d24)
-- [michelderooij commented on issue michelderooij/Invoke-Unarchive#3](https://github.com/michelderooij/Invoke-Unarchive/issues/3#issuecomment-1680497428)
-- [michelderooij created a tag v3.15 in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/tree/v3.15)
-- [michelderooij released Release 3.15 at michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/releases/tag/v3.15)
-- [michelderooij commented on issue michelderooij/Connect-Office365Services#12](https://github.com/michelderooij/Connect-Office365Services/issues/12#issuecomment-1680438287)
 <!-- LATESTACTIVITY:END -->
