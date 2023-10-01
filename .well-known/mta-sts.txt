@@ -1,4 +1,0 @@
-version: STSv1
-mode: testing
-max_age: 10368000
-mx: eightwone-com.mail.protection.outlook.com
