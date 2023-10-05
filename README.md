@@ -17,7 +17,8 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
-- [michelderooij pushed to main in michelderooij/mta-sts](https://github.com/michelderooij/mta-sts/compare/65a8f8149c...0ba42938f5)
+- [michelderooij pushed to main in michelderooij/mta-sts](https://github.com/michelderooij/mta-sts/compare/0ba42938f5...e7770bb2fc)
+- [Hosting MTA-STS policy using GitHub Pages](https://eightwone.com/2023/10/05/hosting-mta-sts-policy-using-github-pages/)
 - [michelderooij created a branch main in michelderooij/mta-sts](https://github.com/michelderooij/mta-sts/compare/main)
 - [michelderooij created a repository michelderooij/mta-sts](https://github.com/michelderooij/mta-sts//)
 - [michelderooij pushed to gh-pages in michelderooij/mta-sts](https://github.com/michelderooij/mta-sts/compare/b20b5b940a...e890b49cc7)
@@ -26,5 +27,4 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [michelderooij pushed to main in michelderooij/Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/compare/e88cc56fd8...3186afb4bc)
 - [michelderooij pushed to main in michelderooij/Analyze-ExoScript](https://github.com/michelderooij/Analyze-ExoScript/compare/cdb19280f1...9efa0f7258)
 - [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/c992110d24...4508f09e23)
-- [michelderooij commented on issue michelderooij/Get-EventSession#32](https://github.com/michelderooij/Get-EventSession/issues/32#issuecomment-1708862431)
 <!-- LATESTACTIVITY:END -->
