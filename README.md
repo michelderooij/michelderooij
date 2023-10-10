@@ -17,6 +17,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [michelderooij opened a pull request in microsoft/FastTrack](https://github.com/microsoft/FastTrack/pull/175)
+- [michelderooij pushed to patch-1 in michelderooij/FastTrack](https://github.com/michelderooij/FastTrack/compare/ce0c2a3cc0...3462cba15c)
+- [michelderooij forked michelderooij/FastTrack from microsoft/FastTrack](https://github.com/michelderooij/FastTrack)
 - [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/8134d60015...91e4e078f2)
 - [michelderooij pushed to main in michelderooij/mta-sts](https://github.com/michelderooij/mta-sts/compare/0ba42938f5...e7770bb2fc)
 - [Hosting MTA-STS policy using GitHub Pages](https://eightwone.com/2023/10/05/hosting-mta-sts-policy-using-github-pages/)
@@ -24,7 +27,4 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [michelderooij created a repository michelderooij/mta-sts](https://github.com/michelderooij/mta-sts//)
 - [michelderooij pushed to gh-pages in michelderooij/mta-sts](https://github.com/michelderooij/mta-sts/compare/b20b5b940a...e890b49cc7)
 - [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/e78de0e173...6580f0e6dd)
-- [michelderooij created a branch gh-pages in michelderooij/mta-sts](https://github.com/michelderooij/mta-sts/compare/gh-pages)
-- [michelderooij pushed to main in michelderooij/Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/compare/e88cc56fd8...3186afb4bc)
-- [michelderooij pushed to main in michelderooij/Analyze-ExoScript](https://github.com/michelderooij/Analyze-ExoScript/compare/cdb19280f1...9efa0f7258)
 <!-- LATESTACTIVITY:END -->
