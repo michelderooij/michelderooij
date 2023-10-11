@@ -17,6 +17,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/4508f09e23...b392cc9707)
 - [Security Updates Exchange 2016-2019 &lpar;Oct2023&rpar;](https://eightwone.com/2023/10/10/security-updates-exchange-2016-2019-oct2023/)
 - [michelderooij pushed to patch-1 in michelderooij/FastTrack](https://github.com/michelderooij/FastTrack/compare/3462cba15c...4a4f90342b)
 - [michelderooij opened a pull request in microsoft/FastTrack](https://github.com/microsoft/FastTrack/pull/175)
@@ -26,5 +27,4 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [Hosting MTA-STS policy using GitHub Pages](https://eightwone.com/2023/10/05/hosting-mta-sts-policy-using-github-pages/)
 - [michelderooij created a branch main in michelderooij/mta-sts](https://github.com/michelderooij/mta-sts/compare/main)
 - [michelderooij created a repository michelderooij/mta-sts](https://github.com/michelderooij/mta-sts//)
-- [michelderooij pushed to gh-pages in michelderooij/mta-sts](https://github.com/michelderooij/mta-sts/compare/b20b5b940a...e890b49cc7)
 <!-- LATESTACTIVITY:END -->
