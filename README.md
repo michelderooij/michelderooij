@@ -17,6 +17,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [Security Updates Exchange 2016-2019 &lpar;Nov2023&rpar;](https://eightwone.com/2023/11/14/security-updates-exchange-2016-2019-nov2023/)
 - [Challenges of PowerShell Scripting with Microsoft 365](https://eightwone.com/2023/10/16/challenges-of-powershell-scripting-with-microsoft-365/)
 - [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/4508f09e23...b392cc9707)
 - [Security Updates Exchange 2016-2019 &lpar;Oct2023&rpar;](https://eightwone.com/2023/10/10/security-updates-exchange-2016-2019-oct2023/)
@@ -26,5 +27,4 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/8134d60015...91e4e078f2)
 - [michelderooij pushed to main in michelderooij/mta-sts](https://github.com/michelderooij/mta-sts/compare/0ba42938f5...e7770bb2fc)
 - [Hosting MTA-STS policy using GitHub Pages](https://eightwone.com/2023/10/05/hosting-mta-sts-policy-using-github-pages/)
-- [michelderooij created a branch main in michelderooij/mta-sts](https://github.com/michelderooij/mta-sts/compare/main)
 <!-- LATESTACTIVITY:END -->
