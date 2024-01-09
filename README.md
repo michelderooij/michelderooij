@@ -24,7 +24,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [michelderooij pushed to patch-1 in michelderooij/FastTrack](https://github.com/michelderooij/FastTrack/compare/3462cba15c...4a4f90342b)
 - [michelderooij opened a pull request in microsoft/FastTrack](https://github.com/microsoft/FastTrack/pull/175)
 - [michelderooij forked michelderooij/FastTrack from microsoft/FastTrack](https://github.com/michelderooij/FastTrack)
-- [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/8134d60015...91e4e078f2)
-- [michelderooij pushed to main in michelderooij/mta-sts](https://github.com/michelderooij/mta-sts/compare/0ba42938f5...e7770bb2fc)
 - [Hosting MTA-STS policy using GitHub Pages](https://eightwone.com/2023/10/05/hosting-mta-sts-policy-using-github-pages/)
+- [Security Updates Exchange 2016-2019 &lpar;Aug2023&rpar;](https://eightwone.com/2023/08/08/security-updates-exchange-2016-2019-aug2023/)
+- [MVP’s around the World &lpar;2023&rpar;](https://eightwone.com/2023/07/18/mvps-around-the-world-2023/)
 <!-- LATESTACTIVITY:END -->
