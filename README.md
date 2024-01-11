@@ -21,10 +21,10 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [Challenges of PowerShell Scripting with Microsoft 365](https://eightwone.com/2023/10/16/challenges-of-powershell-scripting-with-microsoft-365/)
 - [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/4508f09e23...b392cc9707)
 - [Security Updates Exchange 2016-2019 &lpar;Oct2023&rpar;](https://eightwone.com/2023/10/10/security-updates-exchange-2016-2019-oct2023/)
+- [michelderooij pushed to patch-1 in michelderooij/FastTrack](https://github.com/michelderooij/FastTrack/compare/3462cba15c...4a4f90342b)
+- [michelderooij opened a pull request in microsoft/FastTrack](https://github.com/microsoft/FastTrack/pull/175)
+- [michelderooij forked michelderooij/FastTrack from microsoft/FastTrack](https://github.com/michelderooij/FastTrack)
 - [Hosting MTA-STS policy using GitHub Pages](https://eightwone.com/2023/10/05/hosting-mta-sts-policy-using-github-pages/)
 - [Security Updates Exchange 2016-2019 &lpar;Aug2023&rpar;](https://eightwone.com/2023/08/08/security-updates-exchange-2016-2019-aug2023/)
 - [MVP’s around the World &lpar;2023&rpar;](https://eightwone.com/2023/07/18/mvps-around-the-world-2023/)
-- [Security Updates Exchange 2016-2019 &lpar;Jun2023&rpar;](https://eightwone.com/2023/06/13/security-updates-exchange-2016-2019-jun2023/)
-- [Exchange Updates &lpar;and more&rpar; – H1 2023](https://eightwone.com/2023/05/04/exchange-updates-and-more-h1-2023/)
-- [Teams Calendar View in Apple CarPlay](https://eightwone.com/2023/03/30/teams-calendar-view-in-apple-carplay/)
 <!-- LATESTACTIVITY:END -->
