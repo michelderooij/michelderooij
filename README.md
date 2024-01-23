@@ -17,7 +17,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
-- [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/169ed76465...ea0f3bc546)
+- [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/ea0f3bc546...94e074974d)
 - [Security Updates Exchange 2016-2019 &lpar;Nov2023&rpar;](https://eightwone.com/2023/11/14/security-updates-exchange-2016-2019-nov2023/)
 - [Challenges of PowerShell Scripting with Microsoft 365](https://eightwone.com/2023/10/16/challenges-of-powershell-scripting-with-microsoft-365/)
 - [Security Updates Exchange 2016-2019 &lpar;Oct2023&rpar;](https://eightwone.com/2023/10/10/security-updates-exchange-2016-2019-oct2023/)
