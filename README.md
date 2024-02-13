@@ -17,6 +17,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [Exchange 2019 CU14 &lpar;2024 H1&rpar;](https://eightwone.com/2024/02/13/exchange-2019-cu14-2024-h1/)
 - [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/ea0f3bc546...94e074974d)
 - [Security Updates Exchange 2016-2019 &lpar;Nov2023&rpar;](https://eightwone.com/2023/11/14/security-updates-exchange-2016-2019-nov2023/)
 - [Challenges of PowerShell Scripting with Microsoft 365](https://eightwone.com/2023/10/16/challenges-of-powershell-scripting-with-microsoft-365/)
@@ -26,5 +27,4 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [MVP’s around the World &lpar;2023&rpar;](https://eightwone.com/2023/07/18/mvps-around-the-world-2023/)
 - [Security Updates Exchange 2016-2019 &lpar;Jun2023&rpar;](https://eightwone.com/2023/06/13/security-updates-exchange-2016-2019-jun2023/)
 - [Exchange Updates &lpar;and more&rpar; – H1 2023](https://eightwone.com/2023/05/04/exchange-updates-and-more-h1-2023/)
-- [Teams Calendar View in Apple CarPlay](https://eightwone.com/2023/03/30/teams-calendar-view-in-apple-carplay/)
 <!-- LATESTACTIVITY:END -->
