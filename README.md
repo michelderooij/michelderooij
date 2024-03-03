@@ -17,8 +17,8 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/d823cea97b...7139a4b5a4)
 - [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/94e074974d...01b6d88197)
-- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/e06261a2d7...22d8ad4e09)
 - [michelderooij pushed to master in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/73cb4f08b7...ca5a25fc04)
 - [Professional PowerShell Series](https://eightwone.com/2024/02/14/professional-powershell-series/)
 - [Exchange 2019 CU14 &lpar;2024 H1&rpar;](https://eightwone.com/2024/02/13/exchange-2019-cu14-2024-h1/)
