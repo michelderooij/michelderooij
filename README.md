@@ -10,7 +10,6 @@ I blog on <a href="https://eightwone.com">eightwone.com</a> and am a published a
 <a href="https://twitter.com/mderooij"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 <a href="https://nl.linkedin.com/in/michelderooij"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a rel="me" href="https://mastodon.cloud/@mderooij"><img src="https://img.shields.io/badge/-Mastodon-blueviolet?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/></a>
-<img src="https://komarev.com/ghpvc/?username=michelderooij&style=flat-square&color=blue" alt=""/>
 
 You can contact me via the contact form at https://eightwone.com/contact.
 
