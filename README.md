@@ -17,7 +17,6 @@ You can contact me via the contact form at https://eightwone.com/contact.
 ## Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=michelderooij&theme=github-dark-dimmed)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelderooij&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent updates
 <!-- LATESTACTIVITY:START -->
