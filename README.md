@@ -19,9 +19,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [Practical PowerShell Series: Part 2](https://eightwone.com/2024/03/22/practical-powershell-series-part-2/)
 - [Security Updates Exchange 2016-2019 &lpar;Mar2024&rpar;](https://eightwone.com/2024/03/13/security-updates-exchange-2016-2019-mar2024/)
 - [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/bfb8b705cb...5960973c22)
 - [michelderooij pushed to master in michelderooij/Get-ExchangeVersion](https://github.com/michelderooij/Get-ExchangeVersion/compare/b5f7cd1354...5c4cbfdc7f)
 - [michelderooij pushed to main in michelderooij/mta-sts](https://github.com/michelderooij/mta-sts/compare/e7770bb2fc...f2772aaa41)
-- [michelderooij starred merill/awesome-entra](https://github.com/merill/awesome-entra)
 <!-- LATESTACTIVITY:END -->
