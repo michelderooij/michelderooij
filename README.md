@@ -20,9 +20,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij commented on issue maester365/maester#143](https://github.com/maester365/maester/issues/143#issuecomment-2078977843)
 - [michelderooij opened an issue in maester365/maester](https://github.com/maester365/maester/issues/143)
 - [Hotfix for Exchange 2016 and 2019 &lpar;Apr2024&rpar;](https://eightwone.com/2024/04/23/hotfix-for-exchange-20162019-apr2024/)
 - [michelderooij pushed to master in michelderooij/Get-ExchangeVersion](https://github.com/michelderooij/Get-ExchangeVersion/compare/5c4cbfdc7f...8b2611c69c)
 - [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/60625a98d7...9525732d61)
-- [The Practical 365 Podcast S4 E17](https://eightwone.com/2024/04/12/the-practical-365-podcast-s4-e17/)
 <!-- LATESTACTIVITY:END -->
