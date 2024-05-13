@@ -20,7 +20,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
-- [michelderooij opened an issue in maester365/maester](https://github.com/maester365/maester/issues/171)
+- [michelderooij opened an issue in maester365/maester](https://github.com/maester365/maester/issues/172)
 - [Practical PowerShell Series: Part 3](https://eightwone.com/2024/05/01/practical-powershell-series-part-3/)
 - [michelderooij commented on issue maester365/maester#143](https://github.com/maester365/maester/issues/143#issuecomment-2078977843)
 - [Hotfix for Exchange 2016 and 2019 &lpar;Apr2024&rpar;](https://eightwone.com/2024/04/23/hotfix-for-exchange-20162019-apr2024/)
