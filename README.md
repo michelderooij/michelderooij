@@ -20,9 +20,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/9f806e82af...d95429e451)
 - [michelderooij closed an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/34)
 - [michelderooij commented on issue michelderooij/Get-EventSession#34](https://github.com/michelderooij/Get-EventSession/issues/34#issuecomment-2123506511)
 - [michelderooij commented on issue michelderooij/Get-EventSession#33](https://github.com/michelderooij/Get-EventSession/issues/33#issuecomment-2123497836)
 - [michelderooij opened an issue in maester365/maester](https://github.com/maester365/maester/issues/172)
-- [Practical PowerShell Series: Part 3](https://eightwone.com/2024/05/01/practical-powershell-series-part-3/)
 <!-- LATESTACTIVITY:END -->
