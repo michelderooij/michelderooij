@@ -20,9 +20,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij opened a pull request in 12Knocksinna/Office365itpros](https://github.com/12Knocksinna/Office365itpros/pull/112)
+- [michelderooij pushed to patch-3 in michelderooij/Office365itpros](https://github.com/michelderooij/Office365itpros/compare/51409e59cc...f70fd5b3c0)
+- [michelderooij forked michelderooij/Office365itpros from 12Knocksinna/Office365itpros](https://github.com/michelderooij/Office365itpros)
 - [Practical PowerShell Series: Part 4](https://eightwone.com/2024/05/29/practical-powershell-series-part-4/)
 - [michelderooij commented on issue michelderooij/Connect-Office365Services#13](https://github.com/michelderooij/Connect-Office365Services/issues/13#issuecomment-2136661023)
-- [michelderooij closed an issue in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/issues/13)
-- [michelderooij commented on issue michelderooij/Get-EventSession#35](https://github.com/michelderooij/Get-EventSession/issues/35#issuecomment-2134491092)
-- [michelderooij closed an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/35)
 <!-- LATESTACTIVITY:END -->
