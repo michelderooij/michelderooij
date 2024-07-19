@@ -20,9 +20,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed to main in michelderooij/mta-sts2](https://github.com/michelderooij/mta-sts2/compare/5161297dfb...31917923c5)
+- [michelderooij pushed to main in michelderooij/mta-sts](https://github.com/michelderooij/mta-sts/compare/aa63dcf9f0...52fee7c0be)
+- [michelderooij created a branch main in michelderooij/mta-sts2](https://github.com/michelderooij/mta-sts2/compare/main)
+- [michelderooij created a repository michelderooij/mta-sts2](https://github.com/michelderooij/mta-sts2//)
 - [MVPs around the World &lpar;2024&rpar;](https://eightwone.com/2024/07/11/mvps-around-the-world-2024/)
-- [Practical PowerShell Series: Part 5](https://eightwone.com/2024/07/03/practical-powershell-series-part-5/)
-- [michelderooij pushed to master in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/ca5a25fc04...157db310d2)
-- [michelderooij opened a pull request in 12Knocksinna/Office365itpros](https://github.com/12Knocksinna/Office365itpros/pull/112)
-- [michelderooij pushed to patch-3 in michelderooij/Office365itpros](https://github.com/michelderooij/Office365itpros/compare/51409e59cc...f70fd5b3c0)
 <!-- LATESTACTIVITY:END -->
