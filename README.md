@@ -20,8 +20,8 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed to main in michelderooij/mta-sts](https://github.com/michelderooij/mta-sts/compare/52fee7c0be...f56544536c)
 - [michelderooij pushed to main in michelderooij/mta-sts2](https://github.com/michelderooij/mta-sts2/compare/5161297dfb...31917923c5)
-- [michelderooij pushed to main in michelderooij/mta-sts](https://github.com/michelderooij/mta-sts/compare/aa63dcf9f0...52fee7c0be)
 - [michelderooij created a branch main in michelderooij/mta-sts2](https://github.com/michelderooij/mta-sts2/compare/main)
 - [michelderooij created a repository michelderooij/mta-sts2](https://github.com/michelderooij/mta-sts2//)
 - [MVPs around the World &lpar;2024&rpar;](https://eightwone.com/2024/07/11/mvps-around-the-world-2024/)
