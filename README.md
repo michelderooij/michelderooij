@@ -5,6 +5,7 @@ Hello there. I'm a Microsoft MVP for Microsoft 365 Apps and Services. I focus pr
 in combination with Identity (Entra) and other related workloads. I have a big PowerShell affection and love to create supporting tools
 and automate processes for admins as well as fellow consultants and architects, most of which you can find on my GitHub.
 I blog on <a href="https://eightwone.com">eightwone.com</a> and am a published author of 3 <a href="https://link.springer.com/book/10.1007/978-1-4842-9591-5">Exchange themed books</a>.
+Recently, I joined the < ahref="https://o365itpros.gumroad.com/l/O365IT">Office 365 for IT Pros</a> author team.
 
 <a href="https://eightwone.com"><img src="https://img.shields.io/badge/-Blog-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog Badge"/></a>
 <a href="https://twitter.com/mderooij"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
