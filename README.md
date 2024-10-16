@@ -27,7 +27,3 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/6abddb2a7e...684de96c07)
 - [Practical PowerShell Series: Part 6](https://eightwone.com/2024/09/03/practical-powershell-series-part-6/)
 <!-- LATESTACTIVITY:END -->
-
-## Support
-Was something you found here useful and want to show your appreciation?
-<a href="https://www.buymeacoffee.com/mderooij" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
