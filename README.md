@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/837c44d9ae...fbbf9fbd73)
 - [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/d95429e451...fc1ea4bd0a)
 - [michelderooij pushed to main in michelderooij/Sessions](https://github.com/michelderooij/Sessions/compare/6e7228e4b6...9b1d3039ce)
-- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/6bf00b57e8...9b3fa909c3)
 - [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/6abddb2a7e...684de96c07)
 - [Practical PowerShell Series: Part 6](https://eightwone.com/2024/09/03/practical-powershell-series-part-6/)
 <!-- LATESTACTIVITY:END -->
