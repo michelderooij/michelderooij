@@ -11,6 +11,7 @@ Recently, I joined the <a href="https://o365itpros.gumroad.com/l/O365IT">Office 
 <a href="https://twitter.com/mderooij"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 <a href="https://nl.linkedin.com/in/michelderooij"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a rel="me" href="https://mastodon.cloud/@mderooij"><img src="https://img.shields.io/badge/-Mastodon-blueviolet?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/></a>
+<a rel="me" href="https://bsky.app/profile/mderooij.bsky.social"><img src="https://img.shields.io/badge/-Bluesky-blueviolet?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky Badge"/></a>
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/michelderooij?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
 You can contact me via the contact form at https://eightwone.com/contact.
