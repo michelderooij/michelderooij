@@ -22,9 +22,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij opened an issue in merill/bluesky](https://github.com/merill/bluesky/issues/229)
 - [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/bf823846b6...b3c1288589)
 - [Practical PowerShell Series: Part 7](https://eightwone.com/2024/10/22/practical-powershell-series-part-7/)
 - [michelderooij created a branch main in michelderooij/Practical365](https://github.com/michelderooij/Practical365/compare/main)
 - [michelderooij created a repository michelderooij/Practical365](https://github.com/michelderooij/Practical365//)
-- [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/d95429e451...fc1ea4bd0a)
 <!-- LATESTACTIVITY:END -->
