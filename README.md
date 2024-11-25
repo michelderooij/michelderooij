@@ -22,9 +22,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
-- [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/7db80b0b81...7a3d144968)
-- [michelderooij opened an issue in merill/bluesky](https://github.com/merill/bluesky/issues/830)
-- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/7a03d643ef...d408cbdc51)
-- [Security Updates Exchange 2016-2019 &lpar;Nov2024&rpar;](https://eightwone.com/2024/11/12/security-updates-exchange-2016-2019-nov2024/)
-- [Practical PowerShell Series: Part 7](https://eightwone.com/2024/10/22/practical-powershell-series-part-7/)
+- [michelderooij commented on issue michelderooij/Get-EventSession#36](https://github.com/michelderooij/Get-EventSession/issues/36#issuecomment-2498708031)
+- [michelderooij closed an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/36)
+- [michelderooij commented on issue michelderooij/Get-EventSession#38](https://github.com/michelderooij/Get-EventSession/issues/38#issuecomment-2498701109)
+- [michelderooij commented on issue michelderooij/Get-EventSession#37](https://github.com/michelderooij/Get-EventSession/issues/37#issuecomment-2498695642)
+- [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/7a3d144968...07a99fd2e1)
 <!-- LATESTACTIVITY:END -->
