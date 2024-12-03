@@ -22,9 +22,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij commented on issue michelderooij/Get-EventSession#41](https://github.com/michelderooij/Get-EventSession/issues/41#issuecomment-2514558223)
+- [michelderooij closed an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/41)
+- [michelderooij commented on issue michelderooij/Get-EventSession#42](https://github.com/michelderooij/Get-EventSession/issues/42#issuecomment-2514543605)
 - [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/98da92f60f...dc745dbd9d)
 - [michelderooij commented on issue michelderooij/Get-EventSession#39](https://github.com/michelderooij/Get-EventSession/issues/39#issuecomment-2499052412)
-- [michelderooij closed an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/39)
-- [michelderooij commented on issue michelderooij/Get-EventSession#36](https://github.com/michelderooij/Get-EventSession/issues/36#issuecomment-2498708031)
-- [michelderooij commented on issue michelderooij/Get-EventSession#38](https://github.com/michelderooij/Get-EventSession/issues/38#issuecomment-2498701109)
 <!-- LATESTACTIVITY:END -->
