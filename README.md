@@ -22,9 +22,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij closed an issue in michelderooij/Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/issues/3)
+- [michelderooij opened an issue in michelderooij/Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/issues/4)
 - [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/c1fb07a1b7...637f248fd4)
 - [michelderooij reopened an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/42)
 - [michelderooij commented on issue michelderooij/Get-EventSession#42](https://github.com/michelderooij/Get-EventSession/issues/42#issuecomment-2514901720)
-- [michelderooij commented on issue michelderooij/Get-EventSession#41](https://github.com/michelderooij/Get-EventSession/issues/41#issuecomment-2514558223)
-- [michelderooij closed an issue in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/41)
 <!-- LATESTACTIVITY:END -->
