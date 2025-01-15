@@ -22,9 +22,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij closed an issue in microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange/issues/1679)
+- [michelderooij closed an issue in maester365/maester](https://github.com/maester365/maester/issues/140)
 - [michelderooij pushed to main in michelderooij/CSS-Exchange](https://github.com/michelderooij/CSS-Exchange/compare/5f66f7aac9...58dcbfdda1)
 - [michelderooij opened a pull request in microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange/pull/2265)
 - [michelderooij closed an issue in michelderooij/Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/issues/3)
-- [michelderooij opened an issue in michelderooij/Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/issues/4)
-- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/c1fb07a1b7...637f248fd4)
 <!-- LATESTACTIVITY:END -->
