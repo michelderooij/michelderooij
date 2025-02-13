@@ -25,6 +25,6 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [michelderooij pushed to master in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/2d9638d833...ac0a71c726)
 - [Exchange 2019 CU15 &lpar;2025 H1&rpar;](https://eightwone.com/2025/02/11/exchange-2019-cu15-2025-h1/)
 - [michelderooij pushed to main in michelderooij/Practical365](https://github.com/michelderooij/Practical365/compare/53eeecd53b...02c8c025ea)
-- [michelderooij closed an issue in microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange/issues/1679)
-- [michelderooij closed an issue in maester365/maester](https://github.com/maester365/maester/issues/140)
+- [Security Updates Exchange 2016-2019 &lpar;Nov2024&rpar;](https://eightwone.com/2024/11/12/security-updates-exchange-2016-2019-nov2024/)
+- [Practical PowerShell Series: Part 7](https://eightwone.com/2024/10/22/practical-powershell-series-part-7/)
 <!-- LATESTACTIVITY:END -->
