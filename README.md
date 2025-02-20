@@ -22,9 +22,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij commented on issue michelderooij/Remove-DuplicateItems#10](https://github.com/michelderooij/Remove-DuplicateItems/issues/10#issuecomment-2670737196)
+- [michelderooij closed an issue in michelderooij/Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/issues/10)
 - [michelderooij pushed to master in michelderooij/Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/compare/a775ac7e88...a20e8af5be)
 - [michelderooij pushed to master in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/acfc35917c...96f92e2cf2)
 - [Exchange 2019 CU15 &lpar;2025 H1&rpar;](https://eightwone.com/2025/02/11/exchange-2019-cu15-2025-h1/)
-- [michelderooij pushed to main in michelderooij/Practical365](https://github.com/michelderooij/Practical365/compare/53eeecd53b...02c8c025ea)
-- [Security Updates Exchange 2016-2019 &lpar;Nov2024&rpar;](https://eightwone.com/2024/11/12/security-updates-exchange-2016-2019-nov2024/)
 <!-- LATESTACTIVITY:END -->
