@@ -17,8 +17,7 @@ I am also part of the <a href="https://o365itpros.gumroad.com/l/O365IT">Office 3
 You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=michelderooij&theme=dark)](https://git.io/streak-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=michelderooij&show_icons=true&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=michelderooij&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=michelderooij&theme=dark&utcOffset=1) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michelderooij&theme=dark) 
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
@@ -28,3 +27,4 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/c4ae444439...18ee074387)
 - [michelderooij pushed to master in michelderooij/Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/compare/a20e8af5be...0a7c21bdd2)
 <!-- LATESTACTIVITY:END -->
+
