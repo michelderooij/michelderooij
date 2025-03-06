@@ -22,9 +22,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed to main in michelderooij/Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/compare/f5ebe72e1b...7bbab41959)
 - [michelderooij commented on issue michelderooij/Invoke-Unarchive#4](https://github.com/michelderooij/Invoke-Unarchive/issues/4#issuecomment-2702508800)
 - [michelderooij closed an issue in michelderooij/Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/issues/4)
-- [michelderooij pushed to main in michelderooij/Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/compare/3186afb4bc...f5ebe72e1b)
 - [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/c4ae444439...18ee074387)
 - [michelderooij pushed to master in michelderooij/Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/compare/a20e8af5be...0a7c21bdd2)
 <!-- LATESTACTIVITY:END -->
