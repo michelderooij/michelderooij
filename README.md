@@ -17,7 +17,7 @@ I am also part of the <a href="https://o365itpros.gumroad.com/l/O365IT">Office 3
 You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=michelderooij&theme=github-dark-dimmed)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=michelderooij&theme=dark)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=michelderooij&show_icons=true&theme=transparent)
 
 ## Recent activities
