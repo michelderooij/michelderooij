@@ -25,6 +25,6 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [michelderooij pushed to main in michelderooij/Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/compare/7bbab41959...7fdd20cea0)
 - [michelderooij commented on issue michelderooij/Invoke-Unarchive#4](https://github.com/michelderooij/Invoke-Unarchive/issues/4#issuecomment-2702508800)
 - [michelderooij closed an issue in michelderooij/Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/issues/4)
-- [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/c4ae444439...18ee074387)
+- [Exchange 2019 CU15 &lpar;2025 H1&rpar;](https://eightwone.com/2025/02/11/exchange-2019-cu15-2025-h1/)
 <!-- LATESTACTIVITY:END -->
 
