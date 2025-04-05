@@ -23,8 +23,8 @@ You can contact me via the contact form at https://eightwone.com/contact.
 <!-- LATESTACTIVITY:START -->
 - [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/18ee074387...f01612ba72)
 - [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/12ee7d3755...8e413d25a3)
-- [michelderooij pushed to main in michelderooij/Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/compare/7bbab41959...7fdd20cea0)
-- [michelderooij commented on issue michelderooij/Invoke-Unarchive#4](https://github.com/michelderooij/Invoke-Unarchive/issues/4#issuecomment-2702508800)
-- [michelderooij closed an issue in michelderooij/Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/issues/4)
+- [Exchange 2019 CU15 &lpar;2025 H1&rpar;](https://eightwone.com/2025/02/11/exchange-2019-cu15-2025-h1/)
+- [Security Updates Exchange 2016-2019 &lpar;Nov2024&rpar;](https://eightwone.com/2024/11/12/security-updates-exchange-2016-2019-nov2024/)
+- [Practical PowerShell Series: Part 7](https://eightwone.com/2024/10/22/practical-powershell-series-part-7/)
 <!-- LATESTACTIVITY:END -->
 
