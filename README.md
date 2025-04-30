@@ -29,4 +29,4 @@ You can contact me via the contact form at https://eightwone.com/contact.
 <!-- LATESTACTIVITY:END -->
 
 ## Support
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height=60 width=217](https://www.buymeacoffee.com/mderooij)
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">](https://www.buymeacoffee.com/mderooij)
