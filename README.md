@@ -28,3 +28,5 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [Security Updates Exchange 2016-2019 &lpar;Nov2024&rpar;](https://eightwone.com/2024/11/12/security-updates-exchange-2016-2019-nov2024/)
 <!-- LATESTACTIVITY:END -->
 
+## Support
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/mderooij)
