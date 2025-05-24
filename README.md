@@ -21,11 +21,11 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/f5992403ee...6de0012212)
 - [michelderooij pushed to master in michelderooij/Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/07a99fd2e1...8e6b869048)
 - [michelderooij pushed to main in michelderooij/Practical365](https://github.com/michelderooij/Practical365/compare/5beea27c9e...5f316be8a5)
 - [Hotfix Updates Exchange 2016-2019 &lpar;Apr2025&rpar;](https://eightwone.com/2025/04/29/hotfix-updates-exchange-2016-2019-apr2025/)
 - [Exchange 2019 CU15 &lpar;2025 H1&rpar;](https://eightwone.com/2025/02/11/exchange-2019-cu15-2025-h1/)
-- [Security Updates Exchange 2016-2019 &lpar;Nov2024&rpar;](https://eightwone.com/2024/11/12/security-updates-exchange-2016-2019-nov2024/)
 <!-- LATESTACTIVITY:END -->
 
 ## Support
