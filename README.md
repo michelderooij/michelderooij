@@ -27,6 +27,3 @@ You can contact me via the contact form at https://eightwone.com/contact.
 - [michelderooij pushed to main in michelderooij/Practical365](https://github.com/michelderooij/Practical365/compare/5beea27c9e...5f316be8a5)
 - [Hotfix Updates Exchange 2016-2019 &lpar;Apr2025&rpar;](https://eightwone.com/2025/04/29/hotfix-updates-exchange-2016-2019-apr2025/)
 <!-- LATESTACTIVITY:END -->
-
-## Support
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">](https://www.buymeacoffee.com/mderooij)
