@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
-- [michelderooij pushed to master in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/96f92e2cf2...c4179c8a0c)
+- [michelderooij commented on issue michelderooij/Install-Exchange15#11](https://github.com/michelderooij/Install-Exchange15/issues/11#issuecomment-3053429301)
+- [michelderooij closed an issue in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/issues/11)
+- [michelderooij pushed to master in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/c4179c8a0c...d87ea33d34)
 - [Exchange Server SE &lpar;RTM&rpar;](https://eightwone.com/2025/07/01/exchange-server-se-rtm/)
 - [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/c456c626a4...ad5363c9b7)
-- [Hotfix Updates Exchange 2016-2019 &lpar;May2025&rpar;](https://eightwone.com/2025/05/29/hotfix-updates-exchange-2016-2019-may2025/)
-- [Hotfix Updates Exchange 2016-2019 &lpar;Apr2025&rpar;](https://eightwone.com/2025/04/29/hotfix-updates-exchange-2016-2019-apr2025/)
 <!-- LATESTACTIVITY:END -->
