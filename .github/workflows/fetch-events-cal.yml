@@ -13,6 +13,7 @@ jobs:
         issues: write
         pull-requests: write    
         repository-projects: write
+        contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -38,7 +39,7 @@ jobs:
             git config --global user.email "${{ vars.CI_COMMIT_EMAIL }}"
             git add events.ics
             git commit -m "Updated iCal file"
-            git push
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           else
             rm events.temp.ics
           fi
