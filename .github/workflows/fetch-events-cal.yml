@@ -30,16 +30,16 @@ jobs:
         run: |
           # Remove DTSTAMP (timestamp of retrieval) so we can compare on entries
           cp events.temp.ics hashme1
-          cp events.ics hashme2
+          [ -f events.ics ] && cp events.ics hashme2 || touch hashme2
           sed -i 's/^DTSTAMP:.*$/DTSTAMP: Removed for comparison/gm' hashme1
           sed -i 's/^DTSTAMP:.*$/DTSTAMP: Removed for comparison/gm' hashme2
           if [ "$(git hash-object hashme1)" != "$(git hash-object hashme2)" ]; then
             mv events.temp.ics events.ics
-            git config --global user.name "${{ vars.CI_COMMIT_AUTHOR }}"
-            git config --global user.email "${{ vars.CI_COMMIT_EMAIL }}"
+            git config --local user.name "${{ vars.CI_COMMIT_AUTHOR }}"
+            git config --local user.email "${{ vars.CI_COMMIT_EMAIL }}"
             git add events.ics
             git commit -m "Updated iCal file"
-            git push https://x-access-token:${{ secrets.SECRET_PAT }}@github.com/${{ github.repository }}.git
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           else
             rm events.temp.ics
           fi
