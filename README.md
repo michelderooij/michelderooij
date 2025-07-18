@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij commented on issue michelderooij/Install-Exchange15#13](https://github.com/michelderooij/Install-Exchange15/issues/13#issuecomment-3085740831)
+- [michelderooij closed an issue in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/issues/13)
+- [michelderooij pushed to master in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/d87ea33d34...36797515a5)
 - [Exchange 2016 &amp; 2019 ESU](https://eightwone.com/2025/07/16/exchange-2016-2019-esu/)
 - [michelderooij pushed to master in michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/compare/c9a6c3e7b8...48ecd3864f)
-- [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/c3ad4f7412...4f18af22d1)
-- [michelderooij commented on issue michelderooij/Install-Exchange15#11](https://github.com/michelderooij/Install-Exchange15/issues/11#issuecomment-3053429301)
-- [michelderooij closed an issue in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/issues/11)
 <!-- LATESTACTIVITY:END -->
