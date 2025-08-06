@@ -21,8 +21,8 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/84e9c9cdcf...3482c32811)
 - [MVPs around the World &lpar;2025&rpar;](https://eightwone.com/2025/07/30/mvps-around-the-world-2025/)
-- [michelderooij pushed to master in michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/4f18af22d1...84e9c9cdcf)
 - [michelderooij pushed to master in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/4af17ac44f...ea9f3586c9)
 - [michelderooij commented on issue michelderooij/Install-Exchange15#13](https://github.com/michelderooij/Install-Exchange15/issues/13#issuecomment-3085740831)
 - [michelderooij closed an issue in michelderooij/Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/issues/13)
