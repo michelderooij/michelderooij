@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij created a branch](https://github.com/michelderooij/ShodanQ/compare/0000000000...5bdcc8db98)
 - [michelderooij pushed Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/772aface37...f522d05276)
 - [michelderooij released v3.50 at michelderooij/Connect-Office365Services](https://github.com//michelderooij/Connect-Office365Services/releases/tag/v3.50)
 - [Security Updates Exchange 2016-2019 &amp; SE &lpar;Aug2025&rpar;](https://eightwone.com/2025/08/12/security-updates-exchange-2016-2019-se-aug2025/)
 - [michelderooij pushed Get-ExchangePQT](https://github.com/michelderooij/Get-ExchangePQT/compare/fe2a32904d...82708be69c)
-- [MVPs around the World &lpar;2025&rpar;](https://eightwone.com/2025/07/30/mvps-around-the-world-2025/)
 <!-- LATESTACTIVITY:END -->
