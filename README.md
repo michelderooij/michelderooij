@@ -21,8 +21,8 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
-- [michelderooij pushed ShodanIO](https://github.com/michelderooij/ShodanIO/compare/cc2934c8c8...ca55e14462)
-- [michelderooij created a branch](https://github.com/michelderooij/ShodanIO/compare/0000000000...5bdcc8db98)
+- [michelderooij pushed Shodan](https://github.com/michelderooij/Shodan/compare/0c6392b590...2196a2a659)
+- [michelderooij created a branch](https://github.com/michelderooij/Shodan/compare/0000000000...5bdcc8db98)
 - [michelderooij pushed Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/772aface37...f522d05276)
 - [michelderooij released v3.50 at michelderooij/Connect-Office365Services](https://github.com//michelderooij/Connect-Office365Services/releases/tag/v3.50)
 - [Security Updates Exchange 2016-2019 &amp; SE &lpar;Aug2025&rpar;](https://eightwone.com/2025/08/12/security-updates-exchange-2016-2019-se-aug2025/)
