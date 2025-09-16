@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed Shodan](https://github.com/michelderooij/Shodan/compare/25f2c83915...f1e4418b5b)
 - [michelderooij pushed Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/91e479b82f...d1cb29a9e4)
 - [michelderooij pushed Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/06fb888c2d...e0a598d831)
 - [Hotfix Updates Exchange 2016-SE &lpar;Sep2025&rpar;](https://eightwone.com/2025/09/08/hotfix-updates-exchange-2016-se-sep2025/)
 - [michelderooij pushed LegacyDOS](https://github.com/michelderooij/LegacyDOS/compare/080b194fd4...102d3598a8)
-- [michelderooij created a branch](https://github.com/michelderooij/LegacyDOS/compare/0000000000...0ed36952f8)
 <!-- LATESTACTIVITY:END -->
