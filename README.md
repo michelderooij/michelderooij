@@ -21,7 +21,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
-- [Security Updates Exchange 2016-2019 &amp; SE &lpar;Oct2025&rpar;](https://eightwone.com/2025/10/14/28840/)
+- [Security Updates Exchange 2016-2019 &amp; SE &lpar;Oct2025&rpar;](https://eightwone.com/2025/10/14/exchange-security-updates-oct2025/)
 - [michelderooij pushed Sessions](https://github.com/michelderooij/Sessions/compare/cf850c46f4...88f5a240b8)
 - [michelderooij pushed Shodan](https://github.com/michelderooij/Shodan/compare/25f2c83915...f1e4418b5b)
 - [michelderooij pushed Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/91e479b82f...d1cb29a9e4)
