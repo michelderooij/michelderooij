@@ -1,7 +1,22 @@
 #!/usr/bin/env python3
 """
 Filter ICS file to include only dates and titles.
-Reads an ICS file and generates a new one with only DTSTART, DTEND, and SUMMARY fields.
+
+This script reads an ICS (iCalendar) file and generates a new one with only 
+essential fields per event:
+- DTSTART (start date/time)
+- DTEND (end date/time)  
+- SUMMARY (event title)
+- UID (unique identifier, required for valid ICS)
+
+The calendar structure (BEGIN:VCALENDAR, VERSION, PRODID, etc.) is preserved.
+All other event fields (DESCRIPTION, LOCATION, etc.) are removed.
+
+Usage:
+    python3 filter_ics.py <input_file> <output_file>
+
+Example:
+    python3 filter_ics.py events.full.ics events.filtered.ics
 """
 
 import sys
