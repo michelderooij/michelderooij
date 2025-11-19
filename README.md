@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/e0a598d831...b8286650bb)
 - [michelderooij pushed Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/d1cb29a9e4...e223e988e4)
 - [michelderooij forked michelderooij/office-docs-powershell from MicrosoftDocs/office-docs-powershell](https://github.com/michelderooij/office-docs-powershell)
 - [michelderooij forked michelderooij/defender-docs from MicrosoftDocs/defender-docs](https://github.com/michelderooij/defender-docs)
 - [michelderooij forked michelderooij/microsoft-365-docs from MicrosoftDocs/microsoft-365-docs](https://github.com/michelderooij/microsoft-365-docs)
-- [michelderooij pushed Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/576323fb1f...81466414b9)
 <!-- LATESTACTIVITY:END -->
