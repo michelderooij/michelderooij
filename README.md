@@ -23,7 +23,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 <!-- LATESTACTIVITY:START -->
 - [michelderooij pushed Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/e0a598d831...b8286650bb)
 - [michelderooij pushed Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/d1cb29a9e4...e223e988e4)
-- [Security Updates Exchange 2016-2019 &amp; SE &lpar;Oct2025&rpar;](https://eightwone.com/2025/10/14/exchange-security-updates-oct2025/)
-- [Hotfix Updates Exchange 2016-SE &lpar;Sep2025&rpar;](https://eightwone.com/2025/09/08/hotfix-updates-exchange-2016-se-sep2025/)
-- [Security Updates Exchange 2016-2019 &amp; SE &lpar;Aug2025&rpar;](https://eightwone.com/2025/08/12/security-updates-exchange-2016-2019-se-aug2025/)
+- [michelderooij forked michelderooij/office-docs-powershell from MicrosoftDocs/office-docs-powershell](https://github.com/michelderooij/office-docs-powershell)
+- [michelderooij forked michelderooij/defender-docs from MicrosoftDocs/defender-docs](https://github.com/michelderooij/defender-docs)
+- [michelderooij forked michelderooij/microsoft-365-docs from MicrosoftDocs/microsoft-365-docs](https://github.com/michelderooij/microsoft-365-docs)
 <!-- LATESTACTIVITY:END -->
