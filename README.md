@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/compare/7fdd20cea0...537a973ea1)
+- [michelderooij pushed Remove-MessageClassItems](https://github.com/michelderooij/Remove-MessageClassItems/compare/1665317a1a...aa2deda9d6)
 - [michelderooij pushed Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/compare/0a7c21bdd2...0a832022b9)
 - [michelderooij pushed Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/b8286650bb...3009cd5597)
 - [michelderooij pushed Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/403bb6c955...12bbb4d43b)
-- [Security Updates Exchange 2016-2019 &amp; SE &lpar;Dec2025&rpar;](https://eightwone.com/2025/12/10/security-updates-exchange-2016-2019-se-dec2025/)
-- [michelderooij commented on an issue in Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/issues/14#issuecomment-3603739492)
 <!-- LATESTACTIVITY:END -->
