@@ -1,14 +1,14 @@
 name: GitHub Report RSS
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 6 * * *'
-
-permissions:
-  contents: write
-
-jobs:
+          @(
+            '    <tr>'
+            "      <td><a href=\"$($_.html_url)\">$($_.name)</a></td>"
+            "      <td>$($_.watchers_count)</td>"
+            "      <td>$($_.forks_count)</td>"
+            "      <td>$($_.subscribers_count)</td>"
+            "      <td>$lastUpdated</td>"
+            '    </tr>'
+          ) -join "`n"
   generate:
     runs-on: ubuntu-latest
     steps:
@@ -49,7 +49,7 @@ jobs:
                       "      <td><a href=`"$($_.html_url)`">$($_.name)</a></td>"
                       "      <td>$($_.watchers_count)</td>"
                       "      <td>$($_.forks_count)</td>"
-                      "      <td>$($_.stargazers_count)</td>"
+                      "      <td>$($_.subscribers_count)</td>"
                       "      <td>$lastUpdated</td>"
                       '    </tr>'
                   ) -join "`n"
@@ -68,9 +68,9 @@ jobs:
               '    <thead>'
               '      <tr>'
               '        <th>Title</th>'
-              '        <th>Watchers</th>'
-              '        <th>Forks</th>'
               '        <th>Stars</th>'
+              '        <th>Forks</th>'
+              '        <th>Subscribers</th>'
               '        <th>Last update</th>'
               '      </tr>'
               '    </thead>'
