@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed michelderooij](https://github.com/michelderooij/michelderooij/compare/1b3e5dee47...bd1416e24a)
+- [michelderooij starred michelderooij/Remove-MessageClassItems](https://github.com/michelderooij/Remove-MessageClassItems)
 - [michelderooij pushed Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/compare/537a973ea1...cf8997e7b6)
 - [michelderooij pushed Remove-MessageClassItems](https://github.com/michelderooij/Remove-MessageClassItems/compare/1665317a1a...aa2deda9d6)
 - [michelderooij pushed Remove-DuplicateItems](https://github.com/michelderooij/Remove-DuplicateItems/compare/0a7c21bdd2...0a832022b9)
-- [michelderooij pushed Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/b8286650bb...3009cd5597)
-- [michelderooij pushed Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/403bb6c955...12bbb4d43b)
 <!-- LATESTACTIVITY:END -->
