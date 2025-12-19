@@ -76,9 +76,9 @@ jobs:
                     $errorDetails = $_.Exception.Message
                     if ($_.Exception.Response) {
                       $statusCode = $_.Exception.Response.StatusCode.value__
-                      Write-Host "Traffic fetch failed for $repoName: HTTP $statusCode - $errorDetails"
+                      Write-Host "Traffic fetch failed for ${repoName}: HTTP $statusCode - $errorDetails"
                     } else {
-                      Write-Host "Traffic fetch failed for $repoName: $errorDetails"
+                      Write-Host "Traffic fetch failed for ${repoName}: $errorDetails"
                     }
                     $views = ''
                     $uniqueViews = ''
