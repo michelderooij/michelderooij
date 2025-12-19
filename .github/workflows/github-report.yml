@@ -44,12 +44,22 @@ jobs:
               Sort-Object name |
               ForEach-Object {
                   $lastUpdated = (Get-Date $_.updated_at).ToString('yyyy-MM-dd HH:mm')
+                $subs = $_.subscribers_count
+                if (-not $subs) {
+                  $repoDetailUri = "https://api.github.com/repos/$($_.owner.login)/$($_.name)"
+                  try {
+                    $detail = Invoke-RestMethod -Uri $repoDetailUri -Headers $headers
+                    $subs = $detail.subscribers_count
+                  } catch {
+                    $subs = ''
+                  }
+                }
                   @(
                       '    <tr>'
                       "      <td><a href=`"$($_.html_url)`">$($_.name)</a></td>"
                       "      <td>$($_.watchers_count)</td>"
                       "      <td>$($_.forks_count)</td>"
-                      "      <td>$($_.subscribers_count)</td>"
+                  "      <td>$subs</td>"
                       "      <td>$lastUpdated</td>"
                       '    </tr>'
                   ) -join "`n"
