@@ -39,28 +39,20 @@ jobs:
               $page++
           } while ($pageData.Count -eq $pageSize)
 
-              $rows = $allRepos |
-                Where-Object { -not $_.fork } |
-                Sort-Object updated_at -Descending |
+          $rows = $allRepos |
+              Where-Object { -not $_.fork } |
+              Sort-Object name |
               ForEach-Object {
-                $lastUpdated = (Get-Date $_.updated_at).ToString('yyyy-MM-dd HH:mm')
-                  $views = ''
-                  $viewsUri = "https://api.github.com/repos/$($_.owner.login)/$($_.name)/traffic/views"
-                  try {
-                    $viewData = Invoke-RestMethod -Uri $viewsUri -Headers $headers
-                    if ($viewData.count -ne $null) { $views = $viewData.count }
-                  } catch {
-                    $views = ''
-                  }
-                @(
-                  '    <tr>'
-                  "      <td><a href=""$($_.html_url)"">$($_.name)</a></td>"
-                  "      <td>$($_.watchers_count)</td>"
-                  "      <td>$($_.forks_count)</td>"
-                    "      <td>$views</td>"
-                  "      <td>$lastUpdated</td>"
-                  '    </tr>'
-                ) -join "`n"
+                  $lastUpdated = (Get-Date $_.updated_at).ToString('yyyy-MM-dd HH:mm')
+                  @(
+                      '    <tr>'
+                      "      <td><a href=\"\"$($_.html_url)\"\">$($_.name)</a></td>"
+                      "      <td>$($_.watchers_count)</td>"
+                      "      <td>$($_.forks_count)</td>"
+                      "      <td>$($_.stargazers_count)</td>"
+                      "      <td>$lastUpdated</td>"
+                      '    </tr>'
+                  ) -join "`n"
               }
 
             $html = @(
@@ -78,7 +70,7 @@ jobs:
               '        <th>Title</th>'
               '        <th>Watchers</th>'
               '        <th>Forks</th>'
-              '        <th>Views</th>'
+              '        <th>Stars</th>'
               '        <th>Last update</th>'
               '      </tr>'
               '    </thead>'
