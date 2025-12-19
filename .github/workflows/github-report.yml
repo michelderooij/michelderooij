@@ -1,14 +1,14 @@
 name: GitHub Report RSS
 
-          @(
-            '    <tr>'
-            "      <td><a href=\"$($_.html_url)\">$($_.name)</a></td>"
-            "      <td>$($_.watchers_count)</td>"
-            "      <td>$($_.forks_count)</td>"
-            "      <td>$($_.subscribers_count)</td>"
-            "      <td>$lastUpdated</td>"
-            '    </tr>'
-          ) -join "`n"
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 6 * * *'
+
+permissions:
+  contents: write
+
+jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
@@ -55,7 +55,7 @@ name: GitHub Report RSS
                   ) -join "`n"
               }
 
-            $html = @(
+          $html = @(
               '<!DOCTYPE html>'
               '<html lang="en">'
               '<head>'
@@ -80,14 +80,14 @@ name: GitHub Report RSS
               '  </table>'
               '</body>'
               '</html>'
-            ) -join "`n"
+          ) -join "`n"
 
-            $outputPath = Join-Path $PWD 'snippets/scripts.html'
-            $outputDir = Split-Path $outputPath
-            if (-not (Test-Path $outputDir)) {
+          $outputPath = Join-Path $PWD 'snippets/scripts.html'
+          $outputDir = Split-Path $outputPath
+          if (-not (Test-Path $outputDir)) {
               New-Item -ItemType Directory -Path $outputDir -Force | Out-Null
-            }
-            $html | Set-Content -Path $outputPath -Encoding UTF8
+          }
+          $html | Set-Content -Path $outputPath -Encoding UTF8
 
       - name: Commit and push feed
         if: github.ref == 'refs/heads/master'
