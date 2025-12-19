@@ -18,6 +18,7 @@ jobs:
       - name: Generate repo HTML
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TRAFFIC_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
         shell: pwsh
         run: |
           $ErrorActionPreference = 'Stop'
@@ -25,6 +26,10 @@ jobs:
           $headers = @{ 'User-Agent' = 'Get-GitHubReport' }
           if ($env:GITHUB_TOKEN) {
               $headers['Authorization'] = "token $($env:GITHUB_TOKEN)"
+          }
+          $trafficHeaders = $headers
+          if ($env:TRAFFIC_TOKEN -and $env:TRAFFIC_TOKEN -ne $env:GITHUB_TOKEN) {
+              $trafficHeaders = @{ 'User-Agent' = 'Get-GitHubReport'; 'Authorization' = "token $($env:TRAFFIC_TOKEN)" }
           }
 
           $allRepos = @()
@@ -48,7 +53,7 @@ jobs:
                 if (-not $subs) {
                   $repoDetailUri = "https://api.github.com/repos/$($_.owner.login)/$($_.name)"
                   try {
-                    $detail = Invoke-RestMethod -Uri $repoDetailUri -Headers $headers
+                      $detail = Invoke-RestMethod -Uri $repoDetailUri -Headers $trafficHeaders
                     $subs = $detail.subscribers_count
                   } catch {
                     $subs = ''
@@ -58,7 +63,7 @@ jobs:
                   $uniqueViews = ''
                   $viewsUri = "https://api.github.com/repos/$($_.owner.login)/$($_.name)/traffic/views"
                   try {
-                    $viewData = Invoke-RestMethod -Uri $viewsUri -Headers $headers
+                    $viewData = Invoke-RestMethod -Uri $viewsUri -Headers $trafficHeaders
                     if ($viewData.count -ne $null) { $views = $viewData.count }
                     if ($viewData.uniques -ne $null) { $uniqueViews = $viewData.uniques }
                   } catch {
