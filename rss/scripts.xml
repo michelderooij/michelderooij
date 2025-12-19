@@ -1,1 +1,254 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>michelderooij GitHub Repositories</title>
+    <link>https://github.com/michelderooij</link>
+    <description>Recent updates to public repositories</description>
+    <lastBuildDate>Fri, 19 Dec 2025 12:35:15 +00:00</lastBuildDate>
+    <item>
+      <title>michelderooij</title>
+      <link>https://github.com/michelderooij/michelderooij</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/michelderooij</guid>
+      <description><![CDATA[Watchers: 2 | Forks: 0]]></description>
+      <pubDate>Fri, 19 Dec 2025 12:34:46 Z</pubDate>
+    </item>
+    <item>
+      <title>Invoke-Unarchive</title>
+      <link>https://github.com/michelderooij/Invoke-Unarchive</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Invoke-Unarchive</guid>
+      <description><![CDATA[Exchange script to move contents back from personal archives to primary mailboxes | Watchers: 10 | Forks: 1]]></description>
+      <pubDate>Thu, 18 Dec 2025 15:19:05 Z</pubDate>
+    </item>
+    <item>
+      <title>Remove-MessageClassItems</title>
+      <link>https://github.com/michelderooij/Remove-MessageClassItems</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Remove-MessageClassItems</guid>
+      <description><![CDATA[Script to remove items from specific message classes from Exchange mailboxes. | Watchers: 10 | Forks: 1]]></description>
+      <pubDate>Thu, 18 Dec 2025 14:54:03 Z</pubDate>
+    </item>
+    <item>
+      <title>Remove-DuplicateItems</title>
+      <link>https://github.com/michelderooij/Remove-DuplicateItems</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Remove-DuplicateItems</guid>
+      <description><![CDATA[Script to remove duplicate items from Exchange mailboxes. | Watchers: 59 | Forks: 19]]></description>
+      <pubDate>Thu, 18 Dec 2025 10:46:40 Z</pubDate>
+    </item>
+    <item>
+      <title>Connect-Office365Services</title>
+      <link>https://github.com/michelderooij/Connect-Office365Services</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Connect-Office365Services</guid>
+      <description><![CDATA[Helper functions to connect to Office 365 services or Exchange On-Premises. | Watchers: 104 | Forks: 26]]></description>
+      <pubDate>Thu, 18 Dec 2025 10:29:46 Z</pubDate>
+    </item>
+    <item>
+      <title>Get-EventSession</title>
+      <link>https://github.com/michelderooij/Get-EventSession</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Get-EventSession</guid>
+      <description><![CDATA[Script to assist in downloading Microsoft event contents or return session information. | Watchers: 104 | Forks: 33]]></description>
+      <pubDate>Mon, 15 Dec 2025 08:00:48 Z</pubDate>
+    </item>
+    <item>
+      <title>Install-Exchange15</title>
+      <link>https://github.com/michelderooij/Install-Exchange15</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Install-Exchange15</guid>
+      <description><![CDATA[Script to fully unattended Exchange 2016/2019 deployments. | Watchers: 56 | Forks: 16]]></description>
+      <pubDate>Wed, 12 Nov 2025 20:39:09 Z</pubDate>
+    </item>
+    <item>
+      <title>office-docs-powershell</title>
+      <link>https://github.com/michelderooij/office-docs-powershell</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/office-docs-powershell</guid>
+      <description><![CDATA[PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell | Watchers: 0 | Forks: 0]]></description>
+      <pubDate>Fri, 31 Oct 2025 10:18:53 Z</pubDate>
+    </item>
+    <item>
+      <title>defender-docs</title>
+      <link>https://github.com/michelderooij/defender-docs</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/defender-docs</guid>
+      <description><![CDATA[Watchers: 0 | Forks: 0]]></description>
+      <pubDate>Fri, 31 Oct 2025 10:18:11 Z</pubDate>
+    </item>
+    <item>
+      <title>microsoft-365-docs</title>
+      <link>https://github.com/michelderooij/microsoft-365-docs</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/microsoft-365-docs</guid>
+      <description><![CDATA[This repo is used to host the source for the Microsoft 365 documentation on https://docs.microsoft.com. | Watchers: 0 | Forks: 0]]></description>
+      <pubDate>Fri, 31 Oct 2025 10:16:32 Z</pubDate>
+    </item>
+    <item>
+      <title>Office365itpros</title>
+      <link>https://github.com/michelderooij/Office365itpros</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Office365itpros</guid>
+      <description><![CDATA[Office 365 for IT Pros PowerShell examples | Watchers: 1 | Forks: 0]]></description>
+      <pubDate>Tue, 14 Oct 2025 20:46:43 Z</pubDate>
+    </item>
+    <item>
+      <title>Sessions</title>
+      <link>https://github.com/michelderooij/Sessions</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Sessions</guid>
+      <description><![CDATA[Resources for sessions and demos | Watchers: 0 | Forks: 0]]></description>
+      <pubDate>Tue, 30 Sep 2025 16:21:40 Z</pubDate>
+    </item>
+    <item>
+      <title>Shodan</title>
+      <link>https://github.com/michelderooij/Shodan</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Shodan</guid>
+      <description><![CDATA[Shodan.io queries | Watchers: 0 | Forks: 0]]></description>
+      <pubDate>Tue, 16 Sep 2025 18:39:31 Z</pubDate>
+    </item>
+    <item>
+      <title>LegacyDOS</title>
+      <link>https://github.com/michelderooij/LegacyDOS</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/LegacyDOS</guid>
+      <description><![CDATA[Watchers: 0 | Forks: 0]]></description>
+      <pubDate>Wed, 03 Sep 2025 18:07:38 Z</pubDate>
+    </item>
+    <item>
+      <title>Get-ExchangePQT</title>
+      <link>https://github.com/michelderooij/Get-ExchangePQT</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Get-ExchangePQT</guid>
+      <description><![CDATA[Script to help calculate SpecInt2007 rate for sizing Exchange deployments. | Watchers: 2 | Forks: 3]]></description>
+      <pubDate>Wed, 06 Aug 2025 22:26:30 Z</pubDate>
+    </item>
+    <item>
+      <title>Compare-Cmdlets</title>
+      <link>https://github.com/michelderooij/Compare-Cmdlets</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Compare-Cmdlets</guid>
+      <description><![CDATA[Script to compare cmdlets available through supported modules. | Watchers: 5 | Forks: 0]]></description>
+      <pubDate>Wed, 11 Jun 2025 08:12:10 Z</pubDate>
+    </item>
+    <item>
+      <title>Practical365</title>
+      <link>https://github.com/michelderooij/Practical365</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Practical365</guid>
+      <description><![CDATA[Script samples for Practical 365 articles | Watchers: 1 | Forks: 1]]></description>
+      <pubDate>Tue, 20 May 2025 22:36:07 Z</pubDate>
+    </item>
+    <item>
+      <title>CSS-Exchange</title>
+      <link>https://github.com/michelderooij/CSS-Exchange</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/CSS-Exchange</guid>
+      <description><![CDATA[Exchange Server support tools and scripts | Watchers: 1 | Forks: 0]]></description>
+      <pubDate>Tue, 14 Jan 2025 19:20:06 Z</pubDate>
+    </item>
+    <item>
+      <title>mta-sts</title>
+      <link>https://github.com/michelderooij/mta-sts</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/mta-sts</guid>
+      <description><![CDATA[Watchers: 0 | Forks: 0]]></description>
+      <pubDate>Mon, 29 Jul 2024 13:09:39 Z</pubDate>
+    </item>
+    <item>
+      <title>mta-sts2</title>
+      <link>https://github.com/michelderooij/mta-sts2</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/mta-sts2</guid>
+      <description><![CDATA[Watchers: 0 | Forks: 0]]></description>
+      <pubDate>Fri, 19 Jul 2024 09:43:13 Z</pubDate>
+    </item>
+    <item>
+      <title>Clear-AutoComplete</title>
+      <link>https://github.com/michelderooij/Clear-AutoComplete</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Clear-AutoComplete</guid>
+      <description><![CDATA[Script to clear one or more locations where recipient information is cached. | Watchers: 10 | Forks: 6]]></description>
+      <pubDate>Mon, 15 Jul 2024 19:02:18 Z</pubDate>
+    </item>
+    <item>
+      <title>Configure-ClientSizeLimits</title>
+      <link>https://github.com/michelderooij/Configure-ClientSizeLimits</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Configure-ClientSizeLimits</guid>
+      <description><![CDATA[Configure client-specific message size limits for Exchange Web Services, Outlook WebApp or ActiveSync workloads.  | Watchers: 2 | Forks: 1]]></description>
+      <pubDate>Mon, 06 May 2024 15:32:34 Z</pubDate>
+    </item>
+    <item>
+      <title>Analyze-ExoScript</title>
+      <link>https://github.com/michelderooij/Analyze-ExoScript</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Analyze-ExoScript</guid>
+      <description><![CDATA[Script to analyze Exchange Online Management scripts, reporting contained EXO cmdlets are REST or RPS based | Watchers: 2 | Forks: 0]]></description>
+      <pubDate>Sun, 05 Nov 2023 01:21:32 Z</pubDate>
+    </item>
+    <item>
+      <title>FastTrack</title>
+      <link>https://github.com/michelderooij/FastTrack</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/FastTrack</guid>
+      <description><![CDATA[GitHub home for Microsoft FastTrack | Watchers: 0 | Forks: 0]]></description>
+      <pubDate>Tue, 10 Oct 2023 15:31:47 Z</pubDate>
+    </item>
+    <item>
+      <title>AutodiscoverServiceConnectionPoint</title>
+      <link>https://github.com/michelderooij/AutodiscoverServiceConnectionPoint</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/AutodiscoverServiceConnectionPoint</guid>
+      <description><![CDATA[Helper functions to create, remove and configure Autodiscover Service Connection Points for Exchange. | Watchers: 3 | Forks: 0]]></description>
+      <pubDate>Wed, 31 May 2023 07:42:44 Z</pubDate>
+    </item>
+    <item>
+      <title>Set-AutoResponderNotification</title>
+      <link>https://github.com/michelderooij/Set-AutoResponderNotification</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Set-AutoResponderNotification</guid>
+      <description><![CDATA[Script to set AutoResponder inbox rule on an Exchange mailbox. This can be used to inform relations and partners sending messages to support mergers, acquisitions or rebranding. | Watchers: 3 | Forks: 0]]></description>
+      <pubDate>Thu, 16 Mar 2023 14:39:03 Z</pubDate>
+    </item>
+    <item>
+      <title>ZimbraTools</title>
+      <link>https://github.com/michelderooij/ZimbraTools</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/ZimbraTools</guid>
+      <description><![CDATA[Resources to support migrations from Zimbra to Exchange | Watchers: 1 | Forks: 0]]></description>
+      <pubDate>Thu, 16 Mar 2023 14:38:59 Z</pubDate>
+    </item>
+    <item>
+      <title>Get-DotNetVersion</title>
+      <link>https://github.com/michelderooij/Get-DotNetVersion</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Get-DotNetVersion</guid>
+      <description><![CDATA[Retrieve .NET Framework version from one or more computers | Watchers: 1 | Forks: 1]]></description>
+      <pubDate>Thu, 16 Mar 2023 14:38:57 Z</pubDate>
+    </item>
+    <item>
+      <title>Configure-IMIntegration</title>
+      <link>https://github.com/michelderooij/Configure-IMIntegration</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Configure-IMIntegration</guid>
+      <description><![CDATA[Configures IM Integration on Exchange 2013/2016 servers | Watchers: 1 | Forks: 0]]></description>
+      <pubDate>Thu, 16 Mar 2023 14:38:56 Z</pubDate>
+    </item>
+    <item>
+      <title>Get-ExchangeVersion</title>
+      <link>https://github.com/michelderooij/Get-ExchangeVersion</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Get-ExchangeVersion</guid>
+      <description><![CDATA[Retrieves Exchange server version information. | Watchers: 2 | Forks: 1]]></description>
+      <pubDate>Thu, 16 Mar 2023 14:38:45 Z</pubDate>
+    </item>
+    <item>
+      <title>Misc</title>
+      <link>https://github.com/michelderooij/Misc</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Misc</guid>
+      <description><![CDATA[Several scripts to support tasks regarding earlier versions of Exchange | Watchers: 1 | Forks: 0]]></description>
+      <pubDate>Thu, 16 Mar 2023 14:38:29 Z</pubDate>
+    </item>
+    <item>
+      <title>Convert-DistributionGroup</title>
+      <link>https://github.com/michelderooij/Convert-DistributionGroup</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Convert-DistributionGroup</guid>
+      <description><![CDATA[Script to support converting synchronized Distribution Groups to cloud-only Distribution Groups | Watchers: 1 | Forks: 0]]></description>
+      <pubDate>Thu, 16 Mar 2023 14:38:13 Z</pubDate>
+    </item>
+    <item>
+      <title>Fix-MailboxFolders</title>
+      <link>https://github.com/michelderooij/Fix-MailboxFolders</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Fix-MailboxFolders</guid>
+      <description><![CDATA[Script to fix mailbox folder names after changing regional settings or restore/import. | Watchers: 2 | Forks: 0]]></description>
+      <pubDate>Thu, 18 Aug 2022 01:15:59 Z</pubDate>
+    </item>
+    <item>
+      <title>Copy-ReceiveConnector</title>
+      <link>https://github.com/michelderooij/Copy-ReceiveConnector</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/Copy-ReceiveConnector</guid>
+      <description><![CDATA[Copy Exchange Server 2013+ receive connector settings to a different modern Exchange Server. | Watchers: 0 | Forks: 0]]></description>
+      <pubDate>Tue, 14 Jun 2022 13:18:00 Z</pubDate>
+    </item>
+    <item>
+      <title>azure-docs</title>
+      <link>https://github.com/michelderooij/azure-docs</link>
+      <guid isPermaLink="true">https://github.com/michelderooij/azure-docs</guid>
+      <description><![CDATA[Open source documentation of Microsoft Azure | Watchers: 0 | Forks: 0]]></description>
+      <pubDate>Tue, 07 Jun 2022 12:05:51 Z</pubDate>
+    </item>
+  </channel>
+</rss>
