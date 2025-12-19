@@ -23,14 +23,15 @@ jobs:
         run: |
           $ErrorActionPreference = 'Stop'
 
-          $headers = @{ 'User-Agent' = 'Get-GitHubReport' }
-          if ($env:GITHUB_TOKEN) {
+            $headers = @{ 'User-Agent' = 'Get-GitHubReport'; 'Accept' = 'application/vnd.github+json' }
+            if ($env:GITHUB_TOKEN) {
               $headers['Authorization'] = "token $($env:GITHUB_TOKEN)"
-          }
-          $trafficHeaders = $headers
-          if ($env:TRAFFIC_TOKEN -and $env:TRAFFIC_TOKEN -ne $env:GITHUB_TOKEN) {
-              $trafficHeaders = @{ 'User-Agent' = 'Get-GitHubReport'; 'Authorization' = "token $($env:TRAFFIC_TOKEN)" }
-          }
+            }
+            if ($env:TRAFFIC_TOKEN) {
+              $trafficHeaders = @{ 'User-Agent' = 'Get-GitHubReport'; 'Accept' = 'application/vnd.github+json'; 'Authorization' = "token $($env:TRAFFIC_TOKEN)" }
+            } else {
+              $trafficHeaders = $headers
+            }
 
           $allRepos = @()
           $baseUri = 'https://api.github.com/users/michelderooij/repos'
@@ -53,7 +54,7 @@ jobs:
                 if (-not $subs) {
                   $repoDetailUri = "https://api.github.com/repos/$($_.owner.login)/$($_.name)"
                   try {
-                      $detail = Invoke-RestMethod -Uri $repoDetailUri -Headers $trafficHeaders
+                        $detail = Invoke-RestMethod -Uri $repoDetailUri -Headers $trafficHeaders
                     $subs = $detail.subscribers_count
                   } catch {
                     $subs = ''
@@ -67,6 +68,7 @@ jobs:
                     if ($viewData.count -ne $null) { $views = $viewData.count }
                     if ($viewData.uniques -ne $null) { $uniqueViews = $viewData.uniques }
                   } catch {
+                    Write-Host "Traffic fetch failed for $($_.name): $($_.Exception.Message)"
                     $views = ''
                     $uniqueViews = ''
                   }
