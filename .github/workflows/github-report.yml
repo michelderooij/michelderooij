@@ -46,7 +46,7 @@ jobs:
                   $lastUpdated = (Get-Date $_.updated_at).ToString('yyyy-MM-dd HH:mm')
                   @(
                       '    <tr>'
-                      "      <td><a href=\"\"$($_.html_url)\"\">$($_.name)</a></td>"
+                      "      <td><a href=`"$($_.html_url)`">$($_.name)</a></td>"
                       "      <td>$($_.watchers_count)</td>"
                       "      <td>$($_.forks_count)</td>"
                       "      <td>$($_.stargazers_count)</td>"
