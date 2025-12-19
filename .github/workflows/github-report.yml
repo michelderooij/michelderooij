@@ -49,6 +49,7 @@ jobs:
               Where-Object { -not $_.fork } |
               Sort-Object name |
               ForEach-Object {
+                  $repoName = $_.name
                   $lastUpdated = (Get-Date $_.updated_at).ToString('yyyy-MM-dd HH:mm')
                 $subs = $_.subscribers_count
                 if (-not $subs) {
@@ -75,9 +76,9 @@ jobs:
                     $errorDetails = $_.Exception.Message
                     if ($_.Exception.Response) {
                       $statusCode = $_.Exception.Response.StatusCode.value__
-                      Write-Host "Traffic fetch failed for $($_.name): HTTP $statusCode - $errorDetails"
+                      Write-Host "Traffic fetch failed for $repoName: HTTP $statusCode - $errorDetails"
                     } else {
-                      Write-Host "Traffic fetch failed for $($_.name): $errorDetails"
+                      Write-Host "Traffic fetch failed for $repoName: $errorDetails"
                     }
                     $views = ''
                     $uniqueViews = ''
