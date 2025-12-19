@@ -15,7 +15,7 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Generate RSS feed
+      - name: Generate repo HTML
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         shell: pwsh
@@ -39,47 +39,56 @@ jobs:
               $page++
           } while ($pageData.Count -eq $pageSize)
 
-          $channelTitle = 'michelderooij GitHub Repositories'
-          $channelLink = 'https://github.com/michelderooij'
-          $channelDescription = 'Recent updates to public repositories'
-          $lastBuildDate = (Get-Date).ToString('ddd, dd MMM yyyy HH:mm:ss K')
-
-          $items = $allRepos |
+            $rows = $allRepos |
               Sort-Object updated_at -Descending |
               ForEach-Object {
-                  $pubDate = (Get-Date $_.updated_at).ToString('ddd, dd MMM yyyy HH:mm:ss K')
-                  $descParts = @($_.description, "Watchers: $($_.watchers_count)", "Forks: $($_.forks_count)") | Where-Object { $_ }
-                  $fullDesc = $descParts -join ' | '
-                  @(
-                      '    <item>'
-                      "      <title>$($_.name)</title>"
-                      "      <link>$($_.html_url)</link>"
-                      "      <guid isPermaLink=""true"">$($_.html_url)</guid>"
-                      "      <description><![CDATA[$fullDesc]]></description>"
-                      "      <pubDate>$pubDate</pubDate>"
-                      '    </item>'
-                  ) -join "`n"
+                $lastUpdated = (Get-Date $_.updated_at).ToString('yyyy-MM-dd HH:mm')
+                $downloads = $_.downloads_count
+                if (-not $downloads) { $downloads = '' }
+                @(
+                  '    <tr>'
+                  "      <td><a href=""$($_.html_url)"">$($_.name)</a></td>"
+                  "      <td>$($_.watchers_count)</td>"
+                  "      <td>$($_.forks_count)</td>"
+                  "      <td>$downloads</td>"
+                  "      <td>$lastUpdated</td>"
+                  '    </tr>'
+                ) -join "`n"
               }
 
-          $rss = @(
-              '<?xml version="1.0" encoding="UTF-8"?>'
-              '<rss version="2.0">'
-              '  <channel>'
-              "    <title>$channelTitle</title>"
-              "    <link>$channelLink</link>"
-              "    <description>$channelDescription</description>"
-              "    <lastBuildDate>$lastBuildDate</lastBuildDate>"
-              $items
-              '  </channel>'
-              '</rss>'
-          ) -join "`n"
+            $html = @(
+              '<!DOCTYPE html>'
+              '<html lang="en">'
+              '<head>'
+              '  <meta charset="UTF-8" />'
+              '  <meta name="viewport" content="width=device-width, initial-scale=1.0" />'
+              '  <title>michelderooij GitHub Repositories</title>'
+              '</head>'
+              '<body>'
+              '  <table>'
+              '    <thead>'
+              '      <tr>'
+              '        <th>Title</th>'
+              '        <th>Watchers</th>'
+              '        <th>Forks</th>'
+              '        <th>Downloads</th>'
+              '        <th>Last update</th>'
+              '      </tr>'
+              '    </thead>'
+              '    <tbody>'
+              $rows
+              '    </tbody>'
+              '  </table>'
+              '</body>'
+              '</html>'
+            ) -join "`n"
 
-          $outputPath = Join-Path $PWD 'rss/scripts.xml'
-          $outputDir = Split-Path $outputPath
-          if (-not (Test-Path $outputDir)) {
+            $outputPath = Join-Path $PWD 'snippets/scripts.html'
+            $outputDir = Split-Path $outputPath
+            if (-not (Test-Path $outputDir)) {
               New-Item -ItemType Directory -Path $outputDir -Force | Out-Null
-          }
-          $rss | Set-Content -Path $outputPath -Encoding UTF8
+            }
+            $html | Set-Content -Path $outputPath -Encoding UTF8
 
       - name: Commit and push feed
         if: github.ref == 'refs/heads/master'
@@ -88,8 +97,8 @@ jobs:
           if git status --porcelain | grep -q .; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add rss/scripts.xml
-            git commit -m "Update GitHub repos RSS feed"
+            git add snippets/scripts.html
+            git commit -m "Update GitHub repos HTML snippet"
             git push
           else
             echo "No changes to commit"
