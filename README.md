@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
-- [michelderooij pushed michelderooij](https://github.com/michelderooij/michelderooij/compare/53465ff742...0d47f00abd)
-- [michelderooij contributed to michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/pull/2)
-- [michelderooij starred michelderooij/Remove-MessageClassItems](https://github.com/michelderooij/Remove-MessageClassItems)
-- [michelderooij pushed Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/compare/537a973ea1...cf8997e7b6)
-- [michelderooij pushed Remove-MessageClassItems](https://github.com/michelderooij/Remove-MessageClassItems/compare/1665317a1a...aa2deda9d6)
+- [Security Updates Exchange 2016-2019 &amp; SE &lpar;Dec2025&rpar;](https://eightwone.com/2025/12/10/security-updates-exchange-2016-2019-se-dec2025/)
+- [Security Updates Exchange 2016-2019 &amp; SE &lpar;Oct2025&rpar;](https://eightwone.com/2025/10/14/exchange-security-updates-oct2025/)
+- [Hotfix Updates Exchange 2016-SE &lpar;Sep2025&rpar;](https://eightwone.com/2025/09/08/hotfix-updates-exchange-2016-se-sep2025/)
+- [Security Updates Exchange 2016-2019 &amp; SE &lpar;Aug2025&rpar;](https://eightwone.com/2025/08/12/security-updates-exchange-2016-2019-se-aug2025/)
+- [MVPs around the World &lpar;2025&rpar;](https://eightwone.com/2025/07/30/mvps-around-the-world-2025/)
 <!-- LATESTACTIVITY:END -->
