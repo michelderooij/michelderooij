@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed Shodan](https://github.com/michelderooij/Shodan/compare/f1e4418b5b...2e8180be36)
 - [michelderooij starred michelderooij/Remove-MessageClassItems](https://github.com/michelderooij/Remove-MessageClassItems)
 - [michelderooij pushed michelderooij](https://github.com/michelderooij/michelderooij/compare/53465ff742...0d47f00abd)
 - [michelderooij contributed to michelderooij/michelderooij](https://github.com/michelderooij/michelderooij/pull/2)
 - [michelderooij pushed Invoke-Unarchive](https://github.com/michelderooij/Invoke-Unarchive/compare/537a973ea1...cf8997e7b6)
-- [michelderooij pushed Remove-MessageClassItems](https://github.com/michelderooij/Remove-MessageClassItems/compare/1665317a1a...aa2deda9d6)
 <!-- LATESTACTIVITY:END -->
