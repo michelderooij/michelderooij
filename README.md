@@ -22,8 +22,8 @@ You can contact me via the contact form at https://eightwone.com/contact.
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
 - [michelderooij commented on an issue in Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/47#issuecomment-3702055839)
-- [michelderooij closed an issue in Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/42)
-- [michelderooij reopened an issue in Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/42)
-- [michelderooij pushed Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/02a954efa7...57a2f95c00)
 - [Security Updates Exchange 2016-2019 &amp; SE &lpar;Dec2025&rpar;](https://eightwone.com/2025/12/10/security-updates-exchange-2016-2019-se-dec2025/)
+- [Security Updates Exchange 2016-2019 &amp; SE &lpar;Oct2025&rpar;](https://eightwone.com/2025/10/14/exchange-security-updates-oct2025/)
+- [Hotfix Updates Exchange 2016-SE &lpar;Sep2025&rpar;](https://eightwone.com/2025/09/08/hotfix-updates-exchange-2016-se-sep2025/)
+- [Security Updates Exchange 2016-2019 &amp; SE &lpar;Aug2025&rpar;](https://eightwone.com/2025/08/12/security-updates-exchange-2016-2019-se-aug2025/)
 <!-- LATESTACTIVITY:END -->
