@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij released 1.1.0 at michelderooij/PIMfox-for-Entra](https://github.com/michelderooij/PIMfox-for-Entra/releases/tag/1.1.0)
+- [michelderooij closed an issue in PIMfox-for-Entra](https://github.com/michelderooij/PIMfox-for-Entra/issues/1)
+- [michelderooij commented on an issue in PIMfox-for-Entra](https://github.com/michelderooij/PIMfox-for-Entra/issues/1#issuecomment-3848978805)
 - [michelderooij pushed PIMfox-for-Entra](https://github.com/michelderooij/PIMfox-for-Entra/compare/b3f95b7454...8d45258e04)
 - [michelderooij released 1.0.0 at michelderooij/PIMfox-for-Entra](https://github.com/michelderooij/PIMfox-for-Entra/releases/tag/1.0.0)
-- [michelderooij opened an issue in PIMfox-for-Entra](https://github.com/michelderooij/PIMfox-for-Entra/issues/1)
-- [michelderooij created a branch](https://github.com/michelderooij/PIMfox-for-Entra/compare/0000000000...1b811810b3)
-- [Security Updates Exchange 2016-2019 &amp; SE &lpar;Dec2025&rpar;](https://eightwone.com/2025/12/10/security-updates-exchange-2016-2019-se-dec2025/)
 <!-- LATESTACTIVITY:END -->
