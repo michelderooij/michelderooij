@@ -21,7 +21,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
-- [michelderooij opened a pull request in synology-docker](https://github.com/telnetdoogie/synology-docker/pull/59)
+- [michelderooij contributed to telnetdoogie/synology-docker](https://github.com/telnetdoogie/synology-docker/pull/59)
 - [michelderooij pushed synology-docker](https://github.com/michelderooij/synology-docker/compare/9a7c0468a0...a886cab401)
 - [michelderooij forked michelderooij/synology-docker from telnetdoogie/synology-docker](https://github.com/michelderooij/synology-docker)
 - [michelderooij starred telnetdoogie/synology-docker](https://github.com/telnetdoogie/synology-docker)
