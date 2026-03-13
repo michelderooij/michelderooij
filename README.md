@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij starred telnetdoogie/synology-docker](https://github.com/telnetdoogie/synology-docker)
 - [Security Updates Exchange 2016-2019 &amp; SE &lpar;Feb2026&rpar;](https://eightwone.com/2026/02/11/security-updates-exchange-2016-2019-se-feb2026/)
 - [Security Updates Exchange 2016-2019 &amp; SE &lpar;Dec2025&rpar;](https://eightwone.com/2025/12/10/security-updates-exchange-2016-2019-se-dec2025/)
 - [Security Updates Exchange 2016-2019 &amp; SE &lpar;Oct2025&rpar;](https://eightwone.com/2025/10/14/exchange-security-updates-oct2025/)
 - [Hotfix Updates Exchange 2016-SE &lpar;Sep2025&rpar;](https://eightwone.com/2025/09/08/hotfix-updates-exchange-2016-se-sep2025/)
-- [Security Updates Exchange 2016-2019 &amp; SE &lpar;Aug2025&rpar;](https://eightwone.com/2025/08/12/security-updates-exchange-2016-2019-se-aug2025/)
 <!-- LATESTACTIVITY:END -->
