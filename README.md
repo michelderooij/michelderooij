@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed mta-sts2](https://github.com/michelderooij/mta-sts2/compare/31917923c5...0c57e935cf)
 - [michelderooij pushed Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/57a2f95c00...7f03d44ff7)
 - [michelderooij contributed to telnetdoogie/synology-docker](https://github.com/telnetdoogie/synology-docker/pull/59)
 - [michelderooij pushed synology-docker](https://github.com/michelderooij/synology-docker/compare/9a7c0468a0...a886cab401)
 - [michelderooij forked michelderooij/synology-docker from telnetdoogie/synology-docker](https://github.com/michelderooij/synology-docker)
-- [michelderooij starred telnetdoogie/synology-docker](https://github.com/telnetdoogie/synology-docker)
 <!-- LATESTACTIVITY:END -->
