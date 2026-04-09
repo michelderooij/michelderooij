@@ -66,12 +66,6 @@ jobs:
                   $viewsUri = "https://api.github.com/repos/$($_.owner.login)/$($_.name)/traffic/views"
                   try {
                     $viewData = Invoke-RestMethod -Uri $viewsUri -Headers $trafficHeaders
-                    if ($null -ne $viewData.PSObject.Properties['count']) {
-                      $views = $viewData.count
-                    }
-                    if ($null -ne $viewData.PSObject.Properties['uniques']) {
-                      $uniqueViews = $viewData.uniques
-                    }
                   } catch {
                     $errorDetails = $_.Exception.Message
                     if ($_.Exception.Response) {
@@ -88,9 +82,7 @@ jobs:
                       "      <td><a href=`"$($_.html_url)`">$($_.name)</a></td>"
                       "      <td>$($_.watchers_count)</td>"
                       "      <td>$($_.forks_count)</td>"
-                  "      <td>$subs</td>"
-                    "      <td>$views</td>"
-                    "      <td>$uniqueViews</td>"
+                      "      <td>$subs</td>"
                       "      <td>$lastUpdated</td>"
                       '    </tr>'
                   ) -join "`n"
@@ -112,8 +104,6 @@ jobs:
               '        <th>Stars</th>'
               '        <th>Forks</th>'
               '        <th>Subscribers</th>'
-              '        <th>Views</th>'
-              '        <th>Unique views</th>'
               '        <th>Last update</th>'
               '      </tr>'
               '    </thead>'
