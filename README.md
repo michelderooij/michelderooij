@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [Exchange Deployment &amp; Compliance Assessment](https://eightwone.com/2026/04/23/exchange-deployment-compliance-assessment/)
 - [michelderooij pushed Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/cb9faa4ad2...05ae1f12ce)
 - [michelderooij pushed michelderooij](https://github.com/michelderooij/michelderooij/compare/c9652c40b0...79ecb30cf0)
 - [michelderooij forked michelderooij/dkim-exchange from Pro/dkim-exchange](https://github.com/michelderooij/dkim-exchange)
 - [michelderooij starred Pro/dkim-exchange](https://github.com/Pro/dkim-exchange)
-- [michelderooij closed an issue in Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/47)
 <!-- LATESTACTIVITY:END -->
