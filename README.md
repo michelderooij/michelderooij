@@ -21,7 +21,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
-- [michelderooij pushed EDCA](https://github.com/michelderooij/EDCA/compare/aed23e049e...16f30d7d48)
+- [michelderooij pushed EDCA](https://github.com/michelderooij/EDCA/compare/d40ff46aa5...42d85b7ccc)
 - [Exchange Deployment &amp; Compliance Assessment](https://eightwone.com/2026/04/23/exchange-deployment-compliance-assessment/)
 - [michelderooij pushed Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/cb9faa4ad2...05ae1f12ce)
 - [michelderooij pushed michelderooij](https://github.com/michelderooij/michelderooij/compare/c9652c40b0...79ecb30cf0)
