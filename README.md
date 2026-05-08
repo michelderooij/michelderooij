@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
-- [michelderooij released v1.0.0.2 at michelderooij/EDCA](https://github.com/michelderooij/EDCA/releases/tag/v1.0.0.2)
-- [michelderooij pushed EDCA](https://github.com/michelderooij/EDCA/compare/a16a74d8bd...109d672890)
-- [michelderooij created a branch](https://github.com/michelderooij/EDCA/compare/0000000000...d59014b7ca)
-- [michelderooij released v1.0.0.0 at michelderooij/EDCA](https://github.com/michelderooij/EDCA/releases/tag/v1.0.0.0)
-- [Exchange Deployment &amp; Compliance Assessment](https://eightwone.com/2026/04/23/exchange-deployment-compliance-assessment/)
+- [Exchange Unattended Install Script [Update]](https://eightwone.com/2026/05/07/exchange-unattended-install-script/)
+- [michelderooij pushed Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/7f0bba6c1f...363e5d3d78)
+- [michelderooij closed an issue in EDCA](https://github.com/michelderooij/EDCA/issues/3)
+- [michelderooij commented on an issue in EDCA](https://github.com/michelderooij/EDCA/issues/3#issuecomment-4399893943)
+- [michelderooij released v1.0.0.4 at michelderooij/EDCA](https://github.com/michelderooij/EDCA/releases/tag/v1.0.0.4)
 <!-- LATESTACTIVITY:END -->
