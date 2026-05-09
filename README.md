@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
-- [Exchange Unattended Install Script [Update]](https://eightwone.com/2026/05/07/exchange-unattended-install-script/)
-- [michelderooij pushed Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/7f0bba6c1f...363e5d3d78)
-- [michelderooij closed an issue in EDCA](https://github.com/michelderooij/EDCA/issues/3)
-- [michelderooij commented on an issue in EDCA](https://github.com/michelderooij/EDCA/issues/3#issuecomment-4399893943)
-- [michelderooij released v1.0.0.4 at michelderooij/EDCA](https://github.com/michelderooij/EDCA/releases/tag/v1.0.0.4)
+- [michelderooij pushed EDCA](https://github.com/michelderooij/EDCA/compare/8c12c7d233...d222547cde)
+- [michelderooij pushed Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/363e5d3d78...d4fa930fa5)
+- [michelderooij opened a pull request in ha-magister-custom](https://github.com/rcAlexterNeuzen/ha-magister-custom/pull/2)
+- [michelderooij pushed ha-magister-custom](https://github.com/michelderooij/ha-magister-custom/compare/db7576fc2a...21b0a8b11d)
+- [michelderooij forked michelderooij/ha-magister-custom from rcAlexterNeuzen/ha-magister-custom](https://github.com/michelderooij/ha-magister-custom)
 <!-- LATESTACTIVITY:END -->
