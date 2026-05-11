@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/74227ad402...840d7cd2b7)
+- [michelderooij released v4.0.0 at michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/releases/tag/v4.0.0)
+- [michelderooij created a branch](https://github.com/michelderooij/Connect-Office365Services/compare/0000000000...d45db605db)
 - [Hotfix Update Exchange SE &lpar;May2026&rpar;](https://eightwone.com/2026/05/09/hotfix-update-exchange-se-may2026/)
 - [michelderooij assigned an issue in EDCA](https://github.com/michelderooij/EDCA/issues/4)
-- [michelderooij pushed EDCA](https://github.com/michelderooij/EDCA/compare/8c12c7d233...d222547cde)
-- [michelderooij pushed Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/363e5d3d78...d4fa930fa5)
-- [michelderooij opened a pull request in ha-magister-custom](https://github.com/rcAlexterNeuzen/ha-magister-custom/pull/2)
 <!-- LATESTACTIVITY:END -->
