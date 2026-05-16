@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
-- [michelderooij released v4.0.4 at michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/releases/tag/v4.0.4)
-- [michelderooij pushed Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/36543d1015...b1004b0ebb)
-- [michelderooij released v4.0.3 at michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/releases/tag/v4.0.3)
-- [michelderooij released v1.0.0.5 at michelderooij/EDCA](https://github.com/michelderooij/EDCA/releases/tag/v1.0.0.5)
-- [michelderooij pushed EDCA](https://github.com/michelderooij/EDCA/compare/d222547cde...05562de0eb)
+- [michelderooij pushed Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/d17a1272b9...965850f647)
+- [michelderooij pushed EDCA](https://github.com/michelderooij/EDCA/compare/d82e977abc...26428170f0)
+- [michelderooij closed an issue in EDCA](https://github.com/michelderooij/EDCA/issues/4)
+- [michelderooij commented on an issue in EDCA](https://github.com/michelderooij/EDCA/issues/4#issuecomment-4464152367)
+- [michelderooij closed an issue in Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/issues/16)
 <!-- LATESTACTIVITY:END -->
