@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
-- [michelderooij pushed PIMfox-for-Entra](https://github.com/michelderooij/PIMfox-for-Entra/compare/3f30140b12...b14477e525)
+- [michelderooij released 1.3.1 at michelderooij/PIMfox-for-Entra](https://github.com/michelderooij/PIMfox-for-Entra/releases/tag/1.3.1)
+- [michelderooij pushed PIMfox-for-Entra](https://github.com/michelderooij/PIMfox-for-Entra/compare/3b8f31d9a9...38b2a94ce3)
 - [michelderooij released 1.3.0 at michelderooij/PIMfox-for-Entra](https://github.com/michelderooij/PIMfox-for-Entra/releases/tag/1.3.0)
 - [michelderooij released v4.0.6 at michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/releases/tag/v4.0.6)
 - [michelderooij pushed Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/c0ec9848ee...da10c88baa)
-- [michelderooij contributed to rcAlexterNeuzen/ha-magister-custom](https://github.com/rcAlexterNeuzen/ha-magister-custom/pull/2)
 <!-- LATESTACTIVITY:END -->
