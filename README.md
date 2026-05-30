@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
-- [michelderooij pushed PIMfox-for-Entra](https://github.com/michelderooij/PIMfox-for-Entra/compare/29eedaf5ad...c53c41994c)
+- [michelderooij pushed Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/e938ad8e7a...8d917ca6c0)
+- [michelderooij pushed PIMfox-for-Entra](https://github.com/michelderooij/PIMfox-for-Entra/compare/3b82560c3a...5386a97dba)
 - [michelderooij released 1.4.0 at michelderooij/PIMfox-for-Entra](https://github.com/michelderooij/PIMfox-for-Entra/releases/tag/1.4.0)
 - [michelderooij released 1.3.1 at michelderooij/PIMfox-for-Entra](https://github.com/michelderooij/PIMfox-for-Entra/releases/tag/1.3.1)
 - [michelderooij released 1.3.0 at michelderooij/PIMfox-for-Entra](https://github.com/michelderooij/PIMfox-for-Entra/releases/tag/1.3.0)
-- [michelderooij released v4.0.6 at michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/releases/tag/v4.0.6)
 <!-- LATESTACTIVITY:END -->
