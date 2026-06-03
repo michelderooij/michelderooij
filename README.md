@@ -21,7 +21,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
-- [michelderooij pushed Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/e938ad8e7a...8d917ca6c0)
+- [michelderooij pushed Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/8d917ca6c0...b9e48357c5)
 - [michelderooij pushed PIMfox-for-Entra](https://github.com/michelderooij/PIMfox-for-Entra/compare/3b82560c3a...5386a97dba)
 - [michelderooij released 1.4.0 at michelderooij/PIMfox-for-Entra](https://github.com/michelderooij/PIMfox-for-Entra/releases/tag/1.4.0)
 - [michelderooij released 1.3.1 at michelderooij/PIMfox-for-Entra](https://github.com/michelderooij/PIMfox-for-Entra/releases/tag/1.3.1)
