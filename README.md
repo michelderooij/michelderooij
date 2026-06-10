@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/3189f4ae31...66eec6ae1d)
+- [Security Updates Exchange SE, 2019 &amp; 2016  &lpar;Jun2026&rpar;](https://eightwone.com/2026/06/09/security-updates-exchange-se-2019-2016-jun2026/)
 - [michelderooij released v4.0.7 at michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/releases/tag/v4.0.7)
 - [michelderooij pushed Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/da10c88baa...060ba5a3fb)
 - [michelderooij closed an issue in Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/48)
-- [michelderooij commented on an issue in Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/48#issuecomment-4617174267)
-- [michelderooij pushed Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/0c09b8fd17...3189f4ae31)
 <!-- LATESTACTIVITY:END -->
