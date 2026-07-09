@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed EDCA](https://github.com/michelderooij/EDCA/compare/9104fc043a...eba4c61065)
+- [michelderooij released v1.0.0.7 at michelderooij/EDCA](https://github.com/michelderooij/EDCA/releases/tag/v1.0.0.7)
 - [michelderooij released v1.0.0.6 at michelderooij/EDCA](https://github.com/michelderooij/EDCA/releases/tag/v1.0.0.6)
-- [michelderooij pushed EDCA](https://github.com/michelderooij/EDCA/compare/f36566dbd7...764ed000e3)
 - [Microsoft 365 for IT Pros &lpar;2027 Edition&rpar;](https://eightwone.com/2026/07/01/microsoft-365-for-it-pros-2027-edition/)
 - [michelderooij closed an issue in Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/49)
-- [michelderooij reopened an issue in Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/49)
 <!-- LATESTACTIVITY:END -->
