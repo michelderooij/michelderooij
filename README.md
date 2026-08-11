@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed Invoke-MailboxPermissionCleaner](https://github.com/michelderooij/Invoke-MailboxPermissionCleaner/compare/2de0da6285...aef968c6d7)
+- [michelderooij made this repository public](https://github.com/michelderooij/Invoke-MailboxPermissionCleaner)
 - [michelderooij pushed michelderooij](https://github.com/michelderooij/michelderooij/compare/5473a5b36e...18cd5e42f9)
 - [MVPs around the World &lpar;2026&rpar;](https://eightwone.com/2026/08/03/mvps-around-the-world-2026/)
 - [Security Updates Exchange 2016-SE &lpar;Jul2026&rpar;](https://eightwone.com/2026/07/15/security-updates-exchange-2016-se-jul2026/)
-- [michelderooij pushed EDCA](https://github.com/michelderooij/EDCA/compare/43cdf8efb5...667302bc90)
-- [michelderooij released v1.0.1.1 at michelderooij/EDCA](https://github.com/michelderooij/EDCA/releases/tag/v1.0.1.1)
 <!-- LATESTACTIVITY:END -->
