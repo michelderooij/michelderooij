@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij assigned an issue in Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/50)
+- [michelderooij commented on an issue in Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/50#issuecomment-5367502213)
 - [michelderooij commented on an issue in ConditionalAccessBaseline](https://github.com/j0eyv/ConditionalAccessBaseline/issues/34#issuecomment-5294255812)
 - [michelderooij closed an issue in ConditionalAccessBaseline](https://github.com/j0eyv/ConditionalAccessBaseline/issues/34)
 - [michelderooij opened an issue in ConditionalAccessBaseline](https://github.com/j0eyv/ConditionalAccessBaseline/issues/34)
-- [Security Updates Exchange 2016-SE &lpar;Aug2026&rpar;](https://eightwone.com/2026/08/11/security-updates-exchange-2016-se-aug2026/)
-- [michelderooij pushed Invoke-MailboxPermissionCleaner](https://github.com/michelderooij/Invoke-MailboxPermissionCleaner/compare/aef968c6d7...06d827124b)
 <!-- LATESTACTIVITY:END -->
