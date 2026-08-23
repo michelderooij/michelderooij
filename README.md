@@ -21,7 +21,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
-- [michelderooij commented on an issue in Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/50#issuecomment-5370389028)
+- [michelderooij commented on an issue in Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/50#issuecomment-5382861770)
 - [michelderooij closed an issue in Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/50)
 - [michelderooij pushed Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/66eec6ae1d...6a080bd7ea)
 - [michelderooij assigned an issue in Get-EventSession](https://github.com/michelderooij/Get-EventSession/issues/50)
