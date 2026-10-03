@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [V2 Security Updates Exchange 2016-SE &lpar;Sep2026&rpar;](https://eightwone.com/2026/10/03/v2-security-updates-exchange-2016-se-sep2026/)
 - [michelderooij pushed Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/35fd87f549...18aa85af92)
 - [Security Updates Exchange 2016-SE &lpar;Sep2026&rpar;](https://eightwone.com/2026/09/08/security-updates-exchange-2016-se-sep2026/)
 - [Security Updates Exchange 2016-SE &lpar;Aug2026&rpar;](https://eightwone.com/2026/08/11/security-updates-exchange-2016-se-aug2026/)
 - [MVPs around the World &lpar;2026&rpar;](https://eightwone.com/2026/08/03/mvps-around-the-world-2026/)
-- [Security Updates Exchange 2016-SE &lpar;Jul2026&rpar;](https://eightwone.com/2026/07/15/security-updates-exchange-2016-se-jul2026/)
 <!-- LATESTACTIVITY:END -->
