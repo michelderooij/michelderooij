@@ -21,7 +21,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
-- [Windows Server patches breaking Exchange](https://eightwone.com/2026/10/15/windows-server-patches-breaking-exchange/)
+- [Windows Server patches breaking Exchange.](https://eightwone.com/2026/10/15/windows-server-patches-breaking-exchange/)
 - [Security Updates Exchange 2016-SE &lpar;Oct2026&rpar;](https://eightwone.com/2026/10/13/security-updates-exchange-2016-se-oct2026/)
 - [michelderooij pushed Install-Exchange15](https://github.com/michelderooij/Install-Exchange15/compare/f5be64410a...19346df4d9)
 - [V2 Security Updates Exchange 2016-SE &lpar;Sep2026&rpar;](https://eightwone.com/2026/10/03/v2-security-updates-exchange-2016-se-sep2026/)
