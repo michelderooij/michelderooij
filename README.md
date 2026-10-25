@@ -23,7 +23,7 @@ You can contact me via the contact form at https://eightwone.com/contact.
 <!-- LATESTACTIVITY:START -->
 - [michelderooij released v4.0.9 at michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/releases/tag/v4.0.9)
 - [michelderooij released v1.0.1.2 at michelderooij/EDCA](https://github.com/michelderooij/EDCA/releases/tag/v1.0.1.2)
+- [michelderooij pushed EDCA](https://github.com/michelderooij/EDCA/compare/4981876226...766c476a78)
 - [michelderooij contributed to michelderooij/EDCA](https://github.com/michelderooij/EDCA/pull/7)
 - [michelderooij created a branch](https://github.com/michelderooij/EDCA/compare/0000000000...c715855594)
-- [Windows Server patches breaking Exchange.](https://eightwone.com/2026/10/15/windows-server-patches-breaking-exchange/)
 <!-- LATESTACTIVITY:END -->
