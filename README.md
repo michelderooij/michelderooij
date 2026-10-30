@@ -22,8 +22,8 @@ You can contact me via the contact form at https://eightwone.com/contact.
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
 - [michelderooij opened a pull request in ha-magister-custom](https://github.com/rcAlexterNeuzen/ha-magister-custom/pull/3)
+- [michelderooij created a branch](https://github.com/michelderooij/ha-magister-custom/compare/0000000000...b0ae854c80)
 - [michelderooij forked michelderooij/ha-magister-custom from rcAlexterNeuzen/ha-magister-custom](https://github.com/michelderooij/ha-magister-custom)
 - [michelderooij released v4.0.9 at michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/releases/tag/v4.0.9)
 - [michelderooij pushed Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/a1a8ea3f2e...768351c7e5)
-- [michelderooij released v1.0.1.2 at michelderooij/EDCA](https://github.com/michelderooij/EDCA/releases/tag/v1.0.1.2)
 <!-- LATESTACTIVITY:END -->
