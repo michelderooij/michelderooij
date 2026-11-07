@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed PIMfox-for-Entra](https://github.com/michelderooij/PIMfox-for-Entra/compare/8b5b298649...b5a78776f9)
 - [michelderooij pushed Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/8763dc0384...23eb7b72e0)
 - [michelderooij pushed EDCA](https://github.com/michelderooij/EDCA/compare/766c476a78...cc1a5fa517)
 - [michelderooij contributed to rcAlexterNeuzen/ha-magister-custom](https://github.com/rcAlexterNeuzen/ha-magister-custom/pull/3)
 - [michelderooij created a branch](https://github.com/michelderooij/ha-magister-custom/compare/0000000000...b0ae854c80)
-- [michelderooij forked michelderooij/ha-magister-custom from rcAlexterNeuzen/ha-magister-custom](https://github.com/michelderooij/ha-magister-custom)
 <!-- LATESTACTIVITY:END -->
