@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [Security Updates Exchange SE &lpar;Nov2026&rpar;](https://eightwone.com/2026/11/10/security-updates-exchange-se-nov2026/)
 - [michelderooij released v4.0.10 at michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/releases/tag/v4.0.10)
 - [michelderooij closed an issue in Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/issues/17)
 - [michelderooij commented on an issue in Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/issues/17#issuecomment-6723056733)
 - [michelderooij pushed Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/768351c7e5...f201fc0390)
-- [michelderooij pushed PIMfox-for-Entra](https://github.com/michelderooij/PIMfox-for-Entra/compare/5386a97dba...8b5b298649)
 <!-- LATESTACTIVITY:END -->
