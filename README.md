@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij pushed EDCA](https://github.com/michelderooij/EDCA/compare/628e674aff...f167c95ed5)
 - [michelderooij released v1.0.2.1 at michelderooij/EDCA](https://github.com/michelderooij/EDCA/releases/tag/v1.0.2.1)
 - [michelderooij released v1.0.2.0 at michelderooij/EDCA](https://github.com/michelderooij/EDCA/releases/tag/v1.0.2.0)
-- [michelderooij pushed EDCA](https://github.com/michelderooij/EDCA/compare/830cc45f66...61e76148fc)
 - [michelderooij pushed Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/67fa75a02b...e492da0cef)
 - [Security Updates Exchange SE &lpar;Nov2026&rpar;](https://eightwone.com/2026/11/10/security-updates-exchange-se-nov2026/)
 <!-- LATESTACTIVITY:END -->
