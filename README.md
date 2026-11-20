@@ -21,9 +21,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
-- [michelderooij released v1.0.2.1 at michelderooij/EDCA](https://github.com/michelderooij/EDCA/releases/tag/v1.0.2.1)
-- [michelderooij released v1.0.2.0 at michelderooij/EDCA](https://github.com/michelderooij/EDCA/releases/tag/v1.0.2.0)
-- [michelderooij pushed EDCA](https://github.com/michelderooij/EDCA/compare/cc1a5fa517...6c2ea3cefd)
-- [michelderooij pushed Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/67fa75a02b...e492da0cef)
-- [Security Updates Exchange SE &lpar;Nov2026&rpar;](https://eightwone.com/2026/11/10/security-updates-exchange-se-nov2026/)
+- [Exchange Named Property Exhaustion](https://eightwone.com/2026/11/19/exchange-named-property-exhaustion/)
+- [michelderooij pushed ExchangeMEPTools](https://github.com/michelderooij/ExchangeMEPTools/compare/7dc02e21b7...a6633c45dc)
+- [michelderooij contributed to michelderooij/ExchangeMEPTools](https://github.com/michelderooij/ExchangeMEPTools/pull/1)
+- [michelderooij created a branch](https://github.com/michelderooij/ExchangeMEPTools/compare/0000000000...c8bb7592e9)
+- [michelderooij released v0.9.0 at michelderooij/ExchangeMEPTools](https://github.com/michelderooij/ExchangeMEPTools/releases/tag/v0.9.0)
 <!-- LATESTACTIVITY:END -->
