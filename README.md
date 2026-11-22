@@ -22,8 +22,8 @@ You can contact me via the contact form at https://eightwone.com/contact.
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
 - [Exchange Named Property Exhaustion](https://eightwone.com/2026/11/19/exchange-named-property-exhaustion/)
-- [michelderooij pushed ExchangeMEPTools](https://github.com/michelderooij/ExchangeMEPTools/compare/7dc02e21b7...a6633c45dc)
 - [michelderooij contributed to michelderooij/ExchangeMEPTools](https://github.com/michelderooij/ExchangeMEPTools/pull/1)
 - [michelderooij created a branch](https://github.com/michelderooij/ExchangeMEPTools/compare/0000000000...65ab3f80eb)
+- [michelderooij pushed ExchangeMEPTools](https://github.com/michelderooij/ExchangeMEPTools/compare/1830ed7dbb...65ab3f80eb)
 - [michelderooij released v0.9.0 at michelderooij/ExchangeMEPTools](https://github.com/michelderooij/ExchangeMEPTools/releases/tag/v0.9.0)
 <!-- LATESTACTIVITY:END -->
