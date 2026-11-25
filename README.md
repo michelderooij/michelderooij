@@ -18,8 +18,8 @@ You can contact me via the contact form at https://eightwone.com/contact.
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
 - [Ignite 2026 Digest](https://eightwone.com/2026/11/25/ignite-2026-digest/)
+- [michelderooij pushed Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/c5e017177e...3c999b2a2c)
 - [michelderooij pushed ExchangeMEPTools](https://github.com/michelderooij/ExchangeMEPTools/compare/2d411fbddf...3c3078dcc4)
 - [Exchange Named Property Exhaustion](https://eightwone.com/2026/11/19/exchange-named-property-exhaustion/)
 - [michelderooij contributed to michelderooij/ExchangeMEPTools](https://github.com/michelderooij/ExchangeMEPTools/pull/1)
-- [michelderooij created a branch](https://github.com/michelderooij/ExchangeMEPTools/compare/0000000000...65ab3f80eb)
 <!-- LATESTACTIVITY:END -->
