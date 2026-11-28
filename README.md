@@ -17,9 +17,9 @@ You can contact me via the contact form at https://eightwone.com/contact.
 
 ## Recent activities
 <!-- LATESTACTIVITY:START -->
+- [michelderooij released v4.0.12 at michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/releases/tag/v4.0.12)
+- [michelderooij commented on an issue in Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/issues/18#issuecomment-7229162207)
+- [michelderooij pushed Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/compare/aaadbb6ee4...3379d75271)
+- [michelderooij released v4.0.11 at michelderooij/Connect-Office365Services](https://github.com/michelderooij/Connect-Office365Services/releases/tag/v4.0.11)
 - [michelderooij pushed ExchangeMEPTools](https://github.com/michelderooij/ExchangeMEPTools/compare/3c3078dcc4...6ffb9c4287)
-- [michelderooij pushed michelderooij](https://github.com/michelderooij/michelderooij/compare/25abca6849...d9a21c47f8)
-- [Ignite 2026 Digest](https://eightwone.com/2026/11/25/ignite-2026-digest/)
-- [michelderooij pushed Get-EventSession](https://github.com/michelderooij/Get-EventSession/compare/c5e017177e...3c999b2a2c)
-- [Exchange Named Property Exhaustion](https://eightwone.com/2026/11/19/exchange-named-property-exhaustion/)
 <!-- LATESTACTIVITY:END -->
